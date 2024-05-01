@@ -27,9 +27,30 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "posts",
-        path: `${__dirname}/content/posts`
+        name: "history",
+        path: `${__dirname}/content/posts/history_art`
       }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "thoughts",
+        path: `${__dirname}/content/posts/thoughts`
+      }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "reviews",
+        path: `${__dirname}/content/posts/reviews`
+      }
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "tech",
+        path: `${__dirname}/content/posts/tech`,
+      },
     },
     {
       resolve: "gatsby-source-filesystem",

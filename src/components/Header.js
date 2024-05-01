@@ -11,22 +11,22 @@ export default function Header(props) {
         </Link>
         <div>
           <h1>
-            <Link to="/info" activeClassName={headerStyles.navItemActive}>
+            <Link to="/thoughts" activeClassName={headerStyles.navItemActive}>
               thoughts
             </Link>
           </h1>
           <h1>
-            <Link to="/info" activeClassName={headerStyles.navItemActive}>
-              history
+            <Link to="/history_art" activeClassName={headerStyles.navItemActive}>
+              history & art
             </Link>
           </h1>
           <h1>
-            <Link to="/info" activeClassName={headerStyles.navItemActive}>
+            <Link to="/reviews" activeClassName={headerStyles.navItemActive}>
               reviews
             </Link>
           </h1>
           <h1>
-            <Link to="/info" activeClassName={headerStyles.navItemActive}>
+            <Link to="/tech" activeClassName={headerStyles.navItemActive}>
               tech
             </Link>
           </h1>

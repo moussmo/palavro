@@ -6,6 +6,7 @@ export default function useBlogData() {
       allMarkdownRemark {
       edges {
         node {
+          fileAbsolutePath
           frontmatter {
             slug
             author

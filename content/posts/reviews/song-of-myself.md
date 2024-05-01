@@ -2,8 +2,8 @@
 author: "Ralph Waldo Emerson"
 title: "Song of Myself"
 date: "2021-07-24"
-slug: "another-post6"
-hero_image: "../images/ren-ran-bBiuSdck8tU-unsplash.jpg"
+slug: "song-of-myself"
+hero_image: "../../images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"
 hero_image_credit_text: "Anthony Duran"
 hero_image_credit_link: "https://unsplash.com/photos/eLUBGqKGdE4"
@@ -22,7 +22,7 @@ Urge and urge and urge, Always the procreant urge of the world.
 
 Clear and sweet is my soul, and clear and sweet is all that is not my soul.
 
-![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
+![](../../images/igor-son-FV_PxCqgtwc-unsplash.jpg)
 
 Lack one lacks both, and the unseen is proved by the seen,  
  Till that becomes unseen and receives proof in its turn.

@@ -2,8 +2,8 @@
 author: "Allen Ginsberg"
 title: "Sunflower Sutra"
 date: "2021-07-24"
-slug: "another-post7"
-hero_image: "../images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+slug: "sunflower-sutra"
+hero_image: "../../images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"
 hero_image_credit_text: "Anthony Duran"
 hero_image_credit_link: "https://unsplash.com/photos/eLUBGqKGdE4"
@@ -13,7 +13,7 @@ I walked on the banks of the tincan banana dock and sat down under the huge shad
 
 Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+![](../../images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
 The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
 

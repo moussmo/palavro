@@ -2,17 +2,27 @@ import React from "react"
 import { Link } from "gatsby"
 import useBlogData from "../static_queries/useBlogData"
 import * as blogListStyles from "../styles/components/bloglist.module.scss"
-import {GatsbyImage, getImage, StaticImage} from 'gatsby-plugin-image'
+import {GatsbyImage, getImage} from 'gatsby-plugin-image'
 
-export default function BlogList() {
+export default function BlogList({type}) {
   const blogData = useBlogData()
   function renderBlogData() {
     return (
       <div>
         {blogData
           .filter(blog => blog.node.frontmatter.title !== "")
+          .filter(blog => {
+            if (type!=undefined){
+              const article_type = blog.node.fileAbsolutePath.split('/').reverse()[1]
+              return type == article_type
+            }
+            else {
+              return true
+            }
+          })
           .map(blog => {
             const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
+            const article_type = blog.node.fileAbsolutePath.split('/').reverse()[1]
             return (
               <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
                 <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
