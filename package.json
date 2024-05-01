@@ -1,0 +1,50 @@
+{
+  "name": "foresry-starter-blog-gatsby",
+  "private": true,
+  "description": "A simple starter blog to get up and developing quickly with Forestry & Gatsby",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": "kendall strautman",
+  "scripts": {
+    "build": "gatsby build",
+    "dev": "gatsby develop -o",
+    "develop": "yarn dev",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "yarn dev",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
+    "forestry-preview": "gatsby develop -p 8080 -H 0.0.0.0"
+  },
+  "dependencies": {
+    "gatsby": "*",
+    "gatsby-plugin-image": "^3.13.1",
+    "gatsby-plugin-mdx": "^5.13.1",
+    "gatsby-plugin-react-helmet": "*",
+    "gatsby-plugin-sass": "*",
+    "gatsby-plugin-sharp": "*",
+    "gatsby-remark-images": "*",
+    "gatsby-remark-normalize-paths": "*",
+    "gatsby-remark-relative-images": "*",
+    "gatsby-source-filesystem": "*",
+    "gatsby-transformer-remark": "*",
+    "gatsby-transformer-sharp": "*",
+    "gatsby-transformer-yaml": "*",
+    "node-sass": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-helmet": "*",
+    "typescript": "*",
+    "webpack": "*"
+  },
+  "devDependencies": {
+    "prettier": "*"
+  },
+  "keywords": [
+    "gatsby",
+    "forestry"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
+  }
+}
