@@ -11,9 +11,6 @@ export default function Layout(props) {
       className={`${layoutStyles.layout} ${
         props.page === "info" && 
         layoutStyles.info_page}`}
-      style={{
-        backgroundColor: props.bgColor,
-      }}
     >
       <Helmet>
         <html lang="en" />

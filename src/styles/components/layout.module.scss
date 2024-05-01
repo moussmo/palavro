@@ -2,6 +2,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-color: #874F41;
   &.info_page {
     color: #EBEBEB;
   }
@@ -9,6 +10,9 @@
 
 .content {
   flex-grow: 1;
+  min-height : 100vh;
+  color : #244855;
+  background-color: #FBE9D0;
 }
 
 @media (min-width: 768px) {
@@ -16,8 +20,6 @@
     display: block;
   }
   .content {
-    flex-grow: none;
-    width: 70%;
-    margin-left: 30%;
+    margin-left: 25%;
   }
 }
