@@ -14,8 +14,8 @@ export default function BlogList() {
           .map(blog => {
             const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
             return (
-              <Link to={`/blog/${blog.node.fields.slug}`} key={blog.node.id}>
-                <li className={blogListStyles.li} key={blog.node.fields.slug}>
+              <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
+                <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
                   <div className={blogListStyles.list__hero}>
                     <GatsbyImage image={image} alt = "hi"/>
                   </div>

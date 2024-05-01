@@ -7,6 +7,7 @@ export default function useBlogData() {
       edges {
         node {
           frontmatter {
+            slug
             author
             date
             title
@@ -15,9 +16,6 @@ export default function useBlogData() {
                 gatsbyImageData
               }
             }
-          }
-          fields {
-            slug
           }
           excerpt
         }
