@@ -4,7 +4,13 @@ import * as headerStyles from "../styles/components/header.module.scss"
 
 export default function Header(props) {
   return (
-    <header className={`${headerStyles.header} ${props.page === 'info' && headerStyles.info_page}`}>
+    <header className={`${headerStyles.header} 
+    ${props.page === 'home' && headerStyles.home}
+    ${props.page === 'reviews' && headerStyles.reviews}
+    ${props.page === 'tech' && headerStyles.tech}
+    ${props.page === 'thoughts' && headerStyles.thoughts}
+    ${props.page === 'history_art' && headerStyles.history_art}
+    ${props.page === 'info' && headerStyles.info}`}>
       <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
         <Link to="/">
           <h1>{props.title}</h1>
