@@ -11,7 +11,7 @@ export default function Blog(props) {
   const image = getImage(data.frontmatter.hero_image.childImageSharp.gatsbyImageData)
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.frontmatter.slug)
-
+  const articleType = data.fileAbsolutePath.split('/').reverse()[1]
   function getNextSlug(slug) {
     const allSlugs = allBlogData.map(blog => {
       return blog.node.frontmatter.slug
@@ -25,7 +25,7 @@ export default function Blog(props) {
   }
 
   return (
-    <Layout>
+    <Layout page={articleType}>
       <article className={blogTemplateStyles.blog}>
         <figure className={blogTemplateStyles.blog__hero}>
           <GatsbyImage image={image} alt='hey'/>
@@ -58,6 +58,7 @@ export default function Blog(props) {
 export const getPostData = graphql`
   query($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      fileAbsolutePath
       frontmatter {
         slug
         title

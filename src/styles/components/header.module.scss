@@ -52,6 +52,8 @@
   .header {
     height: 100vh;
     width: 23%;
+    min-width: 23%;
+    max-width: 23%;
     position: fixed;
     left: 0;
     top: 0;
@@ -68,35 +70,5 @@
     img {
       margin-bottom: 0;
     }
-  }
-
-  .home {
-    background-image : url("~/static/background_home_erik-n1VbsCPevyk-unsplash.png");
-    background-size : cover;
-  }
-
-  .reviews {
-    background-image : url("~/static/background_reviews_melanie-nobaru-vxREYqWBCLU-unsplash.jpg");
-    background-size : cover;
-  }
-  
-  .tech {
-    background-image : url("~/static/background_tech_david-becker-crs2vlkSe98-unsplash.jpg");
-    background-size : cover;
-  }
-  
-  .history_art {
-    background-image : url("~/static/background_history_art_olivia-anne-snyder-w15i7-iiwws-unsplash.jpg");
-    background-size : cover;
-  }
-  
-  .info {
-    background-image : url("~/static/background_info_laura-vinck-Hyu76loQLdk-unsplash.jpg");
-    background-size : cover;
-  }
-  
-  .thoughts {
-    background-image : url("~/static/background_thoughts_sebaty_jp--lg7Zlsfquo-unsplash.jpg");
-    background-size : cover;
   }
 }
