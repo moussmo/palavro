@@ -18,7 +18,7 @@
 .blog__info {
   padding: 1.5rem 1.25rem;
   width: 100%;
-  max-width: 768px;
+  max-width: 1161px;
   margin: 0 auto;
   h1 {
     margin-bottom: 0.66rem;
@@ -81,7 +81,7 @@
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1161px) {
   .blog {
     display: flex;
     flex-direction: column;
