@@ -4,11 +4,9 @@
     li {
       .list__hero {
         div {
-          picture {
               opacity: 0.8;
               transition: opacity 0.3s ease;
             
-          }
         }
       }
     }
@@ -17,7 +15,6 @@
     width: 100%;
     height: 33vh;
     overflow: hidden;
-    background-color: #000;
     img {
       object-fit: cover;
       object-position: 50% 50%;
@@ -36,6 +33,7 @@
     flex-direction: column;
     justify-content: center;
     padding: 1.5rem 1.25rem;
+    width : 350px;
     h2,
     h3,
     p {
@@ -49,7 +47,7 @@
   li {
     opacity: inherit;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     flex-direction: column;
     min-height: 38vh;
     margin-bottom: 0;
@@ -67,6 +65,9 @@
 
 @media (min-width: 768px) {
   .list {
+    display : flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     a:hover {
       opacity: 1;
       li {
@@ -84,20 +85,15 @@
     }
     li {
       min-height: 250px;
-      height: 33.333vh;
+      height: 30vh;
       flex-direction: row;
     }
     .list__hero {
       height: 100%;
-      img {
-        min-width: 100%;
-        height: 100%;
-        width: auto;
-        min-height: 0;
-      }
+      width : 320px;
     }
     .list__info {
-      min-width: 70%;
+      width : 500px;
     }
   }
 }
@@ -105,7 +101,7 @@
 @media (min-width: 1280px) {
   .list {
     .list__info {
-      padding: 3rem;
+      padding: 1.5rem;
     }
     h3 {
       margin-bottom: 1.2rem;

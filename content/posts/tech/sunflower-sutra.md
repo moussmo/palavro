@@ -1,7 +1,7 @@
 ---
 author: "Allen Ginsberg"
 title: "Sunflower Sutra"
-date: "2021-07-24"
+date: "2021-07-21"
 slug: "sunflower-sutra"
 hero_image: "../../images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"

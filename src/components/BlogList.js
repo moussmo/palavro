@@ -8,7 +8,7 @@ export default function BlogList({type}) {
   const blogData = useBlogData()
   function renderBlogData() {
     return (
-      <div>
+      <div className={blogListStyles.list}>
         {blogData
           .filter(blog => blog.node.frontmatter.title !== "")
           .filter(blog => {
@@ -22,7 +22,6 @@ export default function BlogList({type}) {
           })
           .map(blog => {
             const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
-            const article_type = blog.node.fileAbsolutePath.split('/').reverse()[1]
             return (
               <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
                 <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
@@ -43,7 +42,7 @@ export default function BlogList({type}) {
   }
   return (
     <section>
-      <ul className={blogListStyles.list}>{renderBlogData()}</ul>
+      <ul >{renderBlogData()}</ul>
     </section>
   )
 }

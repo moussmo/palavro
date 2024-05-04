@@ -1,7 +1,7 @@
 ---
 author: "Friedrich Nietzsche"
 title: "On the Geneology of Morals"
-date: "2021-07-24"
+date: "2021-07-20"
 slug: "on-the-geneology-of-morals"
 hero_image: "../../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"
