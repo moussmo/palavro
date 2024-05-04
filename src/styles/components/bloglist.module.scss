@@ -63,11 +63,12 @@
 
 @media (min-width: 1161px) {
   .list {
-    // display : flex;
-    // flex-direction: row;
-    // flex-wrap: wrap;
-    display : grid;
-    grid-template-columns : repeat(auto-fit, minmax(800px, 1fr));
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items : center;
+    // display : grid;
+    // grid-template-columns : repeat(auto-fit, minmax(800px, 1fr));
     a:hover {
       opacity: 1;
       li {
@@ -87,7 +88,6 @@
       min-height: 250px;
       height: 30vh;
       flex-direction: row;
-      margin-right : 5rem;
     }
     .list__hero {
       height: 100%; 
@@ -95,7 +95,7 @@
       max-width : 320px;
     }
     .list__info {
-      min-width : 500px;
+      width: clamp(300px, 60%, 60%);
     }
   }
 }
