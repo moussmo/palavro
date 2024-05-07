@@ -9,15 +9,23 @@
   flex-grow: 1;
   min-height : 100vh;
   color : #244855;
-  background-color: #FBE9D0;
+  // background-color: #FBE9D0;
+  background-color: #faefe1;
 }
 
+.section__title{
+  color : #874F41;
+  font-size : 60px;
+  display : flex;
+  justify-content: center;
+  padding : 2rem 0 3rem 0;
+}
 
 @media (min-width: 1161px) {
   .layout {
     display: block;
   }
   .content {
-    margin-left: clamp(400px, 20%,20%);
+    margin-left: clamp(400px, 20%, 20%);
   }
 }

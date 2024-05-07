@@ -6,9 +6,10 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 export default function IndexPage() {
   return (
     <Layout page="home">
-      <section>
+        <div className={layoutStyles.section__title}>
+          Latest posts
+        </div>
         <BlogList />
-      </section>
     </Layout>
   )
 }

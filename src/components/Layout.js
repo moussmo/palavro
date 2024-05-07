@@ -7,9 +7,7 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 export default function Layout(props) {
   const { title, description } = useSiteMetadata()
   return (
-    <section
-      className={`${layoutStyles.layout}`}
-    >
+    <section className={`${layoutStyles.layout}`}>
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
