@@ -3,7 +3,6 @@ import { graphql, Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
 
 export default function Header(props) {
-  const backgroundImage = graphql``
   return (
     <header className={`${headerStyles.header} 
     ${props.page === 'home' && headerStyles.home}
