@@ -2,7 +2,7 @@
 author: "Ralph Waldo Emerson"
 title: "Song of Myself"
 date: "2021-07-22"
-slug: "song-of-myself"
+slug: "song-of-myself2"
 hero_image: "../../images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"
 hero_image_credit_text: "Anthony Duran"
