@@ -1,5 +1,5 @@
 ---
-author: "Ralph Waldo Emerson"
+author: "Mohamed Moussaoui"
 title: "The Leopard, by Giuseppe Tomasi di Lampedusa"
 date: "2024-04-21"
 slug: "the-leopard-tomasi-di-lampedusa"
