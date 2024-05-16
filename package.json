@@ -22,6 +22,7 @@
     "gatsby-plugin-react-helmet": "*",
     "gatsby-plugin-sass": "*",
     "gatsby-plugin-sharp": "*",
+    "gatsby-react-router-scroll": "*",
     "gatsby-remark-images": "*",
     "gatsby-remark-normalize-paths": "*",
     "gatsby-remark-relative-images": "*",

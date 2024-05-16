@@ -18,8 +18,15 @@ Since we are talking about the largest art museum in the world, I couldn't think
 
 The present article is dedicated to the first route. You can check out the second one here.
 
+[Step 1: entering the Denon wing](#step-1-entering-the-denon-wing)
+
+<!-- <a name="step1"> -->
+
 # Step 1: entering the Denon wing
-Assuming you already bought your ticket and figured out that the main entrance of the museum is actually the controversial glass pyramid, you should now be facing 3 different rising escalators, each opening the way to one of the 3 different wings of the Louvre. Head to the one that has *Aile Denon* written next to it, and do not forgot to grab one of those nice museum maps that are waiting for you at the welcome desk.
+
+<!-- </a> -->
+
+Assuming you already bought your ticket and figured out that the main entrance of the museum is actually through the controversial glass pyramid, you should now be facing 3 different rising escalators, each opening the way to one of the 3 different wings of the Louvre. Head to the one that has *Aile Denon* written next to it, and do not forgot to grab one of those nice museum maps that are waiting for you at the welcome desk.
 
 Walk through the ticket check, cross the corridor, then take the circular stairs on your right !
 
@@ -48,14 +55,23 @@ Directly to your left after you come in, you will find "Psyche revived by the Ki
 Yet somehow, Cavano's beautiful art is outshined by an even greater masterpiece in the Galerie Michel-Ange, the star of the room which comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
 
 ## The Dying Slave and The Rebellious Slave:
-I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, Michelangelo's other work should definitely be given attention. The Louvre posesses the twin sculptures of The Dying Slave and The Rebellious Slave, the former being a tad more popular than the latter because of the incredible amount of detail that went in its creation. \
-Something that I always found true about Michelangelo's work is that, regardless of whether you're an expert at appreciating art or not, when facing it you will always find yourself captivated by its tremendous beauty, softly mouthing "wow" as you understand the pure genius behind the art.
+I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, Michelangelo's other work should definitely be given attention. The Louvre posesses the twin sculptures of The Dying Slave and The Rebellious Slave, the former being a tad more popular than the latter. \
+Something that I always find true about Michelangelo's work is that, regardless of whether you're an expert at appreciating art or not, when facing it you will always find yourself captivated by its tremendous beauty, softly mouthing "wow" as you understand the pure genius behind the art.
 
-![michelangelo-slaves](../../images/esclaves-de-michel-ange-musee-du-louvre-sculptures-80fa8f.jpg) 
+![michelangelo-slaves](../../images/jean-baptiste-d-mTfhOmhvvQo-unsplash.jpg) 
 
 Instead of passing by the Slaves to go up the stairs sitting behind them, you will now turn around, walk back and leave the Galerie Michel-Ange from where you first entered in, say hi to the pyramid again, and walk forward to the Galerie Daru. 
 
 # Step 4: Roman imperialism in Galerie Daru
+The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've probably heard in the past: Augustus (Octave), Trajan, Commodus, etc.
+
+![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
+
+## The Borghese Gladiator and Vase:
+For a few years now, the galerie has been home to two important antiquities from the notorious Italian Borghese Galerie: the Borghese Gladiator and Vase, which are considered as two of the most important legacies of the Hellenestic period. They are to be found at the entrance of the room. 
+
+When you're done admiring the galerie's art, walk through it and climb up the main stairs.
+
 # Step 5: the soaring wings of Palier Samothrace
 # Step 6: a date with luxury in Galerie d'Apollon
 # Step 7: welcome to the paintings realm of the Grande Galerie
