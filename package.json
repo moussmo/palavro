@@ -30,7 +30,7 @@
     "gatsby-transformer-remark": "*",
     "gatsby-transformer-sharp": "*",
     "gatsby-transformer-yaml": "*",
-    "node-sass": "*",
+    "node-sass": "^9.0.0",
     "react": "*",
     "react-dom": "*",
     "react-helmet": "*",
