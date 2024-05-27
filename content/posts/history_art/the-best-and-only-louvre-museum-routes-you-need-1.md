@@ -50,7 +50,7 @@ Walk through the ticket check, cross the corridor, then take the circular stairs
 # Step 2: grand entrance in Salle du Manège
 </a>
 
-The Salle du Manège might not be the most impressive room in the museum, but it holds many fascinating sculptures. What makes it so unique is that it is one of the rare Louvre rooms in which you can find art pieces from more than 3 different civilizations and from different epochs. In this room, Ramsès II meets Alexander The Great meets a dying Seneca, amongst many others...
+The Salle du Manège might not be the most impressive room in the museum, but it holds many fascinating sculptures. What makes it so interesting is that it is a place in which you can find art pieces from multiple civilizations from different epochs. In this room, Ramsès II meets Alexander The Great meets a dying Seneca, amongst many others...
 
 My two personal favourite pieces of the Salle du Manège are:
 
@@ -60,7 +60,7 @@ A bust of the Roman king of gods. A statue which, in my opinion, faithfully give
 ![jupyter-versailles](../../images/jon-tyson2-5FeklsP6gWk-unsplash.jpg)  
 
 ## The composite statue of Antinous:
-The result of the combination of the body of Greek mythology hero Heracles and the head of Antinous, who was Roman emperor Hadrian's lover. After tragically drowning in the Nile, he was deified by the grieving emperor to be forever worshipped as a god. 
+The result of the combination of the body of Greek mythology hero Heracles and the head of Antinous, who was Roman emperor Hadrian's lover. After tragically drowning in the Nile, he was deified by the grieving emperor to be forever worshipped as a god. The statue is to be find at the back of the room.
 
 Leave the Salle du Manège through the big double door (which is located right where you popped in when you first took the circular stairs), say hi to the Louvre pyramid peeking through the window, and head left to the Galerie Michel-Ange.
 
@@ -74,7 +74,7 @@ Directly to your left after you come in, you will find "Psyche revived by the Ki
 
 ![psyche-cupide](../../images/sara-darcaj-YzamNB_T4WQ-unsplash.jpg)  
 
-Yet somehow, Cavano's beautiful art is outshined by an even greater masterpiece in the Galerie Michel-Ange, the star of the room which comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
+Yet somehow, Canova's beautiful art is not the only the star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
 
 ## The Dying Slave and The Rebellious Slave:
 I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, every single artpiece by Michelangelo could be considered a masterpiece. The Louvre posesses the twin sculptures of The Dying Slave and The Rebellious Slave, the former being a tad more popular than the latter. \
@@ -89,7 +89,7 @@ Instead of passing by the Slaves to go up the stairs sitting behind them, you wi
 # Step 4: Roman imperialism in Galerie Daru
 </a>
 
-The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've probably heard in the past: Augustus (Octave), Trajan, Commodus, etc.
+The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've probably heard in the past: Augustus, Trajan, Commodus, etc.
 
 ![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
 
@@ -107,11 +107,11 @@ When you're done admiring the galerie, wave goodbye to the emperors as you cross
 </a>
 
 Now this is a sight to behold ! \
-Atop the colossal main stairs of the Louvre stands a headless Greek Goddess named Niké. With wings widespread, she is ready to take her flight, joining her fellow gods in mount Olympus.
+Atop the colossal main stairs of the Louvre stands a headless Greek Goddess named Niké. With wings widespread, she lands on the prow of a ship, announcing a forthcoming victory for those who believe in her, or perhaps she is ready to take her flight, joining her fellow gods in mount Olympus.
 
-The *Winged Victory of Samothrace* is perhaps the most important sculpture that popped out of the Hellenestic period. It was discovered by French archaeologist Champoiseau in the Greek island of Samothrace during the 19th century, and it has ever since been a denizen of the Louvre, one of the many jewels the museum is delighted to exhibit. Despite missing her head and a few limbs, the goddess looks stunning !
+The *Winged Victory of Samothrace* is perhaps the most important sculpture that popped out of the Hellenestic period. It was discovered by French archaeologist Champoiseau in the island of Samothrace in the northern Aegean sea during the 19th century, and it has ever since been a denizen of the Louvre, one of the many jewels the museum is delighted to exhibit. Despite missing her head and a few limbs, the goddess looks stunning ! It is one of the rare Hellenestic sculptures that endured the test of time and which are not known through Roman replicas.
 
-To fully appreciate the sculpture and all of its majesty, Louvre experts advise not to stand in front of it but rather move a bit to the right or left so that you could have a 3/4 view of the masterpiece.
+To fully appreciate the sculpture and all of its majesty, art experts advise not to stand in front of it but rather move slightly sto the right or left so that you could have a 3/4 view of the masterpiece.
 
 ![samothrace](../../images/junhyung-park-NKh-_Sy4Oz8-unsplash.jpg)
 
@@ -122,9 +122,9 @@ Onto our next step ! As you face the statue, go left and enter the circular room
 # Step 6: a date with luxury in Galerie d'Apollon
 </a>
 
-Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later the fortress under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this exctravagant monarch began to be known as the Sun King.
+Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this exctravagant monarch began to be known as the Sun King.
 
-In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds embedded in one crown and two diadems belonging to the old royal family. 
+In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: *le Régent*, *l'Hortensia*, *le Sancy*.
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
