@@ -96,9 +96,10 @@ The Galerie Daru is a large room whose two sides are populated by Roman and Etru
 ## The Borghese Gladiator and Vase:
 For a few years now, the galerie has been home to two important antiquities from the notorious Italian Borghese Galerie: the Borghese Gladiator and Vase, which are considered as two of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). They are to be found at the entrance of the room. 
 
-When you're done admiring the galerie, wave goodbye to the emperors as you cross the roomq, then climb up the main stairs.
-
 ![borghese-gladiator](../../images/cliffer-rebelo-33Lc6UtlOcw-unsplash.jpg)
+
+When you're done admiring the galerie, wave goodbye to the emperors as you cross the room, then climb up the main stairs.
+
 
 <a name="step5">
 
@@ -123,7 +124,7 @@ Onto our next step ! As you face the statue, go left and enter the circular room
 
 Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later the fortress under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this exctravagant monarch began to be known as the Sun King.
 
-In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds embedded in one crown and two diadems belonging to the royal family. 
+In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds embedded in one crown and two diadems belonging to the old royal family. 
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
