@@ -128,14 +128,32 @@ In this galerie, anything your eyes lie on is a classicism gem, but not only fig
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
+In the back of the galerie, you will find a door that takes you to your next destination.
 <a name="step7">
 
-# Step 7: welcome to the paintings realm of the Grande Galerie
+# Step 7: welcome to the paintings realm of the Salon Carré and the Grande Galerie
 </a>
+
+Exit sculptures, enter paintings ! (For now at least...)
+
+## Salon Carré
+You are now in the *Sallon Carré*, one of the most iconic Louvre rooms, today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi, among others are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
+
+If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the Sallon Caré, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli : *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts". (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
+
+Leave through the door that faces the Galerie d'Apollon, and walk into the Grande Galerie.
+
+## Grande Galerie
+
+Here is another iconic Louvre galerie, a long majestic hall in which a great collection of Italian paintings is displayed. For a lot of people, this is the image that is conjured when their mind thinks of the Louvre. 
+
+Every artpiece in this galerie is worth to look at, but the most notable ones are *Saint Sebastian* by Mantegna, *The Virgin and the Child* and *La Belle Ferrionnière* by Da Vinci, and *An Old Man and His Grandson* by Ghirlandaio.
+
+You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the Grande Galerie, you will follow the Mona Lisa sign into the Salle des Etats for a quick detour to see the Renaissance lady. 
 
 <a name="step8">
 
-# Step 8: the Italian masterpieces of Salle de la Joconde
+# Step 8: the Italian masterpieces of Salle des Etats
 </a>
 
 <a name="step9">
