@@ -128,7 +128,7 @@ In this galerie, anything your eyes lie on is a classicism gem, but not only fig
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
-In the back of the galerie, you will find a door that takes you to your next destination.
+At the back of the galerie, you will find a door that takes you to your next destination.
 <a name="step7">
 
 # Step 7: welcome to the paintings realm of the Salon Carré and the Grande Galerie
@@ -137,11 +137,11 @@ In the back of the galerie, you will find a door that takes you to your next des
 Exit sculptures, enter paintings ! (For now at least...)
 
 ## Salon Carré
-You are now in the *Sallon Carré*, one of the most iconic Louvre rooms, today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi, among others are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
+The *Sallon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi, among others are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
 
-If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the Sallon Caré, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli : *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts". (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
+If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts*. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
 
-Leave through the door that faces the Galerie d'Apollon, and walk into the Grande Galerie.
+Leave through the door that faces the Galerie d'Apollon (from which you came in), and walk into the Grande Galerie.
 
 ## Grande Galerie
 
@@ -149,12 +149,27 @@ Here is another iconic Louvre galerie, a long majestic hall in which a great col
 
 Every artpiece in this galerie is worth to look at, but the most notable ones are *Saint Sebastian* by Mantegna, *The Virgin and the Child* and *La Belle Ferrionnière* by Da Vinci, and *An Old Man and His Grandson* by Ghirlandaio.
 
-You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the Grande Galerie, you will follow the Mona Lisa sign into the Salle des Etats for a quick detour to see the Renaissance lady. 
+You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign of the Grande Galerie into the Salle des Etats for a quick detour to see the Renaissance lady. 
 
 <a name="step8">
 
 # Step 8: the Italian masterpieces of Salle des Etats
 </a>
+
+## The Mona Lisa
+The *Salle des Etats* is home to the Mona Lisa, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo who displays quite the enigmatic expression on the canvas. Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
+
+Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, in the *Salle des Etats* are displayed other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
+
+## Veronese
+Starting with the one that directly faces the Italian lady: *The Wedding Feast of Cana* by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
+
+Two other Veroneses that should not be missed are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a newly resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
+
+## Titian and Tintoretto
+Somehow, there are more Renaissance big names who have their work exhibited in the *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many futur artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
+
+Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right for a little trip down the english road.
 
 <a name="step9">
 
