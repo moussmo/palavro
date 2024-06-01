@@ -169,12 +169,18 @@ Two other Veroneses that should not be missed are *Supper at Emmaus*, after the 
 ## Titian and Tintoretto
 Somehow, there are more Renaissance big names who have their work exhibited in the *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many futur artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
 
-Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right for a little trip down the english road.
+Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right, take it.
 
 <a name="step9">
 
 # Step 9: taking a look at the British and American paintings of the Louvre
 </a>
+
+Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them Willian Turner, Gainsborough, and Reynolds. We are lucky enough to have some of their art displayed in these two adjacent blood-colored dark rooms of the Louvre: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
+
+Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions, John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpents-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
+
+Cross the two rooms until you find the little Louvre *café*, have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
 
 <a name="step10">
 
