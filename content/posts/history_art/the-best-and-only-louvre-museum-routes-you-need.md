@@ -125,7 +125,7 @@ Onto our next step ! As you face the statue, go left and enter the circular room
 
 Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this extravagant monarch began to be known as the Sun King.
 
-In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: *le Régent*, *l'Hortensia*, *le Sancy*.
+In this galerie, anything your eyes lie on is a Classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: *le Régent*, *l'Hortensia*, *le Sancy*.
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
@@ -208,10 +208,20 @@ The artist who led the Neoclassicism wave in France was Jacques-Louis David. Dav
 
 David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
 
-Onto our final step !\
 Leave *Salle Daru* and take the main stairs but not all the way down. As you reach the first landing, turn right (or left) and walk behind the stairs. 
 
 <a name="step11">
 
-# Step 11: Coup de grâce with greek antiquities
+# Step 11: Coup de grâce with Greek antiquities
 </a>
+
+The final step is a series of rooms which display many formidable Greek antiquities. One of these antiquities is the cherry on the cake of this trail and perhaps the most important artpiece the Louvre posesses (after the Mona Lisa) ! 
+
+Indeed, if you walk forward a bit, you will discover on your right the stunning *Venus of Milo*, a Hellenestic marble statue representing an armless Greek goddess Aphrodite (or Venus according to Roman mythology), which was discovered on the Greek island of Milo (hence the name). The artist is currently unknown. Its first exhibition in the 19th century made quite some noise, as people rushed to the museum to admire Venus' beauty and wonder what the full sculpture must have looked like.
+
+What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic *Salle des Caryatides*. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century, inspired by the ones found in Athens' Acropolis.\
+This room also accomodates in its center the most famous sculpture worldwide of Artemis/Diane, which depicts the Greek/Roman goddess of the hunt accompanied by a little deer, pulling an arrow from her quiver.
+
+This is the end of the trail! When you're done, you can walk through the Caryatides and go downstairs. You will end up in the central plaza of the Louvre.
+
+
