@@ -75,11 +75,11 @@ Directly to your left after you come in, you will find "Psyche revived by the Ki
 
 ![psyche-cupide](../../images/sara-darcaj-YzamNB_T4WQ-unsplash.jpg)  
 
-Yet somehow, Canova's beautiful art is not the only the star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
+Yet somehow, Canova's beautiful art is not the only star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
 
 ## The Dying Slave and The Rebellious Slave:
 I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, every single artpiece by Michelangelo could be considered a masterpiece. The Louvre posesses the twin sculptures of The Dying Slave and The Rebellious Slave, the former being a tad more popular than the latter. \
-Something that I always find true about Michelangelo's work is that, one does not need to be an art expert to be able to appreciate it. You will no matter what find yourself captivated by its tremendous beauty, the genius of this artist was on an entirely different level.
+Something that I always find true about Michelangelo's work is that one does not need to be an art expert to be able to appreciate it. You will no matter what find yourself captivated by its tremendous beauty, the genius of this artist was on an entirely different level.
 
 ![michelangelo-slaves](../../images/jean-baptiste-d-mTfhOmhvvQo-unsplash.jpg) 
 
@@ -90,7 +90,7 @@ Instead of passing by the Slaves to go up the stairs sitting behind them, you wi
 # Step 4: Roman imperialism in Galerie Daru
 </a>
 
-The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've probably heard in the past: Augustus, Trajan, Commodus, etc.
+The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've maybe heard in the past: Augustus, Trajan, Commodus, etc.
 
 ![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
 
@@ -123,7 +123,7 @@ Onto our next step ! As you face the statue, go left and enter the circular room
 # Step 6: a date with luxury in Galerie d'Apollon
 </a>
 
-Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this exctravagant monarch began to be known as the Sun King.
+Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this extravagant monarch began to be known as the Sun King.
 
 In this galerie, anything your eyes lie on is a classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: *le Régent*, *l'Hortensia*, *le Sancy*.
 
@@ -135,10 +135,11 @@ At the back of the galerie, you will find a door that takes you to your next des
 # Step 7: welcome to the paintings realm of the Salon Carré and the Grande Galerie
 </a>
 
-Exit sculptures, enter paintings ! (For now at least...)
-
 ## Salon Carré
-The *Sallon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi, among others are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
+
+Exit sculptures and decorative arts, enter paintings ! (For now at least...)
+
+The *Sallon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi (among many others) are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
 
 If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts*. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
 
@@ -148,9 +149,9 @@ Leave through the door that faces the Galerie d'Apollon (from which you came in)
 
 Here is another iconic Louvre galerie, a long majestic hall in which a great collection of Italian paintings is displayed. For a lot of people, this is the image that is conjured when their mind thinks of the Louvre. 
 
-Every artpiece in this galerie is worth to look at, but the most notable ones are *Saint Sebastian* by Mantegna, *The Virgin and the Child* and *La Belle Ferrionnière* by Da Vinci, and *An Old Man and His Grandson* by Ghirlandaio.
+Every artpiece in this galerie is worth to look at, but the most notable ones are Mantegna's *Saint Sebastian*, Da Vinci's *The Virgin and the Child* and *La Belle Ferrionnière*, and Ghirlandaio's *An Old Man and His Grandson*.
 
-You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign of the Grande Galerie into the Salle des Etats for a quick detour to see the Renaissance lady. 
+You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign of the Grande Galerie into the *Salle des Etats* for a quick detour to see the Renaissance lady. 
 
 <a name="step8">
 
@@ -165,10 +166,10 @@ Chances are the room is overcrowded and you find no space to approach Da Vinci's
 ## Veronese
 Starting with the one that directly faces the Italian lady: *The Wedding Feast of Cana* by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
 
-Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a recently resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
+Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
 
 ## Titian and Tintoretto
-Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many futur artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
+Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many future artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
 
 Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right, take it.
 
@@ -177,9 +178,9 @@ Instead of exiting the room through the large door that is behind the Mona Lisa,
 # Step 9: taking a look at the British and American paintings of the Louvre
 </a>
 
-Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them Willian Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
+Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them William Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
 
-Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions, John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
+Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
 
 Cross the two rooms until you find the little *café Mollien*, where you can have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
 
@@ -194,19 +195,18 @@ The two rooms you are about to discover are probably my favourite places of the 
 Romanticism was initially Europe's response to the age of englightenment and the industrial revolution. It is a movement that calls for the appreciation of passion, feelings, and nature, and seeks to bring people closer to their human identity. Although many art experts would argue it is more nuanced than that, it is in a way the antithesis of Neoclassicism (which you will encounter in the next room).\
 And thus, most of the paintings you will find in *Salle Mollien* belong to this Romanticism movement, and were made by artists who had a specific goal in mind: to convey emotions to the observer.
 
-Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are *Liberty Leading the People*, *Women of Algiers in their Appartments*, *Scenes from the Massacre at Chios*, and my favourite *The Death of Sardanapalus*. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was capable of proving the genius of the painter.
+Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are *Liberty Leading the People*, *Women of Algiers in their Appartments*, *Scenes from the Massacre at Chios*, and my favourite *The Death of Sardanapalus*. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was able to prove the painter's genius.
 
-Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: *The Raft of the Medusa*, which tells (in a dramatic and *romantic*) way the story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
+Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: *The Raft of the Medusa*, which tells (in a dramatic and *romantic* way) the 18th century story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
 
 Cross the galerie, take a look at the little souvenir boutique that occupies the squared *Salle Denon* if you wish, then enter *Salle Daru*.
 
 ## Salle Daru
-Neoclassicism was born in opposition to the Rococo style which was the dominating art movement of the 18th century. It focused on simplicity, clarity, and symmetry, and had a little preference for representing scenes from Greco-Roman antiquity. Neoclassicism eventually had to compete with Romanticism, which had emerged as a reaction to the rigidity and lack of sensuality of the former.
+Neoclassicism was born in opposition to the Rococo style which was the dominating art movement of the 18th century. It focused on simplicity, clarity, and symmetry, and had a clear preference for representing scenes from Greco-Roman antiquity. Neoclassicism eventually had to compete with Romanticism, which had emerged as a reaction to the rigidity and lack of sensuality of the former.
 
-The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and it showed through his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternal *oath of the Horatii*.
+The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternal *oath of the Horatii*.
 
-David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, their work surround their master's in *Salle Daru*, such as Ingres' *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
-
+David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
 
 Onto our final step !\
 Leave *Salle Daru* and take the main stairs but not all the way down. As you reach the first landing, turn right (or left) and walk behind the stairs. 
