@@ -224,4 +224,8 @@ This room also accomodates in its center the most famous sculpture worldwide of 
 
 This is the end of the trail! When you're done, you can walk through the Caryatides and go downstairs. You will end up in the central plaza of the Louvre.
 
+As I mentioned before, there are many, many others works of art in this gigantic museum that deserve some attention, but no sane person actually dares to do the entirety of the Louvre in a single tour. What I suggest to you below is a list of masterpieces that can be found in rooms you have not yet visited and which, in my humble opinion, deserve the detour if you have some time on your hand (or if perhaps you plan on visiting the museum again). Otherwise, I deeply hope the tour was very pleasing and easy to follow, and that it made you fall in love with this culturally rich place as much as I do.
+
+
+
 
