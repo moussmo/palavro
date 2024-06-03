@@ -1,8 +1,8 @@
 ---
 author: "Mohamed Moussaoui"
-title: "The best and only Louvre museum route you need (1/2)"
+title: "The best and only Louvre museum route you need"
 date: "2024-05-11"
-slug: "the-best-and-only-louvre-museum-routes-you-need-1"
+slug: "the-best-and-only-louvre-museum-routes-you-need"
 hero_image: "../../images/louvre_routes_1_hero.jpg"
 hero_image_alt: "A grey and white pitbull wading happily in a pool"
 hero_image_credit_text: "Anthony Duran"
@@ -10,15 +10,16 @@ hero_image_credit_link: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode
 
 ---
 
-The Louvre, in addition to looking simply incredible with its 17th century French renaissance architecture, boasts the richest art collection you will ever find in a museum. It is today one of the most visited places in the world, and each day some 25 000 visitors, mostly tourists, penetrate its intimacy looking for the so-called Louvre experience. The Louvre is 210 000 square meters of cultural heritage, spanning over hundreds of rooms interconnected in the most French way possible. So, in order to optimize their visit of the Mona Lisa owner, some people choose to pay for a tour and submit to their tour guide's pathing preferences, while others would sooner get lost between its walls alone, delegating the responsibility of finding the museum's Chefs d'œuvre to luck and panels. Being an amateur of museums myself, I have to admit that both solutions provide their own perks, fit different kind of people, and are *in fine* situational. For example, if your goal is to learn everything there is to learn about the art pieces, having a tour guide is undoubtedly the preferred choice, but if time is not of the essence for you and you would rather take your time and enjoy some independance as you walk across centuries-old corridors, then you should definitely favour the free access. But there is actually a third option one usually forgets to consider: you could enjoy the freedom of solo visiting while experiencing the best the museum has to offer by following a **predefined route**, ie: a series of steps arranged in a fashion that when followed allows for maximum art discovery and maximum autonomy within a rational time window. The Louvre itself suggests on its official website some routes for its visitors, they are in my opinion very good but aren't really daring enough as they miss some opportunities to make the visit more interesting by including some additional rooms. Having been in the Louvre one too many times, I thought I could come up with one or two routes of my own that (I hope) do not completely suck, this is what I am sharing with you in this article.
+The Louvre, in addition to looking simply incredible with its 17th century French renaissance architecture, boasts the richest art collection you will ever find in a museum. It is today one of the most visited places in the world, and each day some 25 000 visitor penetrate its intimacy looking for the so-called Louvre experience. The Louvre is 210 000 square meters of cultural heritage, spanning over hundreds of rooms interconnected in the most French way possible. So, in order to optimize their visit, some people choose to pay for a tour and submit to their tour guide's pathing preferences, while others would sooner get lost alone between its walls, delegating the responsibility of finding the museum's Chefs d'œuvre to luck and panels. Being an amateur of museums myself, I have to admit that both solutions provide their own perks, fit different kind of people, and are *in fine* situational. For example, if your goal is to learn everything there is to learn about the art pieces, having a tour guide is undoubtedly the preferred choice, but if time is not of the essence for you and you would rather take your time and enjoy some independance as you walk across centuries-old corridors, then you should definitely favour the free access. But there is actually a third option one usually forgets to consider: you could enjoy the freedom of solo visiting while experiencing the best the museum has to offer by following a **predefined route**, ie: a series of steps arranged in a fashion that when followed allows for maximum art discovery and maximum autonomy within a rational time window. The Louvre itself suggests on its official website some routes for its visitors, they are in my opinion very good but aren't really daring enough as they miss some opportunities to make the visit more interesting by including some additional rooms. Having been in the Louvre one too many times, I thought I could come up with one route of my own that (I hope) does not completely suck, this is what I am sharing with you in this article.
 
-The routes I'm suggesting are destined to everyone, but more specifically to whoever is planning to visit the Louvre in the near future and wants to have the fullest experience in a reasonable time frame, say not more than 2 to 3 hours (because yes, you cannot and should not spend the entirety of your Paris trip in a museum, am I right ?).
+The route I'm suggesting is destined to everyone, but more specifically to whoever is planning to visit the Louvre in the near future and wants to have the fullest experience in a reasonable time frame, say not more than 2 to 3 hours (because yes, you cannot and should not spend the entirety of your Paris trip in a museum, am I right ?).
 
 ![pyramid](../../images/jonathan-velasquez-eUSpDPSFdKU-unsplash.jpg)  
 
-Since we are talking about the largest art museum in the world, I couldn't think of a unique route that would singlehandedly cover all of the Louvre's main masterpieces in the aforementioned time window. Instead I thought it would be best to split it into two routes, each exploring different art pieces from different cultures and civilizations, with both taking anything from 1h30 to 2h30 of museum hiking. If you had to pick only one of these two, I would strongly suggest going for the first route, especially if 1/ it's your first time in this fantastic place and 2/ you are very eager on discovering the most famous pieces that give the Louvre its grandiose reputation. The first route focuses on the Denon wing of the museum, which includes famous paintings such as the Mona Lisa and La Liberté guidant le Peuple, as well as renown sculptures like The Dying Slave and Niké. The second route explores more niche and (sadly) underrated collections, belonging to the ancient near east and egyptian civilizations.
+Since we are talking about the largest art museum in the world, I couldn't think of a unique route that would singlehandedly cover all of the Louvre's main masterpieces in the aforementioned time window. Instead I thought it would be best to suggest one route that focuses on the best the Louvre has to offer. This trail is perfect if 1/ it's your first time in this fantastic place and 2/ you are very eager on discovering the most famous pieces that give the Louvre its grandiose reputation. This trail revolves entirely around the Denon wing and some part of the Sully Wing, which include famous paintings such as the *Mona Lisa* and *The Liberty Guiding the People*, as well as renown sculptures like the *Venus of Milo* and *The Victory of Samothrace*.\
+But of course there are other masterpieces that might be niche but are still worth discovering in other parts of the museum, I listed most of them at the end of the article. If you still have time at the end of your tour, you should definity try and take a look at them.
 
-The present article is dedicated to the first route. You can check out the second one here.
+Enjoy !
 
 ## Summary: 
 - [Step 1: entering the **Denon wing**](#step1)
@@ -31,7 +32,7 @@ The present article is dedicated to the first route. You can check out the secon
 - [Step 7: welcome to the paintings realm of the **Grande Galerie**](#step7)
 - [Step 8: the Italian masterpieces of **Salle de la Joconde**](#step8)
 - [Step 9: taking a look at the **British and American** paintings of the Louvre](#step9)
-- [Step 10: Romanticism and Neo-classicism go hand-in-hand in **Salle Mollien** and **Salle Daru**](#step10)
+- [Step 10: Romanticism and Neoclassicism go hand-in-hand in **Salle Mollien** and **Salle Daru**](#step10)
 - [Step 11: Coup de grâce with **greek antiquities**](#step11)
 
 
@@ -107,7 +108,7 @@ When you're done admiring the galerie, wave goodbye to the emperors as you cross
 </a>
 
 Now this is a sight to behold ! \
-Atop the colossal main stairs of the Louvre stands a headless Greek Goddess named Niké. With wings widespread, she lands on the prow of a ship, announcing a forthcoming victory for those who believe in her, or perhaps she is ready to take her flight, joining her fellow gods in mount Olympus.
+Atop the colossal main stairs of the Louvre stands a headless Greek Goddess named Niké. With wings widespread, she lands on the prow of a ship, announcing a forthcoming victory for her believers, or perhaps she is ready to take her flight, joining her fellow gods in mount Olympus.
 
 The *Winged Victory of Samothrace* is perhaps the most important sculpture that popped out of the Hellenestic period. It was discovered by French archaeologist Champoiseau in the island of Samothrace in the northern Aegean sea during the 19th century, and it has ever since been a denizen of the Louvre, one of the many jewels the museum is delighted to exhibit. Despite missing her head and a few limbs, the goddess looks stunning ! It is one of the rare Hellenestic sculptures that endured the test of time and which are not known through Roman replicas.
 
@@ -157,17 +158,17 @@ You must have noticed on your way here a multitude of signs that show the way to
 </a>
 
 ## The Mona Lisa
-The *Salle des Etats* is home to the Mona Lisa, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo who displays quite the enigmatic expression on the canvas. Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
+The *Salle des Etats* is home to the Mona Lisa, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo (who has quite the enigmatic expression on her face). Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
 
-Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, in the *Salle des Etats* are displayed other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
+Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, one can find in the *Salle des Etats* other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
 
 ## Veronese
 Starting with the one that directly faces the Italian lady: *The Wedding Feast of Cana* by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
 
-Two other Veroneses that should not be missed are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a newly resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
+Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a recently resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
 
 ## Titian and Tintoretto
-Somehow, there are more Renaissance big names who have their work exhibited in the *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many futur artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
+Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many futur artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
 
 Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right, take it.
 
@@ -176,16 +177,39 @@ Instead of exiting the room through the large door that is behind the Mona Lisa,
 # Step 9: taking a look at the British and American paintings of the Louvre
 </a>
 
-Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them Willian Turner, Gainsborough, and Reynolds. We are lucky enough to have some of their art displayed in these two adjacent blood-colored dark rooms of the Louvre: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
+Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them Willian Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
 
-Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions, John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpents-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
+Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions, John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
 
-Cross the two rooms until you find the little Louvre *café*, have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
+Cross the two rooms until you find the little *café Mollien*, where you can have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
 
 <a name="step10">
 
-# Step 10: Romanticism and Neo-classicism go hand-in-hand in Salle Mollien and Salle Daru  
+# Step 10: Romanticism and Neoclassicism go hand-in-hand in Salle Mollien and Salle Daru  
 </a>
+
+The two rooms you are about to discover are probably my favourite places of the Louvre, god knows how many hours I have spent looking at the masterpieces that hang on their walls. While both of them exclusively exhibit French artists from the 19th century, *Salle Mollien*, the first one, is dedicated to romanticism, while *Salle Daru* focuses on the Neoclassicism movement.
+
+## Salle Mollien
+Romanticism was initially Europe's response to the age of englightenment and the industrial revolution. It is a movement that calls for the appreciation of passion, feelings, and nature, and seeks to bring people closer to their human identity. Although many art experts would argue it is more nuanced than that, it is in a way the antithesis of Neoclassicism (which you will encounter in the next room).\
+And thus, most of the paintings you will find in *Salle Mollien* belong to this Romanticism movement, and were made by artists who had a specific goal in mind: to convey emotions to the observer.
+
+Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are *Liberty Leading the People*, *Women of Algiers in their Appartments*, *Scenes from the Massacre at Chios*, and my favourite *The Death of Sardanapalus*. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was capable of proving the genius of the painter.
+
+Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: *The Raft of the Medusa*, which tells (in a dramatic and *romantic*) way the story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
+
+Cross the galerie, take a look at the little souvenir boutique that occupies the squared *Salle Denon* if you wish, then enter *Salle Daru*.
+
+## Salle Daru
+Neoclassicism was born in opposition to the Rococo style which was the dominating art movement of the 18th century. It focused on simplicity, clarity, and symmetry, and had a little preference for representing scenes from Greco-Roman antiquity. Neoclassicism eventually had to compete with Romanticism, which had emerged as a reaction to the rigidity and lack of sensuality of the former.
+
+The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and it showed through his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternal *oath of the Horatii*.
+
+David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, their work surround their master's in *Salle Daru*, such as Ingres' *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
+
+
+Onto our final step !\
+Leave *Salle Daru* and take the main stairs but not all the way down. As you reach the first landing, turn right (or left) and walk behind the stairs. 
 
 <a name="step11">
 
