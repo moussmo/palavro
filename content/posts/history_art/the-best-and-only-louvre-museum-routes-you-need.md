@@ -226,6 +226,33 @@ This is the end of the trail! When you're done, you can walk through the Caryati
 
 As I mentioned before, there are many, many others works of art in this gigantic museum that deserve some attention, but no sane person actually dares to do the entirety of the Louvre in a single tour. What I suggest to you below is a list of masterpieces that can be found in rooms you have not yet visited and which, in my humble opinion, deserve the detour if you have some time on your hand (or if perhaps you plan on visiting the museum again). Otherwise, I deeply hope the tour was very pleasing and easy to follow, and that it made you fall in love with this culturally rich place as much as I do.
 
+# Other works of art you should not miss out on: 
+## The Code of Hammurabi:
+I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. This is one of the world's first laws ever, made by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
+
+Location: 
+
+## The Palace of Sargon II (The Khorsabad Courtyard):
+Delve into the beautiful palace of Assyrian king Sargon II, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
+
+Location:
+
+## The Marly and Puget Courtyards:
+These are places you have perhaps seen pictures of, you might even have been excited to visit them, and subsequently disappointed to find out they were't part of the tour (if that's the case, sorry, it was hard to fit everything!).\
+Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these beautiful neighbouring piazzas, which are occupied by beautiful French sculptures. Do not miss out on the *Horses of Marly*!
+
+Location:
+
+## Napoléon III's appartments:
+As you may know, the Louvre has not always been a museum, it served as the residences for both kings and emperors. Today, you can visit the newly renovated appartments of Napoléon III. Luxurious decorative objects and pretty colours are on the agenda.
+
+Location:
+
+## Seated Scribe:
+The only Egyptian sculpture of this list, the *Seated Scribe* is one of the Louvre's treasures. It represent a sitting scribe, a man whose job was to write administrative or religious texts, akin to an official today. What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
+
+Location:
+
 
 
 
