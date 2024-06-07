@@ -248,7 +248,7 @@ As you may know, the Louvre has not always been a museum, it served as the resid
 
 Location:
 
-## Seated Scribe:
+## The Seated Scribe:
 The only Egyptian sculpture of this list, the *Seated Scribe* is one of the Louvre's treasures. It represent a sitting scribe, a man whose job was to write administrative or religious texts, akin to an official today. What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
 
 Location:
