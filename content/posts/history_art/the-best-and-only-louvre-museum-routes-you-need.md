@@ -4,9 +4,9 @@ title: "The best and only Louvre museum route you need"
 date: "2024-05-11"
 slug: "the-best-and-only-louvre-museum-routes-you-need"
 hero_image: "../../images/louvre_routes_1_hero.jpg"
-hero_image_alt: "A grey and white pitbull wading happily in a pool"
-hero_image_credit_text: "Anthony Duran"
-hero_image_credit_link: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9cef700-e54f-11eb-afdb-c7b01afbcfc5.jpg?crop=2520%2C1680%2C0%2C0"
+hero_image_alt: "Louvre Grande Galerie"
+hero_image_credit_text: "Dat Vo"
+hero_image_credit_link: "https://unsplash.com/fr/photos/personnes-marchant-a-linterieur-dun-batiment-pendant-la-journee-usGKkIb69ms"
 
 ---
 
@@ -94,10 +94,10 @@ The Galerie Daru is a large room whose two sides are populated by Roman and Etru
 
 ![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
 
-## The Borghese Gladiator and Vase:
-For a few years now, the galerie has been home to two important antiquities from the notorious Italian Borghese Galerie: the Borghese Gladiator and Vase, which are considered as two of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). They are to be found at the entrance of the room. 
+## The Borghese Gladiator:
+For a few years now, the galerie has been home to some important antiquities from the notorious Italian Borghese Galerie, one of them being the Borghese Gladiator, which is considered as one of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). It can be found at the entrance of the room. 
 
-![borghese-gladiator](../../images/cliffer-rebelo-33Lc6UtlOcw-unsplash.jpg)
+![borghese-gladiator](../../images/Borghese_Gladiator,_Louvre_Museum,_Paris_15_June_2014.jpg)
 
 When you're done admiring the galerie, wave goodbye to the emperors as you cross the room, then climb up the main stairs.
 
@@ -139,9 +139,11 @@ At the back of the galerie, you will find a door that takes you to your next des
 
 Exit sculptures and decorative arts, enter paintings ! (For now at least...)
 
-The *Sallon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi (among many others) are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
+The *Salon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi (among many others) are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
 
 If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts*. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
+
+![botticelli-threegraces](../../images/4085737980_a2856b0801_c.jpg)
 
 Leave through the door that faces the Galerie d'Apollon (from which you came in), and walk into the Grande Galerie.
 
@@ -149,7 +151,11 @@ Leave through the door that faces the Galerie d'Apollon (from which you came in)
 
 Here is another iconic Louvre galerie, a long majestic hall in which a great collection of Italian paintings is displayed. For a lot of people, this is the image that is conjured when their mind thinks of the Louvre. 
 
+![Grande-Galerie](../../images/louvre_routes_1_hero.jpg)
+
 Every artpiece in this galerie is worth to look at, but the most notable ones are Mantegna's *Saint Sebastian*, Da Vinci's *The Virgin and the Child* and *La Belle Ferrionnière*, and Ghirlandaio's *An Old Man and His Grandson*.
+
+![Grande-Galerie-paintings](../../images/grande_galerie_paintings.jpg)
 
 You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign of the Grande Galerie into the *Salle des Etats* for a quick detour to see the Renaissance lady. 
 
@@ -161,10 +167,14 @@ You must have noticed on your way here a multitude of signs that show the way to
 ## The Mona Lisa
 The *Salle des Etats* is home to the Mona Lisa, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo (who has quite the enigmatic expression on her face). Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
 
+![mona-lisa](../../images/the-free-birds-Iy16cl-VlMU-unsplash.jpg)
+
 Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, one can find in the *Salle des Etats* other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
 
 ## Veronese
 Starting with the one that directly faces the Italian lady: *The Wedding Feast of Cana* by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
+
+![veronese-cana](../../images/Paolo_Veronese_008.jpg)
 
 Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
 
@@ -182,6 +192,8 @@ Not many American and British artists have reached the notoriety of the Italians
 
 Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
 
+![pandemonium](../../images/5c1b8c7fe383c1f319c5e6d9cf6a991d.jpg)
+
 Cross the two rooms until you find the little *café Mollien*, where you can have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
 
 <a name="step10">
@@ -195,18 +207,28 @@ The two rooms you are about to discover are probably my favourite places of the 
 Romanticism was initially Europe's response to the age of englightenment and the industrial revolution. It is a movement that calls for the appreciation of passion, feelings, and nature, and seeks to bring people closer to their human identity. Although many art experts would argue it is more nuanced than that, it is in a way the antithesis of Neoclassicism (which you will encounter in the next room).\
 And thus, most of the paintings you will find in *Salle Mollien* belong to this Romanticism movement, and were made by artists who had a specific goal in mind: to convey emotions to the observer.
 
+![delacroix-libery](../../images/1600px-Detail_from__Liberty_Leading_the_People__at_the_Louvre_(7181064608).jpg)
+
 Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are *Liberty Leading the People*, *Women of Algiers in their Appartments*, *Scenes from the Massacre at Chios*, and my favourite *The Death of Sardanapalus*. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was able to prove the painter's genius.
 
+![delacroix-sardanapalus](../../images/9473704982_b73bf6a36c_k.jpg)
+
 Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: *The Raft of the Medusa*, which tells (in a dramatic and *romantic* way) the 18th century story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
+
+![gericault-medusa](../../images/raft-of-the-medusa-03e16a.jpg)
 
 Cross the galerie, take a look at the little souvenir boutique that occupies the squared *Salle Denon* if you wish, then enter *Salle Daru*.
 
 ## Salle Daru
 Neoclassicism was born in opposition to the Rococo style which was the dominating art movement of the 18th century. It focused on simplicity, clarity, and symmetry, and had a clear preference for representing scenes from Greco-Roman antiquity. Neoclassicism eventually had to compete with Romanticism, which had emerged as a reaction to the rigidity and lack of sensuality of the former.
 
-The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternal *oath of the Horatii*.
+The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternally beautiful *oath of the Horatii*.
 
-David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
+![david-horatii](../../images/2048px-_Oath_of_the_Horatii__by_Jacques-Louis_David.jpg)
+
+David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' *Grande Odalisque* and *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
+
+![ingres-homer](../../images/23837726053_eff1d18673_k.jpg)
 
 Leave *Salle Daru* and take the main stairs but not all the way down. As you reach the first landing, turn right (or left) and walk behind the stairs. 
 
@@ -219,14 +241,21 @@ The final step is a series of rooms which display many formidable Greek antiquit
 
 Indeed, if you walk forward a bit, you will discover on your right the stunning *Venus of Milo*, a Hellenestic marble statue representing an armless Greek goddess Aphrodite (or Venus according to Roman mythology), which was discovered on the Greek island of Milo (hence the name). The artist is currently unknown. Its first exhibition in the 19th century made quite some noise, as people rushed to the museum to admire Venus' beauty and wonder what the full sculpture must have looked like.
 
-What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic *Salle des Caryatides*. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century, inspired by the ones found in Athens' Acropolis.\
+![venus-milo](../../images/tanya-prodaan-AzQcBvkhlgQ-unsplash.jpg)
+
+What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic *Salle des Caryatides*. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century, inspired by the ones found in Athens' Acropolis.
+
+![caryatides](../../images/Salle_des_Cariatides_in_Paris-Louvre.jpg)
+
 This room also accomodates in its center the most famous sculpture worldwide of Artemis/Diane, which depicts the Greek/Roman goddess of the hunt accompanied by a little deer, pulling an arrow from her quiver.
+
+![diane-versailles](../../images/8436940886_393ca8cf66_k.jpg)
 
 This is the end of the trail! When you're done, you can walk through the Caryatides and go downstairs. You will end up in the central plaza of the Louvre.
 
 As I mentioned before, there are many, many others works of art in this gigantic museum that deserve some attention, but no sane person actually dares to do the entirety of the Louvre in a single tour. What I suggest to you below is a list of masterpieces that can be found in rooms you have not yet visited and which, in my humble opinion, deserve the detour if you have some time on your hand (or if perhaps you plan on visiting the museum again). Otherwise, I deeply hope the tour was very pleasing and easy to follow, and that it made you fall in love with this culturally rich place as much as I do.
 
-# Other works of art you should not miss out on: 
+# Other works of art in the Louvre you should not miss: 
 ## The Code of Hammurabi:
 I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. This is one of the world's first laws ever, made by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
 
