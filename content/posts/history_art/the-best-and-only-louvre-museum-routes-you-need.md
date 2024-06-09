@@ -181,6 +181,8 @@ Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after 
 ## Titian and Tintoretto
 Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many future artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
 
+![coronation-virgin](../../images/18125724863_e3700ef3a3_k.jpg)
+
 Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right, take it.
 
 <a name="step9">
@@ -257,28 +259,38 @@ As I mentioned before, there are many, many others works of art in this gigantic
 
 # Other works of art in the Louvre you should not miss: 
 ## The Code of Hammurabi:
-I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. This is one of the world's first laws ever, made by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
+I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. On this black basalt stele is inscribed one of the world's first laws ever, written in the Akkadian language by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
+
+![hammurabi](../../images/5910671332_2ff9be8952_bc.jpg)
 
 Location: 
 
 ## The Palace of Sargon II (The Khorsabad Courtyard):
 Delve into the beautiful palace of Assyrian king Sargon II, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
 
+![sargon2](../../images/Winged_Bull,_Palace_of_Sargon_II_in_the_Musee_de_Louvre_(300120174).jpg)
+
 Location:
 
 ## The Marly and Puget Courtyards:
-These are places you have perhaps seen pictures of, you might even have been excited to visit them, and subsequently disappointed to find out they were't part of the tour (if that's the case, sorry, it was hard to fit everything!).\
-Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these beautiful neighbouring piazzas, which are occupied by beautiful French sculptures. Do not miss out on the *Horses of Marly*!
+You have most probably already seen pictures of these places, and you might even have been excited to visit them, and subsequently disappointed to find out they weren't part of the tour (if that's the case, sorry, it was hard to fit everything !).\
+Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these two beautiful piazzas, which are inhabited by stunning French sculptures. Do not miss out on the *Horses of Marly*!
+
+![marly-puget](../../images/alex-harmuth-oqNXYz8yM0o-unsplash.jpg)
 
 Location:
 
 ## Napoléon III's appartments:
-As you may know, the Louvre has not always been a museum, it served as the residences for both kings and emperors. Today, you can visit the newly renovated appartments of Napoléon III. Luxurious decorative objects and pretty colours are on the agenda.
+As you may know, the Louvre has not always been a museum, it has previously served as the residences of both kings and emperors. Today, you can visit the recently renovated appartments of Napoléon III. Luxurious decorative objects and pretty colours are on the agenda.
+
+![napoleon3](../../images/amy-leigh-barnard-wcd5veuiC_0-unsplash.jpg)
 
 Location:
 
 ## The Seated Scribe:
-The only Egyptian sculpture of this list, the *Seated Scribe* is one of the Louvre's treasures. It represent a sitting scribe, a man whose job was to write administrative or religious texts, akin to an official today. What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
+The only Egyptian sculpture of this list, the *Seated Scribe* is one of the Louvre's treasures. It represents a sitting scribe (ie: a man whose job was to write administrative or religious texts, akin to an official today). What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
+
+![seated-scribe](../../images/The_Seated_Scribe,_Louvre_28_May_2017_001_cropped.jpg)
 
 Location:
 
