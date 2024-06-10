@@ -10,13 +10,15 @@ hero_image_credit_link: "https://unsplash.com/fr/photos/personnes-marchant-a-lin
 
 ---
 
-The Louvre, in addition to looking simply incredible with its 17th century French renaissance architecture, boasts the richest art collection you will ever find in a museum. It is today one of the most visited places in the world, and each day some 25 000 visitor penetrate its intimacy looking for the so-called Louvre experience. The Louvre is 210 000 square meters of cultural heritage, spanning over hundreds of rooms interconnected in the most French way possible. So, in order to optimize their visit, some people choose to pay for a tour and submit to their tour guide's pathing preferences, while others would sooner get lost alone between its walls, delegating the responsibility of finding the museum's Chefs d'œuvre to luck and panels. Being an amateur of museums myself, I have to admit that both solutions provide their own perks, fit different kind of people, and are *in fine* situational. For example, if your goal is to learn everything there is to learn about the art pieces, having a tour guide is undoubtedly the preferred choice, but if time is not of the essence for you and you would rather take your time and enjoy some independance as you walk across centuries-old corridors, then you should definitely favour the free access. But there is actually a third option one usually forgets to consider: you could enjoy the freedom of solo visiting while experiencing the best the museum has to offer by following a **predefined route**, ie: a series of steps arranged in a fashion that when followed allows for maximum art discovery and maximum autonomy within a rational time window. The Louvre itself suggests on its official website some routes for its visitors, they are in my opinion very good but aren't really daring enough as they miss some opportunities to make the visit more interesting by including some additional rooms. Having been in the Louvre one too many times, I thought I could come up with one route of my own that (I hope) does not completely suck, this is what I am sharing with you in this article.
+The Louvre, in addition to looking simply incredible with its 17th century French renaissance architecture, boasts the richest art collection you will ever find in a museum. It is today one of the most visited places in the world, and each day some 25 000 visitors penetrate its intimacy looking for the unforgettable Louvre experience. The Louvre is 210 000 square meters of cultural heritage, spanning over hundreds of rooms interconnected in the most French way possible. So, in order to optimize their visit, some people choose to pay for a tour and submit to their tour guide's pathing preferences, while others would sooner be alone and get lost between its walls, delegating the responsibility of finding the museum's Chefs d'œuvre to luck and panels. Being an amateur of museums myself, I have to admit that both solutions provide their own perks, fit different kind of people, and are *in fine* situational. For example, if your goal is to learn everything there is to learn about the art pieces, having a tour guide is undoubtedly the preferred choice, but if time is not of the essence for you and you would rather take your time and enjoy some independance as you walk across centuries-old corridors, then you should definitely favour the free access.
 
-The route I'm suggesting is destined to everyone, but more specifically to whoever is planning to visit the Louvre in the near future and wants to have the fullest experience in a reasonable time frame, say not more than 2 to 3 hours (because yes, you cannot and should not spend the entirety of your Paris trip in a museum, am I right ?).
+But there is actually a third option one usually forgets to consider: you could enjoy the freedom of solo visiting while experiencing the best the museum has to offer by following a **predefined trail**, ie: a series of steps arranged in a fashion to help the visitor focus their visit on the most important pieces of the museum, and which can be done in a rational time window. The Louvre itself suggests on its official website some pathes, they are in my opinion very good but aren't really daring enough as they miss some opportunities to make the visits more compelling by including some additional rooms. Having been in the Louvre one too many times, I thought I could come up with one trail of my own that (I hope) does not completely suck, this is what I am sharing with you in this article.
+
+The trail I'm presenting here is destined to everyone, but more specifically to whoever is planning to visit the Louvre in the near future and wants to have the fullest experience in a reasonable time frame, say no more than 2 to 3 hours (because yes, you cannot and should not spend the entirety of your Paris trip in a museum, am I right ?).
 
 ![pyramid](../../images/jonathan-velasquez-eUSpDPSFdKU-unsplash.jpg)  
 
-Since we are talking about the largest art museum in the world, I couldn't think of a unique route that would singlehandedly cover all of the Louvre's main masterpieces in the aforementioned time window. Instead I thought it would be best to suggest one route that focuses on the best the Louvre has to offer. This trail is perfect if 1/ it's your first time in this fantastic place and 2/ you are very eager on discovering the most famous pieces that give the Louvre its grandiose reputation. This trail revolves entirely around the Denon wing and some part of the Sully Wing, which include famous paintings such as the *Mona Lisa* and *The Liberty Guiding the People*, as well as renown sculptures like the *Venus of Milo* and *The Victory of Samothrace*.\
+Since we are talking about the largest art museum in the world, I couldn't think of a unique path that would singlehandedly cover all of the Louvre's main masterpieces in the aforementioned time window. Instead I thought it would be best to suggest one trail that focuses on the best the Louvre has to offer, which is perfect if 1/ it's your first time in this fantastic place and 2/ you are very eager on discovering the most famous pieces that give the Louvre its grandiose reputation. This trail revolves entirely around the Denon wing and some part of the Sully Wing, which include famous paintings such as the *Mona Lisa* and *The Liberty Guiding the People*, as well as renown sculptures like the *Venus of Milo* and *The Victory of Samothrace*.\
 But of course there are other masterpieces that might be niche but are still worth discovering in other parts of the museum, I listed most of them at the end of the article. If you still have time at the end of your tour, you should definity try and take a look at them.
 
 Enjoy !
@@ -42,9 +44,9 @@ Enjoy !
 
 </a>
 
-Assuming you already bought your ticket and figured out that the main entrance of the museum is actually through the controversial glass pyramid, you should now be facing 3 different rising escalators, each opening the way to one of the 3 different wings of the Louvre. Head to the one that has *Aile Denon* written next to it, and do not forgot to grab one of those nice museum maps that are waiting for you at the welcome desk.
+Assuming you already bought your ticket and figured out that the main entrance of the museum is actually through the (controversial) glass pyramid, you should now be facing 3 different rising escalators, each opening the way to one of the 3 different wings of the Louvre. 
 
-Walk through the ticket check, cross the corridor, then take the circular stairs on your right !
+Grab one of those nice museum maps that are waiting for you at the welcome desk, then head to the escalator that has *Aile Denon* written next to it and take it. Walk through the ticket check, cross the corridor, then take the circular stairs on your right !
 
 <a name="step2">
 
@@ -71,14 +73,14 @@ Leave the Salle du Manège through the big double door (which is located right w
 </a>
 
 ## Psyche revived by the kiss of love:
-Directly to your left after you come in, you will find "Psyche revived by the Kiss of Love", a marble masterpiece which took Venitian artist Canova many years of trial and error before finally being completed. Take a good look at it, because it is one of the most famous sculptures in the Louvre (if not the world).
+Directly to your left after you come in, you will find <a href="https://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid%27s_Kiss" target="_blank" style="color:darkorange">Psyche revived by the Kiss of Love</a>, a marble masterpiece which took Venitian artist Canova many years of trial and error before finally being completed. Take a good look at it, because it is one of the most famous sculptures in the Louvre (if not the world).
 
 ![psyche-cupide](../../images/sara-darcaj-YzamNB_T4WQ-unsplash.jpg)  
 
-Yet somehow, Canova's beautiful art is not the only star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: The Dying Slave and The Rebellious Slave, by Michelangelo. 
+Yet somehow, Canova's beautiful art is not the only star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: <a href="https://en.wikipedia.org/wiki/Dying_Slave" target="_blank" style="color:darkorange">The Dying Slave</a> and <a href="https://en.wikipedia.org/wiki/Rebellious_Slave" target="_blank" style="color:darkorange">The Rebellious Slave</a>, by Michelangelo. 
 
 ## The Dying Slave and The Rebellious Slave:
-I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, every single artpiece by Michelangelo could be considered a masterpiece. The Louvre posesses the twin sculptures of The Dying Slave and The Rebellious Slave, the former being a tad more popular than the latter. \
+I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, every single artpiece by Michelangelo could be considered a masterpiece. The Louvre posesses the twin sculptures of <a href="https://en.wikipedia.org/wiki/Dying_Slave" target="_blank" style="color:darkorange">The Dying Slave</a> and <a href="https://en.wikipedia.org/wiki/Rebellious_Slave" target="_blank" style="color:darkorange">The Rebellious Slave</a>, the former being a tad more popular than the latter. \
 Something that I always find true about Michelangelo's work is that one does not need to be an art expert to be able to appreciate it. You will no matter what find yourself captivated by its tremendous beauty, the genius of this artist was on an entirely different level.
 
 ![michelangelo-slaves](../../images/jean-baptiste-d-mTfhOmhvvQo-unsplash.jpg) 
@@ -95,11 +97,11 @@ The Galerie Daru is a large room whose two sides are populated by Roman and Etru
 ![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
 
 ## The Borghese Gladiator:
-For a few years now, the galerie has been home to some important antiquities from the notorious Italian Borghese Galerie, one of them being the Borghese Gladiator, which is considered as one of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). It can be found at the entrance of the room. 
+For a few years now, the galerie has been home to some important antiquities from the notorious Italian Borghese Galerie, one of them being the <a href="https://en.wikipedia.org/wiki/Borghese_Gladiator" target="_blank" style="color:darkorange">Borghese Gladiator</a>, which is considered as one of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). It can be found at the entrance of the room. 
 
 ![borghese-gladiator](../../images/Borghese_Gladiator,_Louvre_Museum,_Paris_15_June_2014.jpg)
 
-When you're done admiring the galerie, wave goodbye to the emperors as you cross the room, then climb up the main stairs.
+When you're done admiring the galerie, wave goodbye to the emperors as you cross the room and head to the main stairs.
 
 
 <a name="step5">
@@ -110,7 +112,7 @@ When you're done admiring the galerie, wave goodbye to the emperors as you cross
 Now this is a sight to behold ! \
 Atop the colossal main stairs of the Louvre stands a headless Greek Goddess named Niké. With wings widespread, she lands on the prow of a ship, announcing a forthcoming victory for her believers, or perhaps she is ready to take her flight, joining her fellow gods in mount Olympus.
 
-The *Winged Victory of Samothrace* is perhaps the most important sculpture that popped out of the Hellenestic period. It was discovered by French archaeologist Champoiseau in the island of Samothrace in the northern Aegean sea during the 19th century, and it has ever since been a denizen of the Louvre, one of the many jewels the museum is delighted to exhibit. Despite missing her head and a few limbs, the goddess looks stunning ! It is one of the rare Hellenestic sculptures that endured the test of time and which are not known through Roman replicas.
+The <a href="https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace" target="_blank" style="color:darkorange">Winged Victory of Samothrace</a> is perhaps the most important sculpture that popped out of the Hellenestic period. It was discovered by French archaeologist Champoiseau in the island of Samothrace in the northern Aegean sea during the 19th century, and it has ever since been a denizen of the Louvre, one of the many jewels the museum is delighted to exhibit. Despite missing her head and a few limbs, the goddess looks stunning ! It is one of the rare Hellenestic sculptures that endured the test of time and which are not known through Roman replicas.
 
 To fully appreciate the sculpture and all of its majesty, art experts advise not to stand in front of it but rather move slightly sto the right or left so that you could have a 3/4 view of the masterpiece.
 
@@ -123,9 +125,9 @@ Onto our next step ! As you face the statue, go left and enter the circular room
 # Step 6: a date with luxury in Galerie d'Apollon
 </a>
 
-Stupor and amazement are what usually strike people when they first penetrate the Galerie d'Apollon. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this extravagant monarch began to be known as the Sun King.
+Stupor and amazement are what usually strike people when they first penetrate the <a href="https://en.wikipedia.org/wiki/Galerie_d%27Apollon" target="_blank" style="color:darkorange">Galerie d'Apollon</a>. The room, named after the Greek God of light and arts Apollo, is the closest experience you can get to a Versailles castle visit while inside the Louvre, since it was designed by the same great minds who would architect a few years later Versailles under king Louis XIV's orders. Moreoever, it is because of this room and its symbol that this extravagant monarch began to be known as the Sun King.
 
-In this galerie, anything your eyes lie on is a Classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: *le Régent*, *l'Hortensia*, *le Sancy*.
+In this galerie, anything your eyes lie on is a Classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: <a href="https://en.wikipedia.org/wiki/Regent_Diamond" target="_blank" style="color:darkorange">the Regent</a>, <a href="https://en.wikipedia.org/wiki/Hortensia_diamond" target="_blank" style="color:darkorange">the Hortensia</a>, <a href="https://en.wikipedia.org/wiki/Sancy" target="_blank" style="color:darkorange">the Sancy</a>.
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
 
@@ -141,7 +143,7 @@ Exit sculptures and decorative arts, enter paintings ! (For now at least...)
 
 The *Salon Carré*, one of the most iconic Louvre rooms, is today filled with paintings of christian subjects. The Virgin, the Christ, and the Biblical Magi (among many others) are the stars of this place. It also posesses one of the most beautifully crafted ceilings that can be found in the museum.
 
-If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the *The Virgin and the Child* and *Three Scenes from the Story of Esther*, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: *Venus and the Three Graces Presenting Gifts to a Young Woman* and *A Young Man Being Introduced to the Seven Liberal Arts*. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
+If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the <a href="https://fr.wikipedia.org/wiki/Madone_des_Guidi_de_Faenza" target="_blank" style="color:darkorange">The Virgin and the Child</a> and <a href="https://fr.wikipedia.org/wiki/Trois_sc%C3%A8nes_de_l'histoire_d'Esther" target="_blank" style="color:darkorange">Three Scenes from the Story of Esther</a>, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: <a href="https://en.wikipedia.org/wiki/Venus_and_the_Three_Graces_Presenting_Gifts_to_a_Young_Woman" target="_blank" style="color:darkorange">Venus and the Three Graces Presenting Gifts to a Young Woman</a> and <a href="https://en.wikipedia.org/wiki/A_Young_Man_Being_Introduced_to_the_Seven_Liberal_Arts" target="_blank" style="color:darkorange">A Young Man Being Introduced to the Seven Liberal Arts</a>. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
 
 ![botticelli-threegraces](../../images/4085737980_a2856b0801_c.jpg)
 
@@ -153,11 +155,11 @@ Here is another iconic Louvre galerie, a long majestic hall in which a great col
 
 ![Grande-Galerie](../../images/louvre_routes_1_hero.jpg)
 
-Every artpiece in this galerie is worth to look at, but the most notable ones are Mantegna's *Saint Sebastian*, Da Vinci's *The Virgin and the Child* and *La Belle Ferrionnière*, and Ghirlandaio's *An Old Man and His Grandson*.
+Every artpiece in this galerie is worth to look at, but the most notable ones are Mantegna's  <a href="https://en.wikipedia.org/wiki/St._Sebastian_(Mantegna)" target="_blank" style="color:darkorange">Saint Sebastian</a>, Da Vinci's <a href="https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)" target="_blank" style="color:darkorange">The Virgin and the Child</a> and <a href="https://en.wikipedia.org/wiki/La_Belle_Ferronni%C3%A8re" target="_blank" style="color:darkorange">La Belle Ferrionnière</a>, and Ghirlandaio's  <a href="https://en.wikipedia.org/wiki/An_Old_Man_and_his_Grandson" target="_blank" style="color:darkorange">An Old Man and His Grandson</a>.
 
 ![Grande-Galerie-paintings](../../images/grande_galerie_paintings.jpg)
 
-You must have noticed on your way here a multitude of signs that show the way to the Mona Lisa. Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign of the Grande Galerie into the *Salle des Etats* for a quick detour to see the Renaissance lady. 
+Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign into the *Salle des Etats* for a quick detour to see the Renaissance lady (it is the second turn right in the *Grande Galerie*). 
 
 <a name="step8">
 
@@ -165,21 +167,21 @@ You must have noticed on your way here a multitude of signs that show the way to
 </a>
 
 ## The Mona Lisa
-The *Salle des Etats* is home to the Mona Lisa, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo (who has quite the enigmatic expression on her face). Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
+The *Salle des Etats* is home to the <a href="https://en.wikipedia.org/wiki/Mona_Lisa" target="_blank" style="color:darkorange">Mona Lisa</a>, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo (who has quite the enigmatic expression on her face). Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
 
 ![mona-lisa](../../images/the-free-birds-Iy16cl-VlMU-unsplash.jpg)
 
 Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, one can find in the *Salle des Etats* other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
 
 ## Veronese
-Starting with the one that directly faces the Italian lady: *The Wedding Feast of Cana* by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
+Starting with the one that directly faces the Italian lady: <a href="https://en.wikipedia.org/wiki/The_Wedding_at_Cana" target="_blank" style="color:darkorange">The Wedding Feast at Cana</a> by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
 
 ![veronese-cana](../../images/Paolo_Veronese_008.jpg)
 
-Two other Veroneses that should not be overlooked are *Supper at Emmaus*, after the biblical story of the Emmaus pilgrims who recognized and invited a resurrected Christ for supper, and *Jupyter Hurling Thunderbolts at the Vices*, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
+Two other Veroneses that should not be overlooked are <a href="https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Veronese)" target="_blank" style="color:darkorange">Supper at Emmaus</a>, after the biblical story of the Emmaus pilgrims who recognized and invited a resurrected Christ for supper, and <a href="https://fr.wikipedia.org/wiki/Fichier:Paolo_Veronese_-_Jupiter_Hurling_Thunderbolts_at_the_Vices_-_WGA24935.jpg" target="_blank" style="color:darkorange">Jupyter Hurling Thunderbolts at the Vices</a>, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
 
 ## Titian and Tintoretto
-Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many future artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's *Pastoral Concert* and *Woman with a Mirror*, and Tintoretto's *The Coronation of the Virgin*.
+Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many future artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's <a href="https://en.wikipedia.org/wiki/Pastoral_Concert" target="_blank" style="color:darkorange">Pastoral Concert</a> and <a href="https://en.wikipedia.org/wiki/Woman_with_a_Mirror" target="_blank" style="color:darkorange">Woman with a Mirror</a>, and Tintoretto's <a href="https://www.arthistoryproject.com/artists/tintoretto/the-coronation-of-the-virgin/" target="_blank" style="color:darkorange">The Coronation of the Virgin</a>.
 
 ![coronation-virgin](../../images/18125724863_e3700ef3a3_k.jpg)
 
@@ -190,9 +192,9 @@ Instead of exiting the room through the large door that is behind the Mona Lisa,
 # Step 9: taking a look at the British and American paintings of the Louvre
 </a>
 
-Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them William Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' *Master Hare*, William Turner's *Landscape with a River and a Bay in the Background*, and Gainsborough's famous *Conversation in a Park*.
+Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them William Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' <a href="https://fr.wikipedia.org/wiki/Fichier:Joshua_Reynolds_-_Master_Hare_-_WGA19342.jpg" target="_blank" style="color:darkorange">Master Hare</a>, William Turner's <a href="https://fr.wikipedia.org/wiki/Fichier:Joseph_Mallord_William_Turner_-_Landscape_with_a_River_and_a_Bay_in_the_Background_-_WGA23174.jpg" target="_blank" style="color:darkorange">Landscape with a River and a Bay in the Background</a>, and Gainsborough's famous <a href="https://fr.wikipedia.org/wiki/Conversation_dans_un_parc" target="_blank" style="color:darkorange">Conversation in a Park</a>.
 
-Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His *Pandaemonium* painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
+Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His <a href="https://fr.wikipedia.org/wiki/Fichier:John_Martin_Le_Pandemonium_Louvre.JPG" target="_blank" style="color:darkorange">Pandemonium</a> painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
 
 ![pandemonium](../../images/5c1b8c7fe383c1f319c5e6d9cf6a991d.jpg)
 
@@ -261,9 +263,9 @@ As I mentioned before, there are many, many others works of art in this gigantic
 ## The Code of Hammurabi:
 I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. On this black basalt stele is inscribed one of the world's first laws ever, written in the Akkadian language by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
 
-![hammurabi](../../images/5910671332_2ff9be8952_bc.jpg)
-
 Location: 
+
+![hammurabi](../../images/hammurabi.jpg)
 
 ## The Palace of Sargon II (The Khorsabad Courtyard):
 Delve into the beautiful palace of Assyrian king Sargon II, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
