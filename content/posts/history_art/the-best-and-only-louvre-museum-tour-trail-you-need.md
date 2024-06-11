@@ -1,8 +1,8 @@
 ---
 author: "Mohamed Moussaoui"
-title: "The best and only Louvre museum route you need"
+title: "The best and only Louvre museum tour trail you need"
 date: "2024-05-11"
-slug: "the-best-and-only-louvre-museum-routes-you-need"
+slug: "the-best-and-only-louvre-museum-tour-trail-you-need"
 hero_image: "../../images/louvre_routes_1_hero.jpg"
 hero_image_alt: "Louvre Grande Galerie"
 hero_image_credit_text: "Dat Vo"
@@ -36,7 +36,7 @@ Enjoy !
 - [Step 9: taking a look at the **British and American** paintings of the Louvre](#step9)
 - [Step 10: Romanticism and Neoclassicism go hand-in-hand in **Salle Mollien** and **Salle Daru**](#step10)
 - [Step 11: Coup de grâce with **greek antiquities**](#step11)
-
+- [Other works of art in the Louvre you should not miss](#other-works)
 
 <a name="step1">
 
@@ -194,7 +194,7 @@ Instead of exiting the room through the large door that is behind the Mona Lisa,
 
 Not many American and British artists have reached the notoriety of the Italians, but quite a few have left their mark and influenced many generations to come, amongst them William Turner, Gainsborough, and Reynolds. The Louvre is lucky enough to have some of their art displayed in these two blood-colored dark rooms you are in: Reynolds' <a href="https://fr.wikipedia.org/wiki/Fichier:Joshua_Reynolds_-_Master_Hare_-_WGA19342.jpg" target="_blank" style="color:darkorange">Master Hare</a>, William Turner's <a href="https://fr.wikipedia.org/wiki/Fichier:Joseph_Mallord_William_Turner_-_Landscape_with_a_River_and_a_Bay_in_the_Background_-_WGA23174.jpg" target="_blank" style="color:darkorange">Landscape with a River and a Bay in the Background</a>, and Gainsborough's famous <a href="https://fr.wikipedia.org/wiki/Conversation_dans_un_parc" target="_blank" style="color:darkorange">Conversation in a Park</a>.
 
-Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His <a href="https://fr.wikipedia.org/wiki/Fichier:John_Martin_Le_Pandemonium_Louvre.JPG" target="_blank" style="color:darkorange">Pandemonium</a> painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame, supposedly made by the artist himself, which adds to the overall experience. 
+Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His <a href="https://fr.wikipedia.org/wiki/Fichier:John_Martin_Le_Pandemonium_Louvre.JPG" target="_blank" style="color:darkorange">Pandemonium</a> painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame (supposedly made by the artist himself). 
 
 ![pandemonium](../../images/5c1b8c7fe383c1f319c5e6d9cf6a991d.jpg)
 
@@ -213,11 +213,11 @@ And thus, most of the paintings you will find in *Salle Mollien* belong to this 
 
 ![delacroix-libery](../../images/1600px-Detail_from__Liberty_Leading_the_People__at_the_Louvre_(7181064608).jpg)
 
-Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are *Liberty Leading the People*, *Women of Algiers in their Appartments*, *Scenes from the Massacre at Chios*, and my favourite *The Death of Sardanapalus*. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was able to prove the painter's genius.
+Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People" target="_blank" style="color:darkorange">Liberty Leading the People</a>, <a href="https://en.wikipedia.org/wiki/Women_of_Algiers" target="_blank" style="color:darkorange">Women of Algiers in their Appartments</a>, <a href="https://en.wikipedia.org/wiki/The_Massacre_at_Chios" target="_blank" style="color:darkorange">Scenes from the Massacre at Chios</a>, and my favourite <a href="https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus" target="_blank" style="color:darkorange">The Death of Sardanapalus</a>. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was able to prove the painter's genius.
 
 ![delacroix-sardanapalus](../../images/9473704982_b73bf6a36c_k.jpg)
 
-Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: *The Raft of the Medusa*, which tells (in a dramatic and *romantic* way) the 18th century story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
+Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People" target="_blank" style="color:darkorange">The Raft of the Medusa</a>, which tells (in a dramatic and *romantic* way) the 18th century story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
 
 ![gericault-medusa](../../images/raft-of-the-medusa-03e16a.jpg)
 
@@ -226,11 +226,11 @@ Cross the galerie, take a look at the little souvenir boutique that occupies the
 ## Salle Daru
 Neoclassicism was born in opposition to the Rococo style which was the dominating art movement of the 18th century. It focused on simplicity, clarity, and symmetry, and had a clear preference for representing scenes from Greco-Roman antiquity. Neoclassicism eventually had to compete with Romanticism, which had emerged as a reaction to the rigidity and lack of sensuality of the former.
 
-The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are *The Coronation of Napoleon*, *Leonidas at Thermopylae*, and the eternally beautiful *oath of the Horatii*.
+The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are <a href="https://en.wikipedia.org/wiki/The_Coronation_of_Napoleon" target="_blank" style="color:darkorange">The Coronation of Napoleon</a>, <a href="https://en.wikipedia.org/wiki/Leonidas_at_Thermopylae" target="_blank" style="color:darkorange">Leonidas at Thermopylae</a>, and the eternally beautiful <a href="https://en.wikipedia.org/wiki/Oath_of_the_Horatii" target="_blank" style="color:darkorange">The Oath of the Horatii</a>.
 
 ![david-horatii](../../images/2048px-_Oath_of_the_Horatii__by_Jacques-Louis_David.jpg)
 
-David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' *Grande Odalisque* and *The Apotheosis of Homer* (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's *Scene from a deluge* (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
+David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' <a href="https://en.wikipedia.org/wiki/Grande_Odalisque" target="_blank" style="color:darkorange">Grande Odalisque</a> and <a href="https://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)" target="_blank" style="color:darkorange">The Apotheosis of Homer</a> (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's <a href="https://en.wikipedia.org/wiki/Scene_from_a_Deluge" target="_blank" style="color:darkorange">Scene from a deluge</a> (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
 
 ![ingres-homer](../../images/23837726053_eff1d18673_k.jpg)
 
@@ -241,60 +241,64 @@ Leave *Salle Daru* and take the main stairs but not all the way down. As you rea
 # Step 11: Coup de grâce with Greek antiquities
 </a>
 
-The final step is a series of rooms which display many formidable Greek antiquities. One of these antiquities is the cherry on the cake of this trail and perhaps the most important artpiece the Louvre posesses (after the Mona Lisa) ! 
-
-Indeed, if you walk forward a bit, you will discover on your right the stunning *Venus of Milo*, a Hellenestic marble statue representing an armless Greek goddess Aphrodite (or Venus according to Roman mythology), which was discovered on the Greek island of Milo (hence the name). The artist is currently unknown. Its first exhibition in the 19th century made quite some noise, as people rushed to the museum to admire Venus' beauty and wonder what the full sculpture must have looked like.
+The final step is a series of rooms which display many formidable Greek antiquities. One of these antiquities is the cherry on the cake of this trail and perhaps the most important artpiece the Louvre posesses (after the Mona Lisa): if you walk forward a bit, you will discover on your right the stunning <a href="https://en.wikipedia.org/wiki/Venus_de_Milo" target="_blank" style="color:darkorange">Venus de Milo</a>, a Hellenestic marble statue representing an armless Greek goddess Aphrodite (or Venus according to Roman mythology), which was discovered on the Greek island of Milo (hence the name). The artist is currently unknown. Its first exhibition in the 19th century made quite some noise, as people rushed to the museum to admire Venus' beauty and wonder what the full sculpture must have looked like.
 
 ![venus-milo](../../images/tanya-prodaan-AzQcBvkhlgQ-unsplash.jpg)
 
-What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic *Salle des Caryatides*. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century, inspired by the ones found in Athens' Acropolis.
+What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic <a href="https://fr.wikipedia.org/wiki/Salle_des_Caryatides" target="_blank" style="color:darkorange">Salle des Caryatides</a>. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century and are inspired by the ones found in Athens' Acropolis.
 
 ![caryatides](../../images/Salle_des_Cariatides_in_Paris-Louvre.jpg)
 
-This room also accomodates in its center the most famous sculpture worldwide of Artemis/Diane, which depicts the Greek/Roman goddess of the hunt accompanied by a little deer, pulling an arrow from her quiver.
+This room also accomodates in its center the most famous sculpture worldwide of Artemis/Diana: <a href="https://en.wikipedia.org/wiki/Diana_of_Versaillese" target="_blank" style="color:darkorange">Diana of Versailles</a>, which depicts the Greek/Roman goddess of the hunt accompanied by a little deer, pulling an arrow from her quiver.
 
 ![diane-versailles](../../images/8436940886_393ca8cf66_k.jpg)
 
 This is the end of the trail! When you're done, you can walk through the Caryatides and go downstairs. You will end up in the central plaza of the Louvre.
 
-As I mentioned before, there are many, many others works of art in this gigantic museum that deserve some attention, but no sane person actually dares to do the entirety of the Louvre in a single tour. What I suggest to you below is a list of masterpieces that can be found in rooms you have not yet visited and which, in my humble opinion, deserve the detour if you have some time on your hand (or if perhaps you plan on visiting the museum again). Otherwise, I deeply hope the tour was very pleasing and easy to follow, and that it made you fall in love with this culturally rich place as much as I do.
+<a name="other-works">
 
 # Other works of art in the Louvre you should not miss: 
-## The Code of Hammurabi:
-I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: the Code of Hammurabi. On this black basalt stele is inscribed one of the world's first laws ever, written in the Akkadian language by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
+</a>
 
-Location: 
+As I mentioned before, there are many, many others works of art in this gigantic museum that deserve some attention, but since no sane person actually should try to visit the entirety of the Louvre in a single tour, I did not include them in the trail.\
+What I suggest to you below is a list of masterpieces that can be found in rooms you have not yet visited and which, in my humble opinion, deserve the detour if you have some time on your hand (or if perhaps you plan on visiting the museum again). Otherwise, I deeply hope the tour was very pleasing and easy to follow, and that it made you fall in love with this culturally rich place as much as I do.
+
+## The Code of Hammurabi:
+I'm a big sucker for Mesopotamia history, and even though it is terribly underrated, I present to you one of Mesopotamia's most important legacies: <a href="https://en.wikipedia.org/wiki/Code_of_Hammurabi" target="_blank" style="color:darkorange">the Code of Hammurabi</a>. On this black basalt stele is inscribed some of the world's first laws ever, written in the Akkadian language by Babylonian king Hammurabi in the 18th century BCE. You can learn about some of its rules on the posters that accompany it.
+
+**Location**: room 227, level 0, Richelieu wing.
 
 ![hammurabi](../../images/hammurabi.jpg)
 
 ## The Palace of Sargon II (The Khorsabad Courtyard):
-Delve into the beautiful palace of Assyrian king Sargon II, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
+Delve into the <a href="https://www.louvre.fr/en/explore/the-palace/the-palace-of-sargon-ii" target="_blank" style="color:darkorange">beautiful palace of Assyrian king Sargon II</a>, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
+
+**Location**: room 229, level 0, Richelieu wing.
 
 ![sargon2](../../images/Winged_Bull,_Palace_of_Sargon_II_in_the_Musee_de_Louvre_(300120174).jpg)
 
-Location:
-
 ## The Marly and Puget Courtyards:
 You have most probably already seen pictures of these places, and you might even have been excited to visit them, and subsequently disappointed to find out they weren't part of the tour (if that's the case, sorry, it was hard to fit everything !).\
-Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these two beautiful piazzas, which are inhabited by stunning French sculptures. Do not miss out on the *Horses of Marly*!
+Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these two beautiful piazzas, which are inhabited by stunning French sculptures. Do not miss out on the <a href="https://en.wikipedia.org/wiki/Marly_Horses" target="_blank" style="color:darkorange">Horses of Marly</a>!
+
+**Location**: rooms 102 and 105, level -1, Richelieu wing.
 
 ![marly-puget](../../images/alex-harmuth-oqNXYz8yM0o-unsplash.jpg)
 
-Location:
+## Napoléon III's apartments:
+As you may know, the Louvre has not always been a museum, it has previously served as the residences of both kings and emperors. Today, you can visit the recently renovated <a href="https://fr.wikipedia.org/wiki/Appartements_Napol%C3%A9on_III" target="_blank" style="color:darkorange">apartments of Napoléon III</a>. Luxurious decorative objects and pretty colours are on the agenda.
 
-## Napoléon III's appartments:
-As you may know, the Louvre has not always been a museum, it has previously served as the residences of both kings and emperors. Today, you can visit the recently renovated appartments of Napoléon III. Luxurious decorative objects and pretty colours are on the agenda.
+**Location**: level 1, Richelieu wing.
 
 ![napoleon3](../../images/amy-leigh-barnard-wcd5veuiC_0-unsplash.jpg)
 
-Location:
-
 ## The Seated Scribe:
-The only Egyptian sculpture of this list, the *Seated Scribe* is one of the Louvre's treasures. It represents a sitting scribe (ie: a man whose job was to write administrative or religious texts, akin to an official today). What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
+The only Egyptian sculpture of this list, the <a href="https://en.wikipedia.org/wiki/The_Seated_Scribe" target="_blank" style="color:darkorange">Seated Scribe</a> is one of the Louvre's treasures. It represents a sitting scribe (ie: a man whose job was to write administrative or religious texts, akin to an official today). What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
+
+**Location**: room 635, level 1, Sully wing.
 
 ![seated-scribe](../../images/The_Seated_Scribe,_Louvre_28_May_2017_001_cropped.jpg)
 
-Location:
 
 
 
