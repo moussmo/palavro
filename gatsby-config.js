@@ -1,8 +1,10 @@
 const config = require("./config.json")
 const infoData = require("./content/data/info.json")
-
 module.exports = {
-  //this makes the site config available to forestry cms
+  
+}
+module.exports = {
+  pathPrefix: "/caecias",
   siteMetadata: {
     title: config.title,
     description: config.description,
@@ -13,6 +15,12 @@ module.exports = {
     infoData: infoData
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: "caecias-s3",
+      },
+    },
     "gatsby-plugin-image",
     "gatsby-plugin-sass",
     "gatsby-plugin-react-helmet",
