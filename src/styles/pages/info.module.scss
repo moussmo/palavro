@@ -1,0 +1,137 @@
+
+  .text-blk {
+    max-width: 800px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    line-height: 25px;
+  }
+  
+  .responsive-container-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .text-blk.heading {
+    max-width: 800px;
+    font-size: 36px;
+    line-height: 45px;
+    font-weight: 800;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+  }
+  
+  .text-blk.subHeading {
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+  }
+  
+  .social-icona {
+    width: 33px;
+    height: 33px;
+  }
+  
+  .social-icons-container {
+    width:40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .social-icon:hover {
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    .text-blk.heading {
+      font-size: 55px;
+      line-height: 65px;
+    }
+  
+    .text-blk.subHeading {
+      font-size: 18px;
+      line-height: 24px;
+    }
+  
+    .social-icona {
+      width: 20px;
+      height: 20px;
+    }
+  
+    .text-blk.subHeading {
+      line-height: 27px;
+    }
+  
+    .text-blk.heading {
+      font-size: 32px;
+      line-height: 40px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 20px;
+      margin-left: 0px;
+    }
+  
+    .social-icon {
+      margin: 0 25px 0 25px;
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .responsive-container-block.bigContainer {
+      padding-top: 10px;
+      padding-right: 20px;
+      padding-bottom: 10px;
+      padding-left: 20px;
+    }
+  
+    .text-blk.heading {
+      font-size: 45px;
+      line-height: 55px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 20px;
+      margin-left: 0px;
+    }
+  
+    .text-blk.subHeading {
+      font-size: 14px;
+      line-height: 22px;
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 30px;
+      margin-left: 0px;
+    }
+  
+    .social-icons-container {
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .text-blk.subHeading {
+      font-size: 16px;
+      line-height: 23px;
+    }
+  
+    .text-blk.heading {
+      font-size: 26px;
+      line-height: 30px;
+    }
+  
+    .social-icon {
+      margin: 0 20px 0 20px;
+    }
+  }

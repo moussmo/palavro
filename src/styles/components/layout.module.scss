@@ -3,15 +3,15 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #874F41;
+  min-width: 100%;
 }
 
 .content {
-  flex-grow: 1;
   min-height : 100vh;
   color : #244855;
-  // background-color: #FBE9D0;
   background-color: #f8efe4;
+  align-items: center;
+  justify-content: center;
 }
 
 .section__title{
@@ -24,7 +24,7 @@
 
 @media (min-width: 1161px) {
   .layout {
-    display: block;
+    display: flex;
   }
   .content {
     margin-left: clamp(300px, 20%, 20%);
