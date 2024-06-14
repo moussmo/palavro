@@ -5,7 +5,7 @@ import useSiteMetaData from "../static_queries/useSiteMetadata"
 import githubLogoImage from '../../static/github-logo.png'
 import linkedinLogoImage from '../../static/linkedin-logo.png'
 import aboutmeImage from '../../static/aboutmePicture.jpg'
-
+import mailLogoImage from '../../static/mail-logo.png'
 
 export default function Info() {
   const { infoData } = useSiteMetaData()
@@ -28,7 +28,10 @@ export default function Info() {
               <img className={infoStyles.socialIcon}
                src={linkedinLogoImage}/>
             </a>
-
+            <a className={infoStyles.socialIcona} href="mailto:mouss.mo.ke@gmail.com" target="_blank">
+              <img className={infoStyles.socialIcon}
+               src={mailLogoImage}/>
+            </a>
           </div>
         </div>
     </Layout>

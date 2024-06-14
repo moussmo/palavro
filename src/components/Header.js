@@ -34,7 +34,7 @@ export default function Header(props) {
           </h1>
           <h1>
             <Link to="/info" activeClassName={headerStyles.navItemActive}>
-              contact me
+              about me
             </Link>
           </h1>
         </div>
