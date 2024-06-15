@@ -71,3 +71,7 @@ yarn-error.log
 package-lock.json
 package.json
 yarn.lock
+
+# content
+content/posts/*
+content/images/*
