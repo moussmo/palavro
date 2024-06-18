@@ -16,7 +16,9 @@ But there is actually a third option one usually forgets to consider: you could 
 
 The trail I'm presenting here is destined to everyone, but more specifically to whoever is planning to visit the Louvre in the near future and wants to have the fullest experience in a reasonable time frame, say no more than 2 to 3 hours (because yes, you cannot and should not spend the entirety of your Paris trip in a museum, am I right ?).
 
-![pyramid](../../images/jonathan-velasquez-eUSpDPSFdKU-unsplash.jpg)  
+![pyramid](../../images/jonathan-velasquez-eUSpDPSFdKU-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/batiment-brun-et-blanc-eUSpDPSFdKU" target="_blank">Louvre pyramid, by Jonathan Velasquez </a></span>
+
 
 Since we are talking about the largest art museum in the world, I couldn't think of a unique path that would singlehandedly cover all of the Louvre's main masterpieces in the aforementioned time window. Instead I thought it would be best to suggest one trail that focuses on the best the Louvre has to offer, which is perfect if 1/ it's your first time in this fantastic place and 2/ you are very eager on discovering the most famous pieces that give the Louvre its grandiose reputation. This trail revolves entirely around the Denon wing and some part of the Sully Wing, which include famous paintings such as the *Mona Lisa* and *The Liberty Guiding the People*, as well as renown sculptures like the *Venus of Milo* and *The Victory of Samothrace*.\
 But of course there are other masterpieces that might be niche but are still worth discovering in other parts of the museum, I listed most of them at the end of the article. If you still have time at the end of your tour, you should definity try and take a look at them.

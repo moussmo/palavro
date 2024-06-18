@@ -73,5 +73,5 @@ package.json
 yarn.lock
 
 # content
-content/posts/*
-content/images/*
+content/posts/
+content/images/
