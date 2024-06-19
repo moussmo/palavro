@@ -59,10 +59,11 @@ The Salle du Manège might not be the most impressive room in the museum, but it
 
 My two personal favourite pieces of the Salle du Manège are:
 
-## Jupyter de Versailles: 
+## Jupyter of Versailles: 
 A bust of the Roman king of gods. A statue which, in my opinion, faithfully gives Jupyter the imposant and dominant stature that is so characteristic of him.
 
-![jupyter-versailles](../../images/jon-tyson2-5FeklsP6gWk-unsplash.jpg)  
+![jupyter-versailles](../../images/jon-tyson2-5FeklsP6gWk-unsplash.jpg) 
+<span class="legend"><a href="https://unsplash.com/fr/photos/femme-debout-a-cote-de-la-statue-5FeklsP6gWk" target="_blank">Jupyter of Versailles, by Jon Tyson </a></span> 
 
 ## The composite statue of Antinous:
 The result of the combination of the body of Greek mythology hero Heracles and the head of Antinous, who was Roman emperor Hadrian's lover. After tragically drowning in the Nile, he was deified by the grieving emperor to be forever worshipped as a god. The statue is to be find at the back of the room.
@@ -77,7 +78,8 @@ Leave the Salle du Manège through the big double door (which is located right w
 ## Psyche revived by the kiss of love:
 Directly to your left after you come in, you will find <a href="https://en.wikipedia.org/wiki/Psyche_Revived_by_Cupid%27s_Kiss" target="_blank" style="color:darkorange">Psyche revived by the Kiss of Love</a>, a marble masterpiece which took Venitian artist Canova many years of trial and error before finally being completed. Take a good look at it, because it is one of the most famous sculptures in the Louvre (if not the world).
 
-![psyche-cupide](../../images/sara-darcaj-YzamNB_T4WQ-unsplash.jpg)  
+![psyche-cupide](../../images/sara-darcaj-YzamNB_T4WQ-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/statue-de-femme-et-dange-sembrassant-YzamNB_T4WQ" target="_blank">Psyche revived by the kiss of love, by Sara Darcaj </a></span>
 
 Yet somehow, Canova's beautiful art is not the only star inhabiting the Galerie Michel-Ange, there is another diva in the room and it comes in two distinct sculptures: <a href="https://en.wikipedia.org/wiki/Dying_Slave" target="_blank" style="color:darkorange">The Dying Slave</a> and <a href="https://en.wikipedia.org/wiki/Rebellious_Slave" target="_blank" style="color:darkorange">The Rebellious Slave</a>, by Michelangelo. 
 
@@ -85,7 +87,8 @@ Yet somehow, Canova's beautiful art is not the only star inhabiting the Galerie 
 I believe there is no need to introduce Michelangelo anymore, the work of this artist of the prodigious florentine Renaissance generation (along Da Vinci, Raphael, and Donatello) has fascinated the world and has been a notorious subject of study for many scholars. Even though he is mainly remembered for his David and the Sistine chapel's colorful ceiling, every single artpiece by Michelangelo could be considered a masterpiece. The Louvre posesses the twin sculptures of <a href="https://en.wikipedia.org/wiki/Dying_Slave" target="_blank" style="color:darkorange">The Dying Slave</a> and <a href="https://en.wikipedia.org/wiki/Rebellious_Slave" target="_blank" style="color:darkorange">The Rebellious Slave</a>, the former being a tad more popular than the latter. \
 Something that I always find true about Michelangelo's work is that one does not need to be an art expert to be able to appreciate it. You will no matter what find yourself captivated by its tremendous beauty, the genius of this artist was on an entirely different level.
 
-![michelangelo-slaves](../../images/jean-baptiste-d-mTfhOmhvvQo-unsplash.jpg) 
+![michelangelo-slaves](../../images/jean-baptiste-d-mTfhOmhvvQo-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/homme-aux-seins-nus-avec-une-fleur-blanche-sur-la-tete-mTfhOmhvvQo" target="_blank">The Dying Slave, by Jean-Baptiste </a></span> 
 
 Instead of passing by the Slaves to go up the stairs sitting behind them, you will now turn around, walk back and leave the Galerie Michel-Ange from where you first entered in, say hi to the pyramid again, and walk forward to the Galerie Daru. 
 
@@ -97,11 +100,13 @@ Instead of passing by the Slaves to go up the stairs sitting behind them, you wi
 The Galerie Daru is a large room whose two sides are populated by Roman and Etruscan antiquities, mainly status of those quirky Romans we have come to know (and love ?) as emperors. This is the perfect opportunity to put faces on those names you've maybe heard in the past: Augustus, Trajan, Commodus, etc.
 
 ![galerie-daru](../../images/mingrui-he-e_5k5P07mzw-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/un-groupe-de-personnes-se-promenant-dans-un-musee-e_5k5P07mzw" target="_blank">Galerie Daru, by Mingrui He </a></span> 
 
 ## The Borghese Gladiator:
 For a few years now, the galerie has been home to some important antiquities from the notorious Italian Borghese Galerie, one of them being the <a href="https://en.wikipedia.org/wiki/Borghese_Gladiator" target="_blank" style="color:darkorange">Borghese Gladiator</a>, which is considered as one of the most important legacies of the Hellenestic period (323 BCE - 31 BCE). It can be found at the entrance of the room. 
 
 ![borghese-gladiator](../../images/Borghese_Gladiator,_Louvre_Museum,_Paris_15_June_2014.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/ironypoisoning/14355192699/" target="_blank">Borghese Gladiator, by Connie Ma (CC BY-SA 2.0)</a></span> 
 
 When you're done admiring the galerie, wave goodbye to the emperors as you cross the room and head to the main stairs.
 
@@ -119,6 +124,7 @@ The <a href="https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace" target=
 To fully appreciate the sculpture and all of its majesty, art experts advise not to stand in front of it but rather move slightly sto the right or left so that you could have a 3/4 view of the masterpiece.
 
 ![samothrace](../../images/junhyung-park-NKh-_Sy4Oz8-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/une-statue-dune-femme-avec-des-ailes-dans-un-batiment-NKh-_Sy4Oz8" target="_blank">The Victory of Samothrace, by Junhyung Park</a></span> 
 
 Onto our next step ! As you face the statue, go left and enter the circular room known as the *Rotonde de la Galerie d'Apollon* (in which are engraved the names of the most important and critical donators of the Louvre), then walk right into the worldrenown *Galerie d'Apollon*.
 
@@ -132,6 +138,7 @@ Stupor and amazement are what usually strike people when they first penetrate th
 In this galerie, anything your eyes lie on is a Classicism gem, but not only figuratively speaking ! Indeed, what is displayed today in the center of the hall is Louis XIV's gem collection, including 3 diamonds that once belonged to old royal families: <a href="https://en.wikipedia.org/wiki/Regent_Diamond" target="_blank" style="color:darkorange">the Regent</a>, <a href="https://en.wikipedia.org/wiki/Hortensia_diamond" target="_blank" style="color:darkorange">the Hortensia</a>, <a href="https://en.wikipedia.org/wiki/Sancy" target="_blank" style="color:darkorange">the Sancy</a>.
 
 ![apollon-galerie](../../images/dan-asaki-PKYdCjfZtJg-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/un-long-couloir-avec-une-peinture-au-plafond-PKYdCjfZtJg" target="_blank">The Galerie d'Apollon, by Dan Asaki</a></span> 
 
 At the back of the galerie, you will find a door that takes you to your next destination.
 <a name="step7">
@@ -148,6 +155,7 @@ The *Salon Carré*, one of the most iconic Louvre rooms, is today filled with pa
 If you happen to be a Sandro Botticelli fan, you will be happy to know that the Renaissance artist has some of his work exhibited in the Louvre. In the *Sallon Carré*, one can take a look at the <a href="https://fr.wikipedia.org/wiki/Madone_des_Guidi_de_Faenza" target="_blank" style="color:darkorange">The Virgin and the Child</a> and <a href="https://fr.wikipedia.org/wiki/Trois_sc%C3%A8nes_de_l'histoire_d'Esther" target="_blank" style="color:darkorange">Three Scenes from the Story of Esther</a>, and if you dare exit the room from the right and walk towards the main stairs, you will encounter two frescoes by Botticelli: <a href="https://en.wikipedia.org/wiki/Venus_and_the_Three_Graces_Presenting_Gifts_to_a_Young_Woman" target="_blank" style="color:darkorange">Venus and the Three Graces Presenting Gifts to a Young Woman</a> and <a href="https://en.wikipedia.org/wiki/A_Young_Man_Being_Introduced_to_the_Seven_Liberal_Arts" target="_blank" style="color:darkorange">A Young Man Being Introduced to the Seven Liberal Arts</a>. (If you decide to venture to see the frescoes, walk back to the *Sallon Carré* when you're done).
 
 ![botticelli-threegraces](../../images/4085737980_a2856b0801_c.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/snarfel/4085737980" target="_blank">Venus and the Three Graces Presenting Gifts to a Young Woman, by Frans Vandewalle (CC BY-SA 2.0)</a></span> 
 
 Leave through the door that faces the Galerie d'Apollon (from which you came in), and walk into the Grande Galerie.
 
@@ -156,10 +164,12 @@ Leave through the door that faces the Galerie d'Apollon (from which you came in)
 Here is another iconic Louvre galerie, a long majestic hall in which a great collection of Italian paintings is displayed. For a lot of people, this is the image that is conjured when their mind thinks of the Louvre. 
 
 ![Grande-Galerie](../../images/louvre_routes_1_hero.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/personnes-marchant-a-linterieur-dun-batiment-pendant-la-journee-usGKkIb69ms" target="_blank">Grande Galerie, by DAT VO</a></span> 
 
-Every artpiece in this galerie is worth to look at, but the most notable ones are Mantegna's  <a href="https://en.wikipedia.org/wiki/St._Sebastian_(Mantegna)" target="_blank" style="color:darkorange">Saint Sebastian</a>, Da Vinci's <a href="https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)" target="_blank" style="color:darkorange">The Virgin and the Child</a> and <a href="https://en.wikipedia.org/wiki/La_Belle_Ferronni%C3%A8re" target="_blank" style="color:darkorange">La Belle Ferrionnière</a>, and Ghirlandaio's  <a href="https://en.wikipedia.org/wiki/An_Old_Man_and_his_Grandson" target="_blank" style="color:darkorange">An Old Man and His Grandson</a>.
+Every artpiece in this galerie is incredible to look at, but the most notable ones are Mantegna's  <a href="https://en.wikipedia.org/wiki/St._Sebastian_(Mantegna)" target="_blank" style="color:darkorange">Saint Sebastian</a>, Da Vinci's <a href="https://en.wikipedia.org/wiki/The_Virgin_and_Child_with_Saint_Anne_(Leonardo)" target="_blank" style="color:darkorange">The Virgin and the Child</a> and <a href="https://en.wikipedia.org/wiki/La_Belle_Ferronni%C3%A8re" target="_blank" style="color:darkorange">La Belle Ferrionnière</a>, and Ghirlandaio's  <a href="https://en.wikipedia.org/wiki/An_Old_Man_and_his_Grandson" target="_blank" style="color:darkorange">An Old Man and His Grandson</a>.
 
 ![Grande-Galerie-paintings](../../images/grande_galerie_paintings.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/dalbera/8539680985" target="_blank">Saint-Sebastian</a>, <a href="https://picryl.com/media/leonardo-da-vinci-attrib-la-belle-ferroniere-5d32be" target="_blank">La Belle Ferronière</a>, <a href="https://garystockbridge617.getarchive.net/amp/media/ghirlandaio-domenico-an-old-man-and-his-grandson-louvre-google-art-project-a977e5" target="_blank">An Old Man and His Grandson</a></span> 
 
 Instead of walking through the entirety of the hall, you will follow the Mona Lisa sign into the *Salle des Etats* for a quick detour to see the Renaissance lady (it is the second turn right in the *Grande Galerie*). 
 
@@ -172,6 +182,7 @@ Instead of walking through the entirety of the hall, you will follow the Mona Li
 The *Salle des Etats* is home to the <a href="https://en.wikipedia.org/wiki/Mona_Lisa" target="_blank" style="color:darkorange">Mona Lisa</a>, the most famous, visited, written about, parodied, but also misunderstood work of art in the world. It was painted during the first years of the 16th century by master Leonardo Da Vinci, and portrays the noblewoman Lisa del Giocondo (who has quite the enigmatic expression on her face). Part of what made the artpiece so famous was its 1911 robbery by Peruggia, an Italian patriot who believed the painting belonged to Italy, even though he tried selling it two years after the theft.
 
 ![mona-lisa](../../images/the-free-birds-Iy16cl-VlMU-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/femme-en-haut-noir-debout-pres-des-gens-Iy16cl-VlMU" target="_blank">Mona Lisa, by The Free Birds</a></span> 
 
 Chances are the room is overcrowded and you find no space to approach Da Vinci's masterpiece. If that is the case, I sympathize with you. But do not despair, one can find in the *Salle des Etats* other chefs d'oeuvres that are, in my opinion, equally impressive as the Mona Lisa. 
 
@@ -179,6 +190,7 @@ Chances are the room is overcrowded and you find no space to approach Da Vinci's
 Starting with the one that directly faces the Italian lady: <a href="https://en.wikipedia.org/wiki/The_Wedding_at_Cana" target="_blank" style="color:darkorange">The Wedding Feast at Cana</a> by Paolo Veronese. In addition to being the largest painting of the Louvre, this monumental painting also depicts 130 different characters, enough for a game of "Where is Wall...Jesus ?".
 
 ![veronese-cana](../../images/Paolo_Veronese_008.jpg)
+<span class="legend"><a href="https://commons.wikimedia.org/wiki/File:Paolo_Veronese_008.jpg?uselang=fr" target="_blank">The Wedding Feast at Cana</a></span> 
 
 Two other Veroneses that should not be overlooked are <a href="https://en.wikipedia.org/wiki/Supper_at_Emmaus_(Veronese)" target="_blank" style="color:darkorange">Supper at Emmaus</a>, after the biblical story of the Emmaus pilgrims who recognized and invited a resurrected Christ for supper, and <a href="https://fr.wikipedia.org/wiki/Fichier:Paolo_Veronese_-_Jupiter_Hurling_Thunderbolts_at_the_Vices_-_WGA24935.jpg" target="_blank" style="color:darkorange">Jupyter Hurling Thunderbolts at the Vices</a>, which used to be a ceiling decoration at the Venitian Doge's Palace before being gifted to the Louvre.
 
@@ -186,6 +198,7 @@ Two other Veroneses that should not be overlooked are <a href="https://en.wikipe
 Somehow, there are even more Renaissance big names who have their work exhibited in the small *Salle des Etats*, such as the Titian and Tintoretto. These two Venitian artists are experts at using colours, be it the sfumato or the chiaroscuro, and their legacy was a source of inspiration for many future artists, with Tintoretto being known today as the precursor of Baroque art. In this room you can take a look at Titian's <a href="https://en.wikipedia.org/wiki/Pastoral_Concert" target="_blank" style="color:darkorange">Pastoral Concert</a> and <a href="https://en.wikipedia.org/wiki/Woman_with_a_Mirror" target="_blank" style="color:darkorange">Woman with a Mirror</a>, and Tintoretto's <a href="https://www.arthistoryproject.com/artists/tintoretto/the-coronation-of-the-virgin/" target="_blank" style="color:darkorange">The Coronation of the Virgin</a>.
 
 ![coronation-virgin](../../images/18125724863_e3700ef3a3_k.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/lluisribes/18125724863" target="_blank">The Coronation of the Virgin, by Lluís Ribes Mate (CC BY-NC 2.0)</a></span> 
 
 Instead of exiting the room through the large door that is behind the Mona Lisa, rejoin the *Grande Galerie* and keep walking until you find a little door on your right, take it.
 
@@ -199,6 +212,7 @@ Not many American and British artists have reached the notoriety of the Italians
 Yet, my personal favourite of the room was done by a lesser known British artist who specialized in dramatic landscapes and fantastic compositions: John Martin. His <a href="https://fr.wikipedia.org/wiki/Fichier:John_Martin_Le_Pandemonium_Louvre.JPG" target="_blank" style="color:darkorange">Pandemonium</a> painting never fails to send chills down my spine with its dark religious theme and its serpent-decorated frame (supposedly made by the artist himself). 
 
 ![pandemonium](../../images/5c1b8c7fe383c1f319c5e6d9cf6a991d.jpg)
+<span class="legend"><a href="https://cdn.creazilla.com/illustrations/6958974/john-martin-pandemonium-wga14149-illustration-md.jpeg" target="_blank">The Pandemonium</a></span> 
 
 Cross the two rooms until you find the little *café Mollien*, where you can have some respite if needed, then walk onto *Salle Mollien* for our penultimate step.
 
@@ -214,14 +228,17 @@ Romanticism was initially Europe's response to the age of englightenment and the
 And thus, most of the paintings you will find in *Salle Mollien* belong to this Romanticism movement, and were made by artists who had a specific goal in mind: to convey emotions to the observer.
 
 ![delacroix-libery](../../images/1600px-Detail_from__Liberty_Leading_the_People__at_the_Louvre_(7181064608).jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/14824807@N00/7181064608/" target="_blank">Detail from Liberty Leading the People, by Larry (CC BY 2.0)</a></span> 
 
 Delacroix, great French master of Romanticism is the author of many of the paintings in *Salle Mollien*. The most notable ones are <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People" target="_blank" style="color:darkorange">Liberty Leading the People</a>, <a href="https://en.wikipedia.org/wiki/Women_of_Algiers" target="_blank" style="color:darkorange">Women of Algiers in their Appartments</a>, <a href="https://en.wikipedia.org/wiki/The_Massacre_at_Chios" target="_blank" style="color:darkorange">Scenes from the Massacre at Chios</a>, and my favourite <a href="https://en.wikipedia.org/wiki/The_Death_of_Sardanapalus" target="_blank" style="color:darkorange">The Death of Sardanapalus</a>. Fun fact: the latter was seen as an abomination by many of Delacroix's contemporaries when he first unveiled it, only time was able to prove the painter's genius.
 
 ![delacroix-sardanapalus](../../images/9473704982_b73bf6a36c_k.jpg)
+<span class="legend"><a href="https://flickr.com/photos/lluisribes/9473704982/in/pool-louvre/" target="_blank">The Death of Sardanapalus, by Lluís Ribes Mate (CC BY-NC 2.0)</a></span> 
 
 Another French renown painter of the 19th century was Géricault, in this galerie you can admire his most precious work: <a href="https://en.wikipedia.org/wiki/Liberty_Leading_the_People" target="_blank" style="color:darkorange">The Raft of the Medusa</a>, which tells (in a dramatic and *romantic* way) the 18th century story of the French naval frigate *Méduse*, whose wreck caused the few survivors to endure extreme conditions of starvation and dehydration and resort to cannibalism, only 15 out of 147 survived. This painting is the best example of how Romanticism aims to move the observer, in this case by building in them a sense of sadness and despair.
 
 ![gericault-medusa](../../images/raft-of-the-medusa-03e16a.jpg)
+<span class="legend"><a href="https://picryl.com/media/raft-of-the-medusa-03e16a" target="_blank">Raft of the Medusa (Public Domain)</a></span> 
 
 Cross the galerie, take a look at the little souvenir boutique that occupies the squared *Salle Denon* if you wish, then enter *Salle Daru*.
 
@@ -231,10 +248,12 @@ Neoclassicism was born in opposition to the Rococo style which was the dominatin
 The artist who led the Neoclassicism wave in France was Jacques-Louis David. David is the perfect example of what would be considered today a "history nerd", and this definitely could be seen in his art as he represented many little-known stories from classical antiquity. Some of my favourite David paintings that are exhibited in the Louvre and that I believe should not be missed are <a href="https://en.wikipedia.org/wiki/The_Coronation_of_Napoleon" target="_blank" style="color:darkorange">The Coronation of Napoleon</a>, <a href="https://en.wikipedia.org/wiki/Leonidas_at_Thermopylae" target="_blank" style="color:darkorange">Leonidas at Thermopylae</a>, and the eternally beautiful <a href="https://en.wikipedia.org/wiki/Oath_of_the_Horatii" target="_blank" style="color:darkorange">The Oath of the Horatii</a>.
 
 ![david-horatii](../../images/2048px-_Oath_of_the_Horatii__by_Jacques-Louis_David.jpg)
+<span class="legend"><a href="https://www.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution/a/david-oath-of-the-horatii" target="_blank">Oath of the Horatii</a></span> 
 
 David had many apprentices who history has come to remember as the *Davidians*, some of them kept his art philosophy alive by following the Neoclassicism route. The most notable ones are Girodet-Trioson, and Ingres, whose work surround their master's in *Salle Daru*, such as Ingres' <a href="https://en.wikipedia.org/wiki/Grande_Odalisque" target="_blank" style="color:darkorange">Grande Odalisque</a> and <a href="https://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)" target="_blank" style="color:darkorange">The Apotheosis of Homer</a> (which sees Homer deified in the presence of some of history's most influential personnages) and Girodet-Trioson's <a href="https://en.wikipedia.org/wiki/Scene_from_a_Deluge" target="_blank" style="color:darkorange">Scene from a deluge</a> (a representation of the mythical catastrophe known as the deluge, a painting is actually closer to Romanticism than Neoclassicism).
 
 ![ingres-homer](../../images/23837726053_eff1d18673_k.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/profzucker/23837726053" target="_blank">The Apotheosis of Homer, by Steven Zucker (CC BY-NC-SA 2.0)</a></span> 
 
 Leave *Salle Daru* and take the main stairs but not all the way down. As you reach the first landing, turn right (or left) and walk behind the stairs. 
 
@@ -246,14 +265,17 @@ Leave *Salle Daru* and take the main stairs but not all the way down. As you rea
 The final step is a series of rooms which display many formidable Greek antiquities. One of these antiquities is the cherry on the cake of this trail and perhaps the most important artpiece the Louvre posesses (after the Mona Lisa): if you walk forward a bit, you will discover on your right the stunning <a href="https://en.wikipedia.org/wiki/Venus_de_Milo" target="_blank" style="color:darkorange">Venus de Milo</a>, a Hellenestic marble statue representing an armless Greek goddess Aphrodite (or Venus according to Roman mythology), which was discovered on the Greek island of Milo (hence the name). The artist is currently unknown. Its first exhibition in the 19th century made quite some noise, as people rushed to the museum to admire Venus' beauty and wonder what the full sculpture must have looked like.
 
 ![venus-milo](../../images/tanya-prodaan-AzQcBvkhlgQ-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/statue-blanche-de-femme-AzQcBvkhlgQ" target="_blank">Venus de Milo, by Tanya Prodaan</a></span> 
 
 What faces the statue are many other beautiful sculptures of Aphrodite/Venus, but if you enter the room that is on the left of the *Venus of Milo*, you will come upon the historic <a href="https://fr.wikipedia.org/wiki/Salle_des_Caryatides" target="_blank" style="color:darkorange">Salle des Caryatides</a>. The caryatides are the 4 woman-like pillars that hold the entrance/exit of the room. They were sculpted during the 16th century and are inspired by the ones found in Athens' Acropolis.
 
 ![caryatides](../../images/Salle_des_Cariatides_in_Paris-Louvre.jpg)
+<span class="legend"><a href="https://commons.wikimedia.org/wiki/File:Salle_des_Cariatides_in_Paris-Louvre.jpg" target="_blank">Salles des Caryatides, by Wilfredor (CC0 1.0)</a></span> 
 
 This room also accomodates in its center the most famous sculpture worldwide of Artemis/Diana: <a href="https://en.wikipedia.org/wiki/Diana_of_Versaillese" target="_blank" style="color:darkorange">Diana of Versailles</a>, which depicts the Greek/Roman goddess of the hunt accompanied by a little deer, pulling an arrow from her quiver.
 
 ![diane-versailles](../../images/8436940886_393ca8cf66_k.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/nagillum/8436940886" target="_blank">Diana of Versailles, by Peter Mulligan (CC BY-NC-SA 2.0)</a></span> 
 
 This is the end of the trail! When you're done, you can walk through the Caryatides and go downstairs. You will end up in the central plaza of the Louvre.
 
@@ -271,6 +293,7 @@ I'm a big sucker for Mesopotamia history, and even though it is terribly underra
 **Location**: room 227, level 0, Richelieu wing.
 
 ![hammurabi](../../images/hammurabi.jpg)
+<span class="legend"><a href="https://www.flickr.com/photos/wenzday01/5910671332" target="_blank">The Code of Hammurabi, by Wendy (CC BY-NC-ND 2.0)</a></span> 
 
 ## The Palace of Sargon II (The Khorsabad Courtyard):
 Delve into the <a href="https://www.louvre.fr/en/explore/the-palace/the-palace-of-sargon-ii" target="_blank" style="color:darkorange">beautiful palace of Assyrian king Sargon II</a>, decorated with plenty bas-reliefs and *Lamassus* (winged creatures with the lion bodies and kings faces, meant to prevent bad spirits from entering the palace).
@@ -278,6 +301,7 @@ Delve into the <a href="https://www.louvre.fr/en/explore/the-palace/the-palace-o
 **Location**: room 229, level 0, Richelieu wing.
 
 ![sargon2](../../images/Winged_Bull,_Palace_of_Sargon_II_in_the_Musee_de_Louvre_(300120174).jpg)
+<span class="legend"><a href="https://upload.wikimedia.org/wikipedia/commons/5/5b/Winged_Bull%2C_Palace_of_Sargon_II_in_the_Musee_de_Louvre_%28300120174%29.jpg" target="_blank">The Palace of Sargon II</a></span> 
 
 ## The Marly and Puget Courtyards:
 You have most probably already seen pictures of these places, and you might even have been excited to visit them, and subsequently disappointed to find out they weren't part of the tour (if that's the case, sorry, it was hard to fit everything !).\
@@ -286,6 +310,7 @@ Nevertheless, it's always possible to enter the Richelieu Wing to enjoy these tw
 **Location**: rooms 102 and 105, level -1, Richelieu wing.
 
 ![marly-puget](../../images/alex-harmuth-oqNXYz8yM0o-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/batiment-en-beton-blanc-avec-des-statues-oqNXYz8yM0o" target="_blank">The Marly Horses in the Marly Courtyard, by Alex Harmuth</a></span> 
 
 ## Napoléon III's apartments:
 As you may know, the Louvre has not always been a museum, it has previously served as the residences of both kings and emperors. Today, you can visit the recently renovated <a href="https://fr.wikipedia.org/wiki/Appartements_Napol%C3%A9on_III" target="_blank" style="color:darkorange">apartments of Napoléon III</a>. Luxurious decorative objects and pretty colours are on the agenda.
@@ -293,6 +318,7 @@ As you may know, the Louvre has not always been a museum, it has previously serv
 **Location**: level 1, Richelieu wing.
 
 ![napoleon3](../../images/amy-leigh-barnard-wcd5veuiC_0-unsplash.jpg)
+<span class="legend"><a href="https://unsplash.com/fr/photos/parametres-de-la-table-wcd5veuiC_0" target="_blank">The Apartments of Napoléon III, by Amy-Leigh Barnard</a></span> 
 
 ## The Seated Scribe:
 The only Egyptian sculpture of this list, the <a href="https://en.wikipedia.org/wiki/The_Seated_Scribe" target="_blank" style="color:darkorange">Seated Scribe</a> is one of the Louvre's treasures. It represents a sitting scribe (ie: a man whose job was to write administrative or religious texts, akin to an official today). What makes the limestone statue so popular is the incredible state in which it was found, the paint was almost intact.
@@ -300,6 +326,7 @@ The only Egyptian sculpture of this list, the <a href="https://en.wikipedia.org/
 **Location**: room 635, level 1, Sully wing.
 
 ![seated-scribe](../../images/The_Seated_Scribe,_Louvre_28_May_2017_001_cropped.jpg)
+<span class="legend"><a href="https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Seated_Scribe%2C_Louvre_28_May_2017_001_cropped.jpg" target="_blank">The Seated Scribe</a></span> 
 
 
 
