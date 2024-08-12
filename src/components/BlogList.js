@@ -26,7 +26,7 @@ export default function BlogList({type}) {
               <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
                 <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
                   <div className={blogListStyles.list__hero}>
-                    <GatsbyImage image={image} alt = "hi"/>
+                    <GatsbyImage image={image} width={50} loading='eager' alt = "article_thumbnail"/>
                   </div>
                   <div className={blogListStyles.list__info}>
                     <h2>{blog.node.frontmatter.title}</h2>
