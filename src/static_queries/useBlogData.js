@@ -17,11 +17,6 @@ export default function useBlogData() {
                 gatsbyImageData
               }
             }
-            thumbnail_image {
-              childImageSharp {
-                gatsbyImageData
-              }
-            }
           }
           excerpt (pruneLength: 160)
         }

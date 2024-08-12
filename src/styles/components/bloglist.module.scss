@@ -1,16 +1,4 @@
 .list {
-  a:hover {
-    opacity: 1;
-    li {
-      .list__hero {
-        div {
-              opacity: 0.8;
-              transition: opacity 0.3s ease;
-            
-        }
-      }
-    }
-  }
   .list__hero {
     height: 33vh;
     overflow: hidden;
