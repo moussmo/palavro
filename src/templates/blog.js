@@ -11,6 +11,7 @@ export default function Blog(props) {
   const image = getImage(data.frontmatter.hero_image.childImageSharp.gatsbyImageData)
   const allBlogData = useBlogData()
   const nextSlug = getNextSlug(data.frontmatter.slug)
+  const articleTitle = data.frontmatter.title
   const articleType = data.fileAbsolutePath.split('/').reverse()[1]
   function getNextSlug(slug) {
     const allSlugs = allBlogData.map(blog => {
@@ -25,7 +26,7 @@ export default function Blog(props) {
   }
 
   return (
-    <Layout page={articleType}>
+    <Layout page={articleType} articleTitle={articleTitle}>
       <article className={blogTemplateStyles.blog}>
         <figure className={blogTemplateStyles.blog__hero}>
           <GatsbyImage image={image} alt='hey'/>

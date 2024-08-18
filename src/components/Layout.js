@@ -6,11 +6,15 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 
 export default function Layout(props) {
   const { title, description } = useSiteMetadata()
+  var pageTitle = "Thrascias"
+  if (props.articleTitle){
+    pageTitle = props.articleTitle
+  }
   return (
     <section className={`${layoutStyles.layout}`}>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
+        <title>{pageTitle}</title>
         <meta name="description" content={description} />
       </Helmet>
       <Header page={props.page} title={title} />
