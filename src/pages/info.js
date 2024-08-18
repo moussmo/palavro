@@ -8,7 +8,7 @@ import mailLogoImage from '../../static/mail-logo.png'
 
 export default function Info() {
   return (
-    <Layout page="info">
+    <Layout page="info" articleTitle="About me">
         <div className={infoStyles.responsiveContainerBlock}>
         <img className={infoStyles.profilePicture} src={aboutmeImage}/>
           <p className={infoStyles.textBlk + ' ' + infoStyles.heading}>
