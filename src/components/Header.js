@@ -9,32 +9,32 @@ export default function Header(props) {
       <img src={backgroundImage} alt="hu" style={{objectFit: 'cover', height: '100%', position: 'absolute', zIndex: -1}}/>
       <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
         <Link to="/">
-          <h1>{props.title}</h1>
+          <h1>Thrascias</h1>
         </Link>
         <div>
           <h1>
-            <Link to="/thoughts" activeClassName={headerStyles.navItemActive}>
-              thoughts
+            <Link to="/thoughts">
+              Thoughts
             </Link>
           </h1>
           <h1>
-            <Link to="/history_art" activeClassName={headerStyles.navItemActive}>
-              history & art
+            <Link to="/history_art">
+              History & art
             </Link>
           </h1>
           <h1>
-            <Link to="/reviews" activeClassName={headerStyles.navItemActive}>
-              reviews
+            <Link to="/reviews">
+              Reviews
             </Link>
           </h1>
           <h1>
-            <Link to="/tech" activeClassName={headerStyles.navItemActive}>
-              tech
+            <Link to="/science_tech">
+              Science & tech
             </Link>
           </h1>
           <h1>
-            <Link to="/info" activeClassName={headerStyles.navItemActive}>
-              about me
+            <Link to="/info">
+              About me
             </Link>
           </h1>
         </div>

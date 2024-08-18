@@ -1,19 +1,16 @@
 {
-  "name": "foresry-starter-blog-gatsby",
+  "name": "thrascias",
   "private": true,
-  "description": "A simple starter blog to get up and developing quickly with Forestry & Gatsby",
+  "description": "someone's blog",
   "license": "MIT",
   "version": "0.1.0",
-  "author": "kendall strautman",
+  "author": "Mohamed Moussaoui",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop -o",
     "develop": "yarn dev",
-    "format": "prettier --write src/**/*.{js,jsx}",
     "start": "yarn dev",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "forestry-preview": "gatsby develop -p 8080 -H 0.0.0.0",
     "deploy": "gatsby-plugin-s3 deploy"
   },
   "dependencies": {
@@ -46,11 +43,10 @@
     "prettier": "*"
   },
   "keywords": [
-    "gatsby",
-    "forestry"
+    "gatsby"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
+    "url": "https://github.com/moussmo/thrascias"
   }
 }

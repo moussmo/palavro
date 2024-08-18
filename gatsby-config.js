@@ -1,10 +1,9 @@
 const config = require("./config.json")
-const infoData = require("./content/data/info.json")
 module.exports = {
   
 }
 module.exports = {
-  pathPrefix: "/caecias",
+  pathPrefix: "/thrascias",
   siteMetadata: {
     title: config.title,
     description: config.description,
@@ -12,7 +11,6 @@ module.exports = {
     about: config.about,
     contact: config.contact,
     primaryColor: config.primary_color,
-    infoData: infoData
   },
   plugins: [
     {
@@ -84,14 +82,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "tech",
-        path: `${__dirname}/content/posts/tech`,
-      },
-    },
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "data",
-        path: `${__dirname}/content/data`,
+        path: `${__dirname}/content/posts/science_tech`,
       },
     },
     {

@@ -5,11 +5,11 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 
 export default function IndexPage() {
   return (
-    <Layout page="tech">
+    <Layout page="science_tech">
       <div className={layoutStyles.section__title}>
-        Tech
+        Science & Tech
       </div> 
-        <BlogList type='tech'/>
+        <BlogList type='science_tech'/>
     </Layout>
   )
 }
