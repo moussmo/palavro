@@ -3,7 +3,7 @@ module.exports = {
   
 }
 module.exports = {
-  pathPrefix: "/thrascias",
+  pathPrefix: "/drizzle45",
   siteMetadata: {
     title: config.title,
     description: config.description,
