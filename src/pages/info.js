@@ -15,7 +15,7 @@ export default function Info() {
             About Me
           </p>
           <p className={infoStyles.textBlk + ' ' + infoStyles.subHeading}>
-          Hello, I’m Mohamed, an engineer navigating life with a deep love for the things that make it beautiful. On this blog, I want to share my musings on everything that captivates me: the timeless allure of history, the wonders of science, or the stories behind the latest films, albums, and books I’ve explored. Whatever you're here for, I hope you find something that resonates with you. Thanks for stopping by!
+          Hello, I’m Mohamed, an engineer navigating life with a deep love for the things that make it beautiful. Drizzle45 is my little corner on the web when I share my musings on everything that captivates me, whether it's history, science, movies, or anything really. Whatever you're here for, I hope you find something that resonates with you. Thanks for stopping by!
           </p>
           <div className={infoStyles.socialIconsContainer}>
             <a className={infoStyles.socialIcona} href="https://github.com/moussmo" target="_blank">

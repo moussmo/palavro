@@ -1,5 +1,5 @@
 {
-  "name": "thrascias",
+  "name": "drizzle45",
   "private": true,
   "description": "someone's blog",
   "license": "MIT",
@@ -47,6 +47,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/moussmo/thrascias"
+    "url": "https://github.com/moussmo/drizzle45"
   }
 }

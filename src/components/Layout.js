@@ -6,9 +6,9 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 
 export default function Layout(props) {
   const { title, description } = useSiteMetadata()
-  var pageTitle = "Thrascias"
+  var pageTitle = "Drizzle45"
   if (props.articleTitle){
-    pageTitle = props.articleTitle
+    pageTitle = props.articleTitle + ' | Drizzle45'
   }
   return (
     <section className={`${layoutStyles.layout}`}>

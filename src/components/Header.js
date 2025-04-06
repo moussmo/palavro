@@ -9,7 +9,7 @@ export default function Header(props) {
       <img src={backgroundImage} alt="hu" style={{objectFit: 'cover', height: '100%', position: 'absolute', zIndex: -1}}/>
       <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
         <Link to="/">
-          <h1>Thrascias</h1>
+          <h1 style={{fontStyle:'italic'}}>Drizzle45</h1>
         </Link>
         <div>
           <h1>

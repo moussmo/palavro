@@ -3,7 +3,7 @@ module.exports = {
   
 }
 module.exports = {
-  pathPrefix: "/thrascias",
+  pathPrefix: "/drizzle45",
   siteMetadata: {
     title: config.title,
     description: config.description,
@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-        bucketName: "caecias-s3",
+        bucketName: "www.drizzle45.com",
       },
     },
     "gatsby-plugin-image",
