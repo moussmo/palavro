@@ -1,9 +1,5 @@
 {
-  "title": "Drizzle45",
-<<<<<<< HEAD
-  "description": "The blog of someone who likes to share things.",
-=======
+  "title": "Palavro",
   "description": "The blog of someone who likes to share things",
->>>>>>> eadd2994989d3979a2d97ed9372ff0309fc7b6cb
-  "repository_url": "https://github.com/moussmo/drizzle45"
+  "repository_url": "https://github.com/moussmo/palavro"
 }
