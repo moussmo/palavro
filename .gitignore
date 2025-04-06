@@ -75,3 +75,4 @@ yarn.lock
 # content
 content/posts/
 content/images/
+.ipynb
