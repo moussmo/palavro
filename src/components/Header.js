@@ -6,8 +6,7 @@ import backgroundImage from '../../static/background_home_erik-n1VbsCPevyk-unspl
 export default function Header(props) {
   return (
     <header className={`${headerStyles.header}`}>
-      <img src={backgroundImage} alt="hu" style={{objectFit: 'cover', height: '100%', position: 'absolute', zIndex: -1}}/>
-      <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
+     <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
         <Link to="/">
           <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
         </Link>

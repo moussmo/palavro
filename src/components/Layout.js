@@ -11,14 +11,16 @@ export default function Layout(props) {
     pageTitle = props.articleTitle + ' | PALAVRO'
   }
   return (
-    <section className={`${layoutStyles.layout}`}>
-      <Helmet>
-        <html lang="en" />
-        <title>{pageTitle}</title>
-        <meta name="description" content={description} />
-      </Helmet>
-      <Header page={props.page} title={title} />
-      <div className={layoutStyles.content}>{props.children}</div>
-    </section>
+    <div className={`${layoutStyles.background}`}>
+        <section className={`${layoutStyles.layout}`}>
+          <Helmet>
+            <html lang="en" />
+            <title>{pageTitle}</title>
+            <meta name="description" content={description} />
+          </Helmet>
+          <Header page={props.page} title={title} />
+          <div className={layoutStyles.content}>{props.children}</div>
+        </section>  
+    </div>
   )
 }
