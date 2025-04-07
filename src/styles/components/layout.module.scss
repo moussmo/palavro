@@ -8,25 +8,57 @@
 
 
 @media (min-width: 1340px) {
+
   .layout {
     border-radius: 25px;
     display : flex;
     flex-direction: row;
     width : 1550px;
     
-    background-color: #ece2d6; /* Light blue solid color */
+    background-color: #ece2d6; 
     background-image: radial-gradient(
-      circle at 10px 10px,  /* Dot position */
-      rgba(0, 0, 0, 0.12) 1px,  /* 20% opacity dots */
+      circle at 10px 10px, 
+      rgba(0, 0, 0, 0.12) 1px, 
       transparent 1px
     );
-    background-size: 12px 12px; /* Dot spacing */
+    background-size: 12px 12px;
   }
 
   .content {
     color : #552f20;
     margin-left:400px;
     width : 1150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
+  .filtermenu {
+    display: flex;
+    margin : 75px;
+    font-size : 55px;
+    width :75%;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .filteroption {
+    color: #ccc;
+    cursor: pointer;
+    transition: color 0.3s;
+    font-family: Helvetica;
+    font-weight : 800;
+    &.active{
+      color: black;
+    }
+  }
+
+  .link-no-fade {
+    opacity: 1;
+    transition: none;
+  }
+  
+  .link-no-fade:hover {
+    opacity: 1;
+  }
 }

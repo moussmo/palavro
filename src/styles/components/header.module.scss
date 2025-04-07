@@ -1,3 +1,33 @@
+:root {
+  --staircase-step: 30px; /* Set the step size for the staircase */
+}
+
+.staircase-title {
+  font-size: 3rem;
+  font-weight: bold;
+  display: inline-block;
+  position: relative;
+  color : white;
+  font-family: Helvetica;
+}
+.staircase-title span {
+  position: absolute;
+}
+.staircase-title span:nth-child(1) { top: calc(var(--staircase-step) * 0); left: 0px; }
+.staircase-title span:nth-child(2) { top: calc(var(--staircase-step) * 1); left: 3rem; }
+.staircase-title span:nth-child(3) { top: calc(var(--staircase-step) * 2); left: 6rem; }
+.staircase-title span:nth-child(4) { top: calc(var(--staircase-step) * 3); left: 9rem; }
+.staircase-title span:nth-child(5) { top: calc(var(--staircase-step) * 4); left: 12rem; }
+.staircase-title span:nth-child(6) { top: calc(var(--staircase-step) * 5); left: 15rem; }
+.staircase-title span:nth-child(7) { top: calc(var(--staircase-step) * 6); left: 18rem; }
+.staircase-title span:nth-child(8) { top: calc(var(--staircase-step) * 6); left: 0px; }
+.staircase-title span:nth-child(9) { top: calc(var(--staircase-step) * 5); left: 3rem; }
+.staircase-title span:nth-child(10){ top: calc(var(--staircase-step) * 4); left: 6rem; }
+.staircase-title span:nth-child(11) { top: calc(var(--staircase-step) * 3); left: 9rem; }
+.staircase-title span:nth-child(12) { top: calc(var(--staircase-step) * 2); left: 12rem; }
+.staircase-title span:nth-child(13) { top: calc(var(--staircase-step) * 1); left: 15rem; }
+.staircase-title span:nth-child(14) { top: calc(var(--staircase-step) * 0); left: 18rem; }
+
 .header {
   h1 {
     margin-bottom: 0; 
@@ -12,11 +42,13 @@
     position: fixed;
     background-color : #7a371c;
     background-image: radial-gradient(
-      circle at 10px 10px,  /* Dot position */
-      rgba(0, 0, 0, 0.12) 1px,  /* 20% opacity dots */
+      circle at 10px 10px, 
+      rgba(0, 0, 0, 0.12) 1px,  
       transparent 1px
     );
-    background-size: 12px 12px; /* Dot spacing */
+    background-size: 12px 12px; 
+    // background-image : url('../../../static/background_home_erik-n1VbsCPevyk-unsplash.png');
+    // background-size:cover;
   }
   
   .header__nav {
@@ -53,4 +85,6 @@
   
   transition: transform 0.5s ease; 
   }
+
+
 }

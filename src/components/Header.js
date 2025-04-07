@@ -1,37 +1,32 @@
 import React from "react"
 import {Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
-import backgroundImage from '../../static/background_home_erik-n1VbsCPevyk-unsplash.png'
 
 export default function Header(props) {
   return (
     <header className={`${headerStyles.header}`}>
-     <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
-        <Link to="/">
-          <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
+      <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
+      <Link to="/" className={`${headerStyles.staircaseTitle}`}>
+          <span>P</span>
+          <span>A</span>
+          <span>L</span>
+          <span>A</span>
+          <span>V</span>
+          <span>R</span>
+          <span>O</span>
+          <span>P</span>
+          <span>A</span>
+          <span>L</span>
+          <span>A</span>
+          <span>V</span>
+          <span>R</span>
+          <span>O</span>
         </Link>
+        {/* 
+          <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
+         */}
         <div className={`${headerStyles.card}`}></div>
         <div>
-          <h1>
-            <Link to="/thoughts">
-              Thoughts
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/history_art">
-              History & art
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/reviews">
-              Reviews
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/science_tech">
-              Science & tech
-            </Link>
-          </h1>
           <h1>
             <Link to="/info">
               About me
