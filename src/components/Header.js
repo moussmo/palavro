@@ -10,6 +10,7 @@ export default function Header(props) {
         <Link to="/">
           <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
         </Link>
+        <div className={`${headerStyles.card}`}></div>
         <div>
           <h1>
             <Link to="/thoughts">

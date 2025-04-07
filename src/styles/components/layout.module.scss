@@ -2,20 +2,31 @@
   display : flex;
   justify-content: center;   
   width: 100vw;          
-  background-color: #d37f7f;
+  background-color: #f8efe4;
+  min-height: 100vh;
 }
+
 
 @media (min-width: 1340px) {
   .layout {
+    border-radius: 25px;
     display : flex;
     flex-direction: row;
-    width : 1300px;
+    width : 1550px;
+    
+    background-color: #ece2d6; /* Light blue solid color */
+    background-image: radial-gradient(
+      circle at 10px 10px,  /* Dot position */
+      rgba(0, 0, 0, 0.12) 1px,  /* 20% opacity dots */
+      transparent 1px
+    );
+    background-size: 12px 12px; /* Dot spacing */
   }
 
   .content {
-    color : #244855;
-    background-color: #f8efe4;
-    margin-left:25%;
-    width : 75%;
+    color : #552f20;
+    margin-left:400px;
+    width : 1150px;
   }
+
 }

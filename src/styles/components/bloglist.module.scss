@@ -35,7 +35,6 @@
     display: flex;
     justify-content: start;
     flex-direction: column;
-    min-height: 38vh;
   }
   h2 {
     margin-bottom: 0.5rem;
@@ -48,11 +47,8 @@
   }
 }
 
-@media (min-width: 1161px) {
+@media (min-width: 1340px) {
   .list {
-    display : flex;
-    flex-direction: column;
-    align-items : center;
     a:hover {
       opacity: 1;
       li {
@@ -68,21 +64,19 @@
         }
       }
     }
-    a {
-      width : fit-content;
-    }
     li {
-      min-height: 250px;
-      height: 30vh;
+      border : 1.8px black solid;
+      padding: 23px;
+      height: 250px;
       flex-direction: row;
-      margin : 0;
+      margin : 50px;
+      margin-right : 120px;
+      margin-left : 120px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
     .list__hero {
       height: 100%; 
       max-width : 320px;
-    }
-    .list__info {
-      width: fit-content;
     }
   }
 }
