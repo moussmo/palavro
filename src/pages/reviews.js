@@ -9,8 +9,8 @@ export default function IndexPage() {
     <Layout page="reviews">
       <div className={`${layoutStyles.filtermenu}`}>
         <Link to="/"><span className={`${layoutStyles.filteroption}`}>All/</span></Link>
-        <Link to="/thoughts"><span className={`${layoutStyles.filteroption}`}>Thoughts/</span></Link>
-        <Link to="/reviews"><span className={`${layoutStyles.filteroption} ${layoutStyles.active}`}>Reviews/</span></Link>
+        <Link to="/thoughts"><span className={`${layoutStyles.filteroption}`}>Thoughts</span></Link>
+        <Link to="/reviews"><span className={`${layoutStyles.filteroption} ${layoutStyles.active}`}>/Reviews/</span></Link>
         <Link to="/science_tech"><span className={`${layoutStyles.filteroption}`}>Tech</span></Link>
       </div>
         <BlogList type='reviews'/>

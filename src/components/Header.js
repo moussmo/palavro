@@ -22,9 +22,6 @@ export default function Header(props) {
           <span>R</span>
           <span>O</span>
         </Link>
-        {/* 
-          <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
-         */}
         <div className={`${headerStyles.card}`}></div>
         <div>
           <h1>
