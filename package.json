@@ -30,7 +30,7 @@
     "gatsby-source-filesystem": "*",
     "gatsby-transformer-remark": "*",
     "gatsby-transformer-sharp": "*",
-    "gatsby-transformer-yaml": "*",
+    "gatsby-transformer-yaml": "^5.14.0",
     "node-sass": "^9.0.0",
     "react": "*",
     "react-dom": "*",

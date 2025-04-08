@@ -1,0 +1,64 @@
+.cardTilt1 {
+    transform: perspective(800px) rotateX(35deg) rotateY(-30deg) rotateZ(10deg) skew(5deg, -5deg);
+  }
+  .cardTilt2 {
+    transform: perspective(800px) rotateX(-32deg) rotateY(38deg) rotateZ(-12deg) skew(-4deg, 4deg);
+  }
+  .cardTilt3 {
+    transform: perspective(800px) rotateX(30deg) rotateY(34deg) rotateZ(6deg) skew(6deg, -6deg);
+  }
+  .cardTilt4 {
+    transform: perspective(800px) rotateX(-40deg) rotateY(-33deg) rotateZ(15deg) skew(3deg, -3deg);
+  }
+  .cardTilt5 {
+    transform: perspective(800px) rotateX(36deg) rotateY(31deg) rotateZ(-8deg) skew(-6deg, 5deg);
+  }
+  .cardTilt6 {
+    transform: perspective(800px) rotateX(-38deg) rotateY(37deg) rotateZ(18deg) skew(4deg, -2deg);
+  }
+  .cardTilt7 {
+    transform: perspective(800px) rotateX(34deg) rotateY(-39deg) rotateZ(14deg) skew(2deg, 3deg);
+  }
+  .cardTilt8 {
+    transform: perspective(800px) rotateX(-33deg) rotateY(32deg) rotateZ(-10deg) skew(5deg, -5deg);
+  }
+  
+  
+@media (min-width: 1340px) {
+ .card-container {
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top : 55%;
+  }
+ .card-image {
+    width: 200px;
+    height: 340px;
+    // margin-left : 40px;
+    border-radius: 15px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    // transform: 
+    // perspective(500px)      
+    // rotateX(30deg)           
+    // rotateY(30deg)           
+    // rotateZ(5deg)            
+    // skew(-5deg, -2deg);     
+  
+    box-shadow: 
+        10px 10px 20px rgba(0, 0, 0, 0.3),
+        -5px -5px 15px rgba(255, 255, 255, 0.1);
+
+    transition: transform 0.5s ease; 
+  }
+
+   .card-description{
+      margin-top : 25px;
+      color : rgb(177, 174, 174);
+      font-size : 18px;
+      font-style:italic;
+      width : 280px;
+
+   }
+}

@@ -1,0 +1,87 @@
+- name: "The Fool"
+  image: "fool.png"
+  description: "A symbol of new beginnings, spontaneity, and the leap of faith. The Fool is about embracing the unknown with a sense of wonder."
+
+- name: "The Magician"
+  image: "magician.png"
+  description: "Represents manifestation, power, and inspired action. The Magician channels potential into reality."
+
+- name: "The High Priestess"
+  image: "priestess.png"
+  description: "A guardian of intuition, inner wisdom, and hidden truths. She invites reflection and trust in the subconscious."
+
+- name: "The Empress"
+  image: "empress.png"
+  description: "A card of fertility, abundance, and nurturing. The Empress is the embodiment of creativity and motherly love."
+
+- name: "The Emperor"
+  image: "emperor.png"
+  description: "Symbolizes structure, authority, and control. The Emperor brings stability and the enforcement of rules."
+
+- name: "The Hierophant"
+  image: "hierophant.png"
+  description: "Stands for tradition, spiritual wisdom, and institutions. It invites learning and connection to deeper beliefs."
+
+- name: "The Lovers"
+  image: "lovers.png"
+  description: "Represents union, alignment of values, and important choices in relationships. A card of love and harmony."
+
+- name: "The Chariot"
+  image: "chariot.png"
+  description: "A symbol of willpower, direction, and triumph through determination. It’s about forging ahead with confidence."
+
+- name: "Strength"
+  image: "strenght.png"
+  description: "Denotes inner strength, courage, and compassion. It’s about mastering emotions and leading with grace."
+
+- name: "The Hermit"
+  image: "hermit.png"
+  description: "Represents introspection, solitude, and searching for truth. The Hermit brings guidance through reflection."
+
+- name: "Wheel of Fortune"
+  image: "fortune.png"
+  description: "Symbolizes change, destiny, and cycles of life. A reminder that nothing is permanent and fortune shifts."
+
+- name: "Justice"
+  image: "justice.png"
+  description: "A card of truth, fairness, and cause and effect. Justice brings clarity and accountability."
+
+- name: "The Hanged Man"
+  image: "hanged.png"
+  description: "Stands for surrender, new perspective, and release. It’s about pausing to see things differently."
+
+- name: "Death"
+  image: "death.png"
+  description: "Not an end, but a transformation. Death represents major change, rebirth, and letting go of the old."
+
+- name: "Temperance"
+  image: "temperance.png"
+  description: "Symbolizes balance, moderation, and healing. Temperance guides toward harmony and integration."
+
+- name: "The Devil"
+  image: "devil.png"
+  description: "A symbol of temptation, materialism, and bondage. The Devil urges awareness of destructive patterns."
+
+- name: "The Tower"
+  image: "tower.png"
+  description: "Represents sudden upheaval, revelation, and breaking down of false structures. A wake-up call for transformation."
+
+- name: "The Star"
+  image: "star.png"
+  description: "Brings hope, inspiration, and serenity. The Star lights the way after chaos and encourages faith."
+
+- name: "The Moon"
+  image: "moon.png"
+  description: "A card of illusion, intuition, and dreams. The Moon invites exploration of the unseen and the emotional realm."
+
+- name: "The Sun"
+  image: "sun.png"
+  description: "Symbolizes joy, success, and clarity. The Sun radiates positivity and brings enlightenment."
+
+- name: "Judgement"
+  image: "judgement.png"
+  description: "Represents rebirth, awakening, and inner calling. Judgement calls for reflection and embracing one's true purpose."
+
+- name: "The World"
+  image: "world.png"
+  description: "A card of completion, achievement, and unity. The World signifies wholeness and the fulfillment of a journey."
