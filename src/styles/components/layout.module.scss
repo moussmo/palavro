@@ -2,7 +2,7 @@
   display : flex;
   justify-content: center;   
   width: 100vw;          
-  background-color: #f8f3ec;
+  background-color: #f8eee4;
   min-height: 100vh;
 }
 
@@ -12,9 +12,9 @@
   .layout {
     display : flex;
     flex-direction: row;
-    width : 1550px;
+    width : 2000px;
     
-    background-color: #ece2d6; 
+    background-color: #eee5dc; 
     // background-image: radial-gradient(
     //   circle at 10px 10px, 
     //   rgba(0, 0, 0, 0.12) 1px, 
@@ -25,12 +25,12 @@
 
   .content {
     color : #552f20;
-    margin-left:400px;
-    width : 1150px;
+    margin-left:450px;
+    width : 1550px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    border-right: black solid 2px;
+    // border-right: black solid 2px;
   }
 
   .filtermenu {

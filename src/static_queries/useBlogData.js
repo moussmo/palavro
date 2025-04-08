@@ -18,7 +18,7 @@ export default function useBlogData() {
               }
             }
           }
-          excerpt (pruneLength: 160)
+          excerpt (pruneLength: 250)
         }
       }
     }
