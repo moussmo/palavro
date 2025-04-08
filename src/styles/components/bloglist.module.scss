@@ -65,20 +65,35 @@
       }
     }
     li {
-      border : 1.8px black solid;
-      padding: 23px;
+      // border-top : 2px black solid;
+      padding: 40px;
       height: 250px;
+      margin-top : 20px;
+      margin-bottom: 20px;
       flex-direction: row;
-      background-color: #ece2d6;
-      margin : 50px;
-      margin-right : 120px;
-      margin-left : 120px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      display:flex;
+      align-items: center;
+      color : rgb(0, 0, 0);
+      // margin-right : 120px;
+      // margin-left : 120px;
+      // box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
     .list__hero {
       height: 100%; 
       max-width : 320px;
     }
+  }
+
+  .article-title{
+    font-size : 35px;
+    width : 800px;
+    margin-left : 40px;
+    font-family: Helvetica;
+    // font-weight: bold;
+  }
+
+  .delimiter{
+    border-top : 2px black solid;
   }
 }
 

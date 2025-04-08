@@ -23,18 +23,21 @@ export default function BlogList({type}) {
           .map(blog => {
             const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
             return (
-              <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
-                <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
-                  <div className={blogListStyles.list__hero}>
-                    <GatsbyImage image={image} width={50} loading='eager' alt = "article_thumbnail"/>
-                  </div>
-                  <div className={blogListStyles.list__info}>
-                    <h2>{blog.node.frontmatter.title}</h2>
-                    <h3>{blog.node.frontmatter.date}</h3>
-                    <p>{blog.node.excerpt}</p>
-                  </div>
-                </li>
-              </Link>
+              <div>
+                <div className = {blogListStyles.delimiter}/>
+                <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
+                  <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
+                    <div className={blogListStyles.list__hero}>
+                      <GatsbyImage image={image} width={50} loading='eager' alt = "article_thumbnail"/>
+                    </div>
+                    <h2 className={blogListStyles.articleTitle}>{blog.node.frontmatter.title}</h2>
+                    <div className={blogListStyles.list__info}>
+                      <h3>{blog.node.frontmatter.date}</h3>
+                      <p>{blog.node.excerpt}</p>
+                    </div>
+                  </li>
+                </Link>
+              </div>
             )
           })}
       </div>
@@ -43,6 +46,7 @@ export default function BlogList({type}) {
   return (
     <section>
       <ul >{renderBlogData()}</ul>
+      <div className = {blogListStyles.delimiter}/>
     </section>
   )
 }
