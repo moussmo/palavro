@@ -6,7 +6,7 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 
 export default function IndexPage() {
   return (
-    <Layout className={`${layoutStyles.layoutmain}`}page="home">
+    <Layout className={`${layoutStyles.layoutmain}`} page="home">
       <div className={`${layoutStyles.filtermenu}`}>
         <Link to="/"><span className={`${layoutStyles.filteroption} ${layoutStyles.active}`}>All/</span></Link>
         <Link to="/thoughts"><span className={`${layoutStyles.filteroption} `}>Thoughts/</span></Link>

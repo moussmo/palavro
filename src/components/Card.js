@@ -5,13 +5,6 @@ import { useLocation } from "@reach/router"
 
 export default function Card(props) {
     const cards = useCardData()
-    // const randomCard = cards[Math.floor(Math.random() * cards.length)]
-    // const imageUrl = `/cards/${randomCard.image.relativePath}`
-    // const imageDescription = `${randomCard.description}`
-
-    // const randomTilt = isHomePage ? Math.floor(Math.random() * 8) + 1 : null
-    // const tiltClass = isHomePage ? cardStyles[`cardTilt${randomTilt}`] : ""
-
     const location = useLocation()
     const locationKey = location.key
     const isHomePage = location.pathname === "/"
