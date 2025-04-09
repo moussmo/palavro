@@ -17,7 +17,7 @@
   }
   
   .title-header {
-    height: 130px;
+    height: 110px;
     width: 1200px;
     border-radius: 100px;
     background-color : #000000;
@@ -33,9 +33,10 @@
     display: flex;
     margin-top : 10px;
     margin-bottom : 10px;
-    font-size : 35px;
-    justify-content: space-around;
+    font-size : 30px;
+    justify-content: center;
     flex-wrap: wrap;
+    gap: 70px;
   }
 
   .filteroption {
