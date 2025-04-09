@@ -3,21 +3,16 @@ import {Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
 import Card from "./Card"
 import StaircaseTitle from "./StaircaseTitle"
+import NormalTitle from "./NormalTitle"
+import CardsHeader from "./CardsHeader"
 
 export default function Header(props) {
   return (
-    <header className={`${headerStyles.header}`}>
-      <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
-        <StaircaseTitle/>
-        <Card/>
-        <div>
-          <h1>
-            <Link to="/info">
-              About me
-            </Link>
-          </h1>
-        </div>
-      </nav>
-    </header>
+    <div className={headerStyles.header}>
+      <CardsHeader/>
+      <div className={`${headerStyles.titleHeader}`}>
+        <NormalTitle/>
+      </div>
+    </div>
   )
 }
