@@ -26,35 +26,76 @@
   
 @media (min-width: 1340px) {
  .card-container {
+    width : 100%;
     display : flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
     text-align: center;
-    margin-top : 55%;
   }
  .card-image {
-    width: 230px;
-    height: 390px;
-    border-radius: 15px; 
+    width : 180px;
+    aspect-ratio: 1/1.69;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
     box-shadow: 
         10px 10px 20px rgba(0, 0, 0, 0.3),
         -5px -5px 15px rgba(255, 255, 255, 0.1);
+  }
 
-    // transition: transform 0.5s ease; 
+  .card-description{
+    width : 200px;
+    color : rgb(100, 100, 100);
+    font-size : 20px;
+    font-style : italic;
   }
 
   .transition-effect {
     transition: transform 2s ease;
   }
 
-  .card-description{
-    margin-top : 25px;
-    color : rgb(177, 174, 174);
-    font-size : 20px;
-    font-style:italic;
-    width : 280px;
-
+  .cards-container{
+    width: 100%;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
   }
+
+  .cards-header{
+    margin-top : 20px;
+    width: 55%;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-around;
+    color : rgb(0, 0, 0);
+    font-size: 18px;
+  }
+
+  .card-name{
+    cursor: pointer;
+    &:hover{
+      color:rgb(7, 94, 255);
+    }
+  }
+
+  .hiddenCardsImages {
+    margin-top : 20px;
+    width: 100%;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .expandedCardsImages {
+    margin-top : 20px;
+    min-height: 500px;
+    transition: max-height 0.5s ease;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom : 25px;
+  }
+
 }

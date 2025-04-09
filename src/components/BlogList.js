@@ -24,7 +24,6 @@ export default function BlogList({type}) {
             const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
             return (
               <div>
-                <div className={blogListStyles.delimiter}/>
               <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
                 <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
                   <GatsbyImage className={blogListStyles.list__hero} image={image} loading='eager' alt = "article_thumbnail"/>
@@ -44,7 +43,6 @@ export default function BlogList({type}) {
   return (
     <section>
       <ul >{renderBlogData()}</ul>
-      <div className={blogListStyles.delimiter}/>
     </section>
   )
 }

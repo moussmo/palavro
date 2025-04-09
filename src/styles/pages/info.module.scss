@@ -10,7 +10,7 @@
   }
   
   .responsive-container-block {
-    height : 100vh;
+    height : calc(100vh - 270px);;
     justify-content: center;
     display: flex;
     flex-direction: column;

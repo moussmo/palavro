@@ -13,10 +13,10 @@
     flex-direction: column;
     width : 1200px;
     align-items: center;
-
   }
 
   .content {
+    margin-top : 270px;
     width : 1200px;
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@
     );
     background-color : rgba(87, 87, 87, 0.05);
     background-size: 12px 12px;
-    border-radius : 15px;
+    border-radius : 25px;
   }
 
   .filtermenu {

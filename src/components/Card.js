@@ -48,7 +48,7 @@ export default function Card(props) {
     const effectClass = `${tiltClass} ${transitionClass}`
     return (
         <div key={locationKey} className={`${cardStyles.cardContainer}`}>
-            <img src={cardImage} className={`${cardStyles.cardImage} ${effectClass}`}/>
+            <img src={cardImage} className={`${cardStyles.cardImage}`}/>
             <span className= {`${cardStyles.cardDescription}`}>{cardDescription}</span>
         </div>
     )
