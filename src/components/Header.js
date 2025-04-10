@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect, useState } from 'react'
 import {Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
 import Card from "./Card"
@@ -9,10 +9,13 @@ import CardsHeader from "./CardsHeader"
 export default function Header(props) {
   const currentPage = props.page; 
   const isActive = (page) => currentPage === page ? headerStyles.active : "";
+  const [startTime] = useState(() => {
+    return typeof window !== "undefined" ? Date.now() : 0
+  })
   return (
     <div className={headerStyles.header}>
       <CardsHeader/>
-      <div className={`${headerStyles.titleHeader}`}>
+      <div className={`${headerStyles.titleHeader}`} style={{"--animation-delay": `-${(startTime % 8000) / 1000}s`}}>
         <NormalTitle/>
       </div>
       <div className={`${headerStyles.filtermenu}`}>
@@ -20,7 +23,7 @@ export default function Header(props) {
         <Link to="/thoughts"><span className={`${headerStyles.filteroption} ${isActive("thoughts")}`}>Thoughts</span></Link>
         <Link to="/reviews"><span className={`${headerStyles.filteroption} ${isActive("reviews")}`}>Reviews</span></Link>
         <Link to="/science_tech"><span className={`${headerStyles.filteroption} ${isActive("science_tech")}`}>Tech</span></Link>
-        <Link to="/info"><span className={`${headerStyles.filteroption} ${isActive("info")}`}>About me.</span></Link>
+        <Link to="/info"><span className={`${headerStyles.filteroption} ${isActive("info")}`}>About me</span></Link>
       </div>
     </div>
   )

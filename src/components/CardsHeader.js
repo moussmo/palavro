@@ -1,6 +1,4 @@
 import React, { useState } from "react"
-import {Link } from "gatsby"
-import * as headerStyles from "../styles/components/header.module.scss"
 import * as cardStyles from "../styles/components/card.module.scss"
 import Card from "./Card"
 

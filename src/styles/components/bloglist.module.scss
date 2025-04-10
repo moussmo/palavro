@@ -47,6 +47,9 @@
   }
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
 @media (min-width: 1340px) {
   .delimiter{
     border: rgb(122, 121, 121) solid 1px;
@@ -54,20 +57,17 @@
   }
   .list {
     li {
-      // border : 1.8px black solid;
       padding: 23px;
       height: 500px;
       flex-direction: row;
-      // background-color: #ece2d6;
       margin : 50px;
       margin-right : 120px;
       margin-left : 120px;
-      // box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     }
     .list__hero {
       height: 100%; 
       max-width : 320px;
-      border-radius: 20px;
+      border-radius: 6px;
       border : black solid 1px;
     }
 
@@ -79,14 +79,21 @@
       width : 500px;
       margin-left : 15px;
     }
+    
+    .list__date{
+      font-family: helvetica;
+      font-size: 20px;
+    }
 
     .list__title{
       font-size: 45px;
       color : black;
       font-weight: bold;
       margin-bottom : 100px;
-      
+      transition: background-image 0.3s ease;
+      font-family: 'inter';
     }
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');

@@ -45,7 +45,6 @@
     width : 200px;
     color : rgb(0, 0, 0);
     font-size : 20px;
-    // font-style : italic;
   }
 
   .transition-effect {
@@ -73,7 +72,7 @@
   .card-name{
     cursor: pointer;
     &:hover{
-      color:rgb(7, 94, 255);
+      // color:rgb(7, 94, 255);
     }
   }
 

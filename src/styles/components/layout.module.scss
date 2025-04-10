@@ -6,6 +6,18 @@
   min-height: 100vh;
 }
 
+@keyframes rainbow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
 @media (min-width: 1340px) {
 
   .layout {
@@ -30,27 +42,7 @@
     background-size: 12px 12px;
     border-radius : 25px;
   }
-
-  .filtermenu {
-    display: flex;
-    margin : 30px;
-    font-size : 55px;
-    width :75%;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
-  .filteroption {
-    color: #ccc;
-    cursor: pointer;
-    transition: color 0.3s;
-    font-family: Helvetica;
-    font-weight : 800;
-    &.active{
-      color: #000000;
-    }
-  }
-
+  
   .link-no-fade {
     opacity: 1;
     transition: none;

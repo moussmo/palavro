@@ -1,3 +1,28 @@
+@keyframes rainbow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+:root {
+  --background1: linear-gradient(
+    270deg,
+    #f1960d,
+    #a00606 /* Removed the trailing comma */
+  );
+  --background2: linear-gradient(
+    270deg,
+    #2b86c5,
+    #42e695
+  );
+}
+
 .header {
   h1 {
     margin-bottom: 0; 
@@ -20,12 +45,41 @@
     height: 110px;
     width: 1200px;
     border-radius: 100px;
-    background-color : #000000;
-    font-size : 120px;
+    font-size: 120px;
     overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+    background-color: black;
+    z-index: 0;
   }
-  .title-header:hover{
-    background-color: rgb(7, 94, 255);
+  
+  .title-header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    border-radius: 100px;
+    background: linear-gradient(
+      270deg,
+      #f1960d,
+      #a00606,
+      #784ba0,
+      #2b86c5,
+      #42e695,
+    );
+    background-size: 800% 800%;
+    animation: rainbow 30s linear infinite;
+    animation-delay: var(--animation-delay, 0s);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    animation-fill-mode: forwards;
+  }
+  
+  .title-header:hover::before {
+    opacity: 1;
   }
   
   .filtermenu {
@@ -38,18 +92,18 @@
     flex-wrap: wrap;
     gap: 70px;
   }
-
   .filteroption {
-    color: #ccc;
+    color: #b6b6b6;
     cursor: pointer;
-    transition: color 0.3s;
     font-family: Helvetica;
-    font-weight : 800;
-    &.active{
-      color: #000000;
-    }
-    &:hover{
-      color:rgb(7, 94, 255);
-    }
+    font-weight: 800;
+    position: relative;
+    transition: color 0.3s ease;
+  }
+  .filteroption.active {
+    color: #000;
+  }
+  .filteroption:hover {
+    color: #000;
   }
 }
