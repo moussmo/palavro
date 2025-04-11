@@ -56,43 +56,8 @@
     width : 900px;
   }
   .list {
-    li {
-      padding: 23px;
-      height: 500px;
-      flex-direction: row;
-      margin : 50px;
-      margin-right : 120px;
-      margin-left : 120px;
-    }
-    .list__hero {
-      height: 100%; 
-      max-width : 320px;
-      border-radius: 6px;
-      border : black solid 1px;
-    }
-
-    .list__info {
-      display : flex;
-      text-align: left;
-      flex-direction: column;
-      align-items: flex-start;
-      width : 500px;
-      margin-left : 15px;
-    }
-    
-    .list__date{
-      font-family: helvetica;
-      font-size: 20px;
-    }
-
-    .list__title{
-      font-size: 45px;
-      color : black;
-      font-weight: bold;
-      margin-bottom : 100px;
-      transition: background-image 0.3s ease;
-      font-family: 'inter';
-    }
+    margin-top : 60px;
+    margin-bottom : 60px;
   }
 }
 
