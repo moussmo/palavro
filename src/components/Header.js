@@ -12,13 +12,31 @@ export default function Header(props) {
   const [startTime] = useState(() => {
     return typeof window !== "undefined" ? Date.now() : 0
   })
+
+  const [shrink, setShrink] = useState(false)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 50) {
+        setShrink(true)
+      } else {
+        setShrink(false)
+      }
+    }
+
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+  
   return (
-    <div className={headerStyles.header}>
-      <CardsHeader/>
-      <div className={`${headerStyles.titleHeader}`} style={{"--animation-delay": `-${(startTime % 8000) / 1000}s`}}>
+<div className={`${headerStyles.header} ${shrink ? headerStyles.shrink : ""}`}>
+      <div className={headerStyles.cardsWrapper}>
+        <CardsHeader/>
+      </div>
+      <div className={headerStyles.titleHeader} style={{"--animation-delay": `-${(startTime % 8000) / 1000}s`}}>
         <NormalTitle/>
       </div>
-      <div className={`${headerStyles.filtermenu}`}>
+      <div className={headerStyles.filtermenu}>
         <Link to="/"><span className={`${headerStyles.filteroption} ${isActive("home")}`}>All</span></Link>
         <Link to="/thoughts"><span className={`${headerStyles.filteroption} ${isActive("thoughts")}`}>Thoughts</span></Link>
         <Link to="/reviews"><span className={`${headerStyles.filteroption} ${isActive("reviews")}`}>Reviews</span></Link>
