@@ -24,12 +24,8 @@ export default function BlogList({type}) {
   
     return (
       <div className={blogListStyles.list}>
-        {/* All MajorArticleCards grouped together */}
         <div className={blogListStyles.majorCards}>
-          {/* First major card */}
           {mainArticle && <MajorArticleCard blog={mainArticle} />}
-  
-          {/* Secondary cards in a nested div */}
           <div className={blogListStyles.secondaryCards}>
             {secondaryArticles.map((blog) => (
               <MajorArticleCard key={blog.node.id} blog={blog} secondary />
@@ -48,9 +44,7 @@ export default function BlogList({type}) {
   }
   
   return (
-    <section>
       <ul className={blogListStyles.ul}>{renderBlogData()}</ul>
-    </section>
   )
 }
 

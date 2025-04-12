@@ -10,30 +10,30 @@ export default function MajorArticleCard({ blog, secondary }) {
 
   return (
         <li className={getClass(MajorArticleCardStyles.articleCard)} key={blog.node.frontmatter.slug}>
-        <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
-          <GatsbyImage
-            className={getClass(MajorArticleCardStyles.articleHero)}
-            image={image}
-            loading="eager"
-            alt="article_thumbnail"
-          />
-          <div className={getClass(MajorArticleCardStyles.articleBlackMask)} />
-          <div className={getClass(MajorArticleCardStyles.articleBlurMask)} />
-          <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
-            <div className={getClass(MajorArticleCardStyles.articleMeta)}>
-              <span className={getClass(MajorArticleCardStyles.articleCategory)}>SCIENCE</span>
-              <div className={getClass(MajorArticleCardStyles.articleDate)}>
-                {blog.node.frontmatter.date}
-              </div>
+            <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
+            <GatsbyImage
+                className={getClass(MajorArticleCardStyles.articleHero)}
+                image={image}
+                loading="eager"
+                alt="article_thumbnail"
+            />
+            <div className={getClass(MajorArticleCardStyles.articleBlackMask)} />
+            <div className={getClass(MajorArticleCardStyles.articleBlurMask)} />
+            <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
+                <div className={getClass(MajorArticleCardStyles.articleMeta)}>
+                <span className={getClass(MajorArticleCardStyles.articleCategory)}>SCIENCE</span>
+                <div className={getClass(MajorArticleCardStyles.articleDate)}>
+                    {blog.node.frontmatter.date}
+                </div>
+                </div>
+                <div className={getClass(MajorArticleCardStyles.articleTitle)}>
+                {blog.node.frontmatter.title}
+                </div>
+                <p className={getClass(MajorArticleCardStyles.articleExcerpt)}>
+                {blog.node.excerpt}
+                </p>
             </div>
-            <div className={getClass(MajorArticleCardStyles.articleTitle)}>
-              {blog.node.frontmatter.title}
-            </div>
-            <p className={getClass(MajorArticleCardStyles.articleExcerpt)}>
-              {blog.node.excerpt}
-            </p>
-          </div>
-          </Link>
+            </Link>
         </li>
   )
 }
