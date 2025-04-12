@@ -7,6 +7,9 @@ import {Link } from "gatsby"
 export default function IndexPage() {
   return (
     <Layout page="science_tech">
+        <div className={layoutStyles.titleWithLines}>
+          <span className={layoutStyles.titleText}>Science & tech</span>
+        </div>
         <BlogList type='science_tech'/>
     </Layout>
   )

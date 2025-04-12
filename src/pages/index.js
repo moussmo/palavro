@@ -8,7 +8,7 @@ export default function IndexPage() {
   return (
     <Layout className={`${layoutStyles.layoutmain}`} page="home">
         <div className={layoutStyles.titleWithLines}>
-          <span className={layoutStyles.titleText}>LATEST POSTS</span>
+          <span className={layoutStyles.titleText}>The Latest</span>
         </div>
         <BlogList />
     </Layout>

@@ -111,17 +111,17 @@
 
   .shrink .title-header {
     margin-top: 10px;
-    transition: all 0.3s ease;
+    // transition: all 0.3s ease;
   }
   
   .shrink .filtermenu {
     margin-top: 10px;
     margin-bottom: 5px;
-    transition: all 0.3s ease;
+    // transition: all 0.3s ease;
   }
 
   .cardsWrapper {
-    transition: opacity 0.3s ease, max-height 0.3s ease;
+    // transitio  n: opacity 0.3s ease, max-height 0.3s ease;
     opacity: 1;
     max-height: 500px; 
     overflow: hidden;

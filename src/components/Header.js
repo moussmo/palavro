@@ -17,7 +17,7 @@ export default function Header(props) {
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 50) {
+      if (window.scrollY > 100) {
         setShrink(true)
       } else {
         setShrink(false)
