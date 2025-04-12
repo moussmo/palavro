@@ -1,13 +1,16 @@
 @media (min-width: 1340px) {
     .article-card {
     position: relative;
-    width: 850px;
+    width: 70%;
     height: 480px;
     overflow: hidden;
     font-family: 'Helvetica Neue', sans-serif;
     color: white;
-    // border: black solid 1px;
-    margin-bottom : 60px;
+  }
+
+  .secondary.article-card {
+    width : 300px;
+    height : 220px;
   }
 
   .article-black-mask {
@@ -82,4 +85,9 @@
     margin: 10px 0;
     color: #ddd;
   }
+  .secondary.article-excerpt {
+    opacity: 0;
+    max-height: 0;
+  }
+
 }
