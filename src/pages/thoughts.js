@@ -8,9 +8,9 @@ import {Link} from "gatsby"
 export default function IndexPage() {
   return (
     <Layout page="thoughts">
-        <div className={layoutStyles.titleWithLines}>
+        {/* <div className={layoutStyles.titleWithLines}>
           <span className={layoutStyles.titleText}>Thoughts</span>
-        </div>
+        </div> */}
         <BlogList type='thoughts'/>
     </Layout>
   )

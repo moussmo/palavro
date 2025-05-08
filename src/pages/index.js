@@ -7,9 +7,9 @@ import * as layoutStyles from "../styles/components/layout.module.scss"
 export default function IndexPage() {
   return (
     <Layout className={`${layoutStyles.layoutmain}`} page="home">
-        <div className={layoutStyles.titleWithLines}>
+        {/* <div className={layoutStyles.titleWithLines}>
           <span className={layoutStyles.titleText}>The Latest</span>
-        </div>
+        </div> */}
         <BlogList />
     </Layout>
   )

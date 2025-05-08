@@ -37,7 +37,6 @@
     align-items: center;
     background: linear-gradient(90deg, #e8efe4, #ebe9e4);
     z-index: 1000;
-    margin-bottom : 20px;
     width : 1200px;
   }
   
@@ -86,13 +85,12 @@
   .filtermenu {
     width : 100%;
     display: flex;
-    margin-top : 10px;
-    margin-bottom : 10px;
+    margin-top : 30px;
+    margin-bottom : 30px;
     font-size : 30px;
     justify-content: center;
     flex-wrap: wrap;
     gap: 70px;
-    margin-top:50px;
   }
   .filteroption {
     color: #b6b6b6;
@@ -112,15 +110,13 @@
   .shrink .title-header {
     margin-top : 0;
     width : 25%;
-    height : 60px;
+    height : 55px;
     margin-left : 40px;
   }
   
   .shrink .filtermenu {
     margin :0;
-    // margin-top: 10px;
-    // margin-bottom: 10px;
-    // transition: all 0.3s ease;
+    font-size :28px;
   }
 
   .cardsWrapper {
@@ -139,9 +135,8 @@
     position: fixed;
     flex-direction: row;
     align-items: center;
-    padding-top : 12px;
-    padding-bottom : 12px;
+    padding-top : 14px;
+    padding-bottom : 14px;
     margin-bottom :0;
-    /* Empty on purpose – just a parent class to scope children changes */
   }
 }

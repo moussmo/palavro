@@ -22,7 +22,9 @@ export default function BlogList({type}) {
   
     return (
       <div className={blogListStyles.list}>
+        <div>
           {mainArticle && <MajorArticleCard blog={mainArticle} />}
+          </div>
           {minorArticles.map((blog) => (
             <MajorArticleCard key={blog.node.id} blog={blog} secondary/>
           ))}

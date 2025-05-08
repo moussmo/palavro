@@ -64,7 +64,6 @@
     font-family: 'Helvetica';
     font-style: italic;
     font-weight: bold;
-    
   }
 
   .content-title {
@@ -76,13 +75,13 @@
   .content {
     // margin-top : 350px;
     width : 1198px;
-    box-shadow: 0 0 0 0.2px black; /* Mimics a 0.5px border */
+    // box-shadow: 0 0 0 0.2px black; /* Mimics a 0.5px border */
     display: flex;
     flex-direction: column;
     align-items: center;
-
-    background-color: #e0e6db;
-    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
+    margin-bottom : 1500px;
+    // background-color: #e0e6db;
+    // background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
   }
   
   .link-no-fade {

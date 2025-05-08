@@ -85,6 +85,8 @@
   .blog {
     display: flex;
     flex-direction: column;
+        background-color: #e0e6db;
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
   }
   .blog__body {
     width: clamp(700px, 50%, 50%);
