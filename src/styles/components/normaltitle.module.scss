@@ -16,7 +16,7 @@
     justify-content: center;
     font-weight: bold;
     font-family: Helvetica;
-    font-size: 160px;
+    font-size: 12rem;
     background:linear-gradient(80deg, #e6f3e3, #ede5e4);
     background-size: 100%;
     -webkit-background-clip: text;
@@ -28,4 +28,7 @@
         padding:0;
     }
 }
-    
+
+.shrink {
+    font-size : 4rem;
+}

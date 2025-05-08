@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import {Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
-import Card from "./Card"
-import StaircaseTitle from "./StaircaseTitle"
 import NormalTitle from "./NormalTitle"
 import CardsHeader from "./CardsHeader"
 
@@ -17,7 +15,7 @@ export default function Header(props) {
 
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 100) {
+      if (window.scrollY > 320) {
         setShrink(true)
       } else {
         setShrink(false)
@@ -34,7 +32,7 @@ export default function Header(props) {
         <CardsHeader/>
       </div>
       <div className={headerStyles.titleHeader} style={{"--animation-delay": `-${(startTime % 8000) / 1000}s`}}>
-        <NormalTitle/>
+        <NormalTitle shrink={shrink}/>
       </div>
       <div className={headerStyles.filtermenu}>
         <Link to="/"><span className={`${headerStyles.filteroption} ${isActive("home")}`}>All</span></Link>
