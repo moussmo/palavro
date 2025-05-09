@@ -15,6 +15,7 @@ export default function MinorArticleCard({ blog }) {
                   alt="article_thumbnail"
               />
             </Link>
+            <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
               <div className={MinorArticleCardStyles.articleData}>
                   <div className={MinorArticleCardStyles.articleMeta}>
                     <div className={MinorArticleCardStyles.articleDate}>{blog.node.frontmatter.date}</div>
@@ -23,6 +24,7 @@ export default function MinorArticleCard({ blog }) {
                   <div className={MinorArticleCardStyles.articleTitle}>{blog.node.frontmatter.title}</div>
                   <div className={MinorArticleCardStyles.articleExcerpt}>{blog.node.excerpt}</div>
               </div>
+              </Link>
         </div>
   )
 }
