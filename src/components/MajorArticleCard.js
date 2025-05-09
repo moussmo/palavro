@@ -11,22 +11,22 @@ export default function MajorArticleCard({ blog, secondary }) {
   return (
         <li className={getClass(MajorArticleCardStyles.articleCard)} key={blog.node.frontmatter.slug}>
             <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
-            <GatsbyImage
-                className={getClass(MajorArticleCardStyles.articleHero)}
-                image={image}
-                loading="eager"
-                alt="article_thumbnail"
-            />
-            <div className={getClass(MajorArticleCardStyles.articleBlackMask)} />
-            <div className={getClass(MajorArticleCardStyles.articleBlurMask)} />
-            <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
-                <div className={getClass(MajorArticleCardStyles.articleMeta)}>
-                  <div className={getClass(MajorArticleCardStyles.articleDate)}>{blog.node.frontmatter.date}</div>
-                  <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={getClass(MajorArticleCardStyles.articleCategory)}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link>
-                </div>
-                <div className={getClass(MajorArticleCardStyles.articleTitle)}>{blog.node.frontmatter.title}</div>
-                <div className={getClass(MajorArticleCardStyles.articleExcerpt)}>{blog.node.excerpt}</div>
-            </div>
+              <GatsbyImage
+                  className={getClass(MajorArticleCardStyles.articleHero)}
+                  image={image}
+                  loading="eager"
+                  alt="article_thumbnail"
+              />
+              <div className={getClass(MajorArticleCardStyles.articleBlackMask)} />
+              <div className={getClass(MajorArticleCardStyles.articleBlurMask)} />
+              <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
+                  <div className={getClass(MajorArticleCardStyles.articleMeta)}>
+                    <div className={getClass(MajorArticleCardStyles.articleDate)}>{blog.node.frontmatter.date}</div>
+                    <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={getClass(MajorArticleCardStyles.articleCategory)}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link>
+                  </div>
+                  <div className={getClass(MajorArticleCardStyles.articleTitle)}>{blog.node.frontmatter.title}</div>
+                  <div className={getClass(MajorArticleCardStyles.articleExcerpt)}>{blog.node.excerpt}</div>
+              </div>
             </Link>
         </li>
   )

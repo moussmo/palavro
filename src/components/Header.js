@@ -25,22 +25,25 @@ export default function Header(props) {
     window.addEventListener("scroll", handleScroll)
     return () => window.removeEventListener("scroll", handleScroll)
   }, [])
-  
+
   return (
-<div className={`${headerStyles.header} ${shrink ? headerStyles.shrink : ""}`}>
-      <div className={headerStyles.cardsWrapper}>
-        <CardsHeader/>
+    <>
+      {shrink && <div style={{height: "var(--header-height)" }}></div>}
+      <div className={`${headerStyles.header} ${shrink ? headerStyles.shrink : ""}`}>
+        <div className={headerStyles.cardsWrapper}>
+          <CardsHeader />
+        </div>
+        <div className={headerStyles.titleHeader} style={{ "--animation-delay": `-${(startTime % 8000) / 1000}s` }}>
+          <NormalTitle shrink={shrink} />
+        </div>
+        <div className={headerStyles.filtermenu}>
+          <Link to="/"><span className={`${headerStyles.filteroption} ${isActive("home")}`}>All</span></Link>
+          <Link to="/thoughts"><span className={`${headerStyles.filteroption} ${isActive("thoughts")}`}>Thoughts</span></Link>
+          <Link to="/reviews"><span className={`${headerStyles.filteroption} ${isActive("reviews")}`}>Reviews</span></Link>
+          <Link to="/science_tech"><span className={`${headerStyles.filteroption} ${isActive("science_tech")}`}>Tech</span></Link>
+          <Link to="/info"><span className={`${headerStyles.filteroption} ${isActive("info")}`}>About me</span></Link>
+        </div>
       </div>
-      <div className={headerStyles.titleHeader} style={{"--animation-delay": `-${(startTime % 8000) / 1000}s`}}>
-        <NormalTitle shrink={shrink}/>
-      </div>
-      <div className={headerStyles.filtermenu}>
-        <Link to="/"><span className={`${headerStyles.filteroption} ${isActive("home")}`}>All</span></Link>
-        <Link to="/thoughts"><span className={`${headerStyles.filteroption} ${isActive("thoughts")}`}>Thoughts</span></Link>
-        <Link to="/reviews"><span className={`${headerStyles.filteroption} ${isActive("reviews")}`}>Reviews</span></Link>
-        <Link to="/science_tech"><span className={`${headerStyles.filteroption} ${isActive("science_tech")}`}>Tech</span></Link>
-        <Link to="/info"><span className={`${headerStyles.filteroption} ${isActive("info")}`}>About me</span></Link>
-      </div>
-    </div>
+    </>
   )
 }

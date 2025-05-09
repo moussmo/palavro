@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import useBlogData from "../static_queries/useBlogData"
 import * as blogListStyles from "../styles/components/bloglist.module.scss"
 import MajorArticleCard from "./MajorArticleCard"
+import MinorArticleCard from "./MinorArticleCard"
 
 export default function BlogList({type}) {
   const blogData = useBlogData()
@@ -17,17 +18,25 @@ export default function BlogList({type}) {
         return true
       })
   
-    const mainArticle = filteredData[0]
-    const minorArticles = filteredData.slice(1)
+    const headline = filteredData[0]
+    const majorarticles = filteredData.slice(1, 4) 
+    const minorarticles = filteredData.slice(4)
   
     return (
       <div className={blogListStyles.list}>
-        <div>
-          {mainArticle && <MajorArticleCard blog={mainArticle} />}
-          </div>
-          {minorArticles.map((blog) => (
-            <MajorArticleCard key={blog.node.id} blog={blog} secondary/>
-          ))}
+        <div className={blogListStyles.majorList}>
+          <div>
+            {headline && <MajorArticleCard blog={headline} />}
+            </div>
+            {majorarticles.map((blog) => (
+              <MajorArticleCard key={blog.node.id} blog={blog} secondary/>
+            ))}
+        </div>
+        <div classname={blogListStyles.minorList}>  
+          {minorarticles.map((blog) => (
+                <MinorArticleCard key={blog.node.id} blog={blog}/>
+              ))}
+        </div>
       </div>
     )
   }
