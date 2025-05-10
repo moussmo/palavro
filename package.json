@@ -14,6 +14,7 @@
     "deploy": "gatsby-plugin-s3 deploy"
   },
   "dependencies": {
+    "@reach/router": "^1.3.4",
     "gatsby": "*",
     "gatsby-plugin-image": "^3.13.1",
     "gatsby-plugin-mdx": "^5.13.1",
@@ -30,7 +31,7 @@
     "gatsby-source-filesystem": "*",
     "gatsby-transformer-remark": "*",
     "gatsby-transformer-sharp": "*",
-    "gatsby-transformer-yaml": "*",
+    "gatsby-transformer-yaml": "^5.14.0",
     "node-sass": "^9.0.0",
     "react": "*",
     "react-dom": "*",

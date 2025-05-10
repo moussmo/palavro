@@ -10,6 +10,8 @@
   }
   
   .responsive-container-block {
+    height : calc(100vh - 370px);;
+    justify-content: center;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -78,6 +80,7 @@
   
   @media (max-width: 500px) {
     .responsive-container-block.bigContainer {
+      
       padding-top: 10px;
       padding-right: 20px;
       padding-bottom: 10px;

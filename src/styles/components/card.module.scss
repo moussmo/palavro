@@ -1,0 +1,102 @@
+.cardTilt1 {
+    transform: perspective(800px) rotateX(35deg) rotateY(-30deg) rotateZ(10deg) skew(5deg, -5deg);
+  }
+  .cardTilt2 {
+    transform: perspective(800px) rotateX(-32deg) rotateY(38deg) rotateZ(-12deg) skew(-4deg, 4deg);
+  }
+  .cardTilt3 {
+    transform: perspective(800px) rotateX(30deg) rotateY(34deg) rotateZ(6deg) skew(6deg, -6deg);
+  }
+  .cardTilt4 {
+    transform: perspective(800px) rotateX(-40deg) rotateY(-33deg) rotateZ(15deg) skew(3deg, -3deg);
+  }
+  .cardTilt5 {
+    transform: perspective(800px) rotateX(36deg) rotateY(31deg) rotateZ(-8deg) skew(-6deg, 5deg);
+  }
+  .cardTilt6 {
+    transform: perspective(800px) rotateX(-38deg) rotateY(37deg) rotateZ(18deg) skew(4deg, -2deg);
+  }
+  .cardTilt7 {
+    transform: perspective(800px) rotateX(34deg) rotateY(-39deg) rotateZ(14deg) skew(2deg, 3deg);
+  }
+  .cardTilt8 {
+    transform: perspective(800px) rotateX(-33deg) rotateY(32deg) rotateZ(-10deg) skew(5deg, -5deg);
+  }
+  
+  
+@media (min-width: 1340px) {
+
+ .card-container {
+    width : 100%;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+ .card-image {
+    width : 180px;
+    aspect-ratio: 1/1.69;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    box-shadow: 
+        10px 10px 20px rgba(0, 0, 0, 0.3),
+        -5px -5px 15px rgba(255, 255, 255, 0.1);
+  }
+
+  .card-description{
+    width : 200px;
+    color : rgb(0, 0, 0);
+    font-size : 20px;
+  }
+
+  .transition-effect {
+    transition: transform 2s ease;
+  }
+
+  .cards-container{
+    width: 100%;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .cards-header{
+    margin-top : 20px;
+    width: 55%;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-around;
+    color : rgb(0, 0, 0);
+    font-size: 18px;
+  }
+
+  .card-name{
+    cursor: pointer;
+    &:hover{
+      // color:rgb(7, 94, 255);
+    }
+  }
+
+  .hiddenCardsImages {
+    margin-top : 20px;
+    width: 100%;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .expandedCardsImages {
+    margin-top : 20px;
+    min-height: 500px;
+    transition: max-height 0.5s ease;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom : 25px;
+  }
+
+}

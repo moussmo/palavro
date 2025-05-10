@@ -35,7 +35,6 @@
     display: flex;
     justify-content: start;
     flex-direction: column;
-    min-height: 38vh;
   }
   h2 {
     margin-bottom: 0.5rem;
@@ -48,42 +47,44 @@
   }
 }
 
-@media (min-width: 1161px) {
-  .list {
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+@media (min-width: 1340px) {
+
+  .ul {
     display : flex;
     flex-direction: column;
-    align-items : center;
-    a:hover {
-      opacity: 1;
-      li {
-        div.list__info {
-          h2,
-          h3,
-          p {
-            -webkit-transform: translateX(10px);
-            transform: translateX(10px);
-            -webkit-transition: transform 0.5s ease-out;
-            transition: transform 0.5s ease-out;
-          }
-        }
-      }
-    }
-    a {
-      width : fit-content;
-    }
-    li {
-      min-height: 250px;
-      height: 30vh;
-      flex-direction: row;
-      margin : 0;
-    }
-    .list__hero {
-      height: 100%; 
-      max-width : 320px;
-    }
-    .list__info {
-      width: fit-content;
-    }
+    align-items: center;
+    width : 100%;
   }
+
+  .list{
+    width : 100%;
+  }
+
+  .major-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem 3rem;
+    width: 100%;
+    margin: 0 auto; 
+    padding: 0;
+    list-style: none; 
+    margin-bottom : 3rem;
+  }
+
+  .major-list > div:first-child {
+    grid-column: span 3;
+  }
+
+  .minor-list {
+    width : 100%;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');

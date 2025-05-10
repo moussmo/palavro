@@ -1,35 +1,92 @@
-.layout {
-  position:absolute;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  min-width: 100%;
-}
-
-.content {
-  min-height : 100vh;
-  color : #244855;
-  background-color: #f8efe4;
-  display:flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.section__title{
-  color : #874F41;
-  font-size : 50px;
+.background {
   display : flex;
-  justify-content: center;
-  padding : 2rem 0 3rem 0;
+  justify-content: center;   
+  width: 100vw;          
+  background: linear-gradient(90deg, #e6f3e3, #ede5e4);
+  min-height: 100vh;
 }
 
-@media (min-width: 1161px) {
-  .layout {
-    display: flex;
+@keyframes rainbow {
+  0% {
+    background-position: 0% 50%;
   }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+
+@media (min-width: 1340px) {
+
+  .delimiter{
+    margin-top: 10px;
+    margin-bottom : 10px;
+    border : 1px solid black;
+    width : 25%;
+
+  }
+  .layout {
+    display : flex;
+    flex-direction: column;
+    width : 1200px;
+    align-items: center;
+  }
+
+  .title-with-lines {
+    margin-top : 40px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px; 
+    width : 70%;
+  }
+  
+  // .title-with-lines::before,
+  .title-with-lines::after {
+    content: "";
+    flex: 1;
+    height: 5px; 
+    background-color: #333; 
+    opacity: 1; 
+  }
+  
+  .title-text {
+    font-size: 50px;
+    font-weight: 500;
+    // letter-spacing: 6px;
+    color: #000000;
+    // text-transform: uppercase;
+    font-family: 'Helvetica';
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  .content-title {
+    // margin-top : 40px;
+    font-size : 30px;
+    font-weight: bold;
+  }
+
   .content {
-    margin-left: clamp(300px, 20%, 20%);
-    height:100%;
+    width : 1198px;
+    // box-shadow: 0 0 0 0.2px black; /* Mimics a 0.5px border */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom : 150px;
+  }
+  
+  .link-no-fade {
+    opacity: 1;
+    transition: none;
+  }
+  
+  .link-no-fade:hover {
+    opacity: 1;
   }
 }

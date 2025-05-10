@@ -93,6 +93,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/static/cards`,
+        name: `cards`,
+      },
+    },
+    `gatsby-transformer-yaml`,
+    {
       resolve: "gatsby-plugin-sharp", 
       options: {
         quality: 50

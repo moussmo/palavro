@@ -1,44 +1,49 @@
-import React from "react"
+import React, { useEffect, useState } from 'react'
 import {Link } from "gatsby"
 import * as headerStyles from "../styles/components/header.module.scss"
-import backgroundImage from '../../static/background_home_erik-n1VbsCPevyk-unsplash.png'
+import NormalTitle from "./NormalTitle"
+import CardsHeader from "./CardsHeader"
 
 export default function Header(props) {
+  const currentPage = props.page; 
+  const isActive = (page) => currentPage === page ? headerStyles.active : "";
+  const [startTime] = useState(() => {
+    return typeof window !== "undefined" ? Date.now() : 0
+  })
+
+  const [shrink, setShrink] = useState(false)
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 320) {
+        setShrink(true)
+      } else {
+        setShrink(false)
+      }
+    }
+
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
   return (
-    <header className={`${headerStyles.header}`}>
-      <img src={backgroundImage} alt="hu" style={{objectFit: 'cover', height: '100%', position: 'absolute', zIndex: -1}}/>
-      <nav className={headerStyles.header__nav} role="navigation" aria-label="main navigation">
-        <Link to="/">
-          <h1 style={{fontStyle:'italic'}}>PALAVRO</h1>
-        </Link>
-        <div>
-          <h1>
-            <Link to="/thoughts">
-              Thoughts
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/history_art">
-              History & art
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/reviews">
-              Reviews
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/science_tech">
-              Science & tech
-            </Link>
-          </h1>
-          <h1>
-            <Link to="/info">
-              About me
-            </Link>
-          </h1>
+    <>
+      {shrink && <div style={{height: "var(--header-height)" }}></div>}
+      <div className={`${headerStyles.header} ${shrink ? headerStyles.shrink : ""}`}>
+        <div className={headerStyles.cardsWrapper}>
+          <CardsHeader />
         </div>
-      </nav>
-    </header>
+        <div className={headerStyles.titleHeader} style={{ "--animation-delay": `-${(startTime % 8000) / 1000}s` }}>
+          <NormalTitle shrink={shrink} />
+        </div>
+        <div className={headerStyles.filtermenu}>
+          <Link to="/"><span className={`${headerStyles.filteroption} ${isActive("home")}`}>All</span></Link>
+          <Link to="/thoughts"><span className={`${headerStyles.filteroption} ${isActive("thoughts")}`}>Thoughts</span></Link>
+          <Link to="/reviews"><span className={`${headerStyles.filteroption} ${isActive("reviews")}`}>Reviews</span></Link>
+          <Link to="/science_tech"><span className={`${headerStyles.filteroption} ${isActive("science_tech")}`}>Tech</span></Link>
+          <Link to="/info"><span className={`${headerStyles.filteroption} ${isActive("info")}`}>About me</span></Link>
+        </div>
+      </div>
+    </>
   )
 }

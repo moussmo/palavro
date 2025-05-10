@@ -2,48 +2,59 @@ import React from "react"
 import { Link } from "gatsby"
 import useBlogData from "../static_queries/useBlogData"
 import * as blogListStyles from "../styles/components/bloglist.module.scss"
-import {GatsbyImage, getImage} from 'gatsby-plugin-image'
+import MajorArticleCard from "./MajorArticleCard"
+import MinorArticleCard from "./MinorArticleCard"
 
-export default function BlogList({type}) {
-  const blogData = useBlogData()
+export default function BlogList({ type }) {
+  const blogData = useBlogData();
+
   function renderBlogData() {
+    const filteredData = blogData
+      .filter(blog => blog.node.frontmatter.title !== "")
+      .filter(blog => {
+        if (type != undefined) {
+          const article_type = blog.node.fileAbsolutePath.split("/").reverse()[1];
+          return type === article_type;
+        }
+        return true;
+      });
+
+    if (type !== undefined) {
+      // Render all as MinorArticleCards
+      return (
+        <div className={blogListStyles.list}>
+          <div className={blogListStyles.minorList}>
+            {filteredData.map(blog => (
+              <MinorArticleCard key={blog.node.id} blog={blog} />
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // Default behavior: headline, 3 major articles, rest minor
+    const headline = filteredData[0];
+    const majorarticles = filteredData.slice(1, 4);
+    const minorarticles = filteredData.slice(4);
+
     return (
       <div className={blogListStyles.list}>
-        {blogData
-          .filter(blog => blog.node.frontmatter.title !== "")
-          .filter(blog => {
-            if (type!=undefined){
-              const article_type = blog.node.fileAbsolutePath.split('/').reverse()[1]
-              return type == article_type
-            }
-            else {
-              return true
-            }
-          })
-          .map(blog => {
-            const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
-            return (
-              <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
-                <li className={blogListStyles.li} key={blog.node.frontmatter.slug}>
-                  <div className={blogListStyles.list__hero}>
-                    <GatsbyImage image={image} width={50} loading='eager' alt = "article_thumbnail"/>
-                  </div>
-                  <div className={blogListStyles.list__info}>
-                    <h2>{blog.node.frontmatter.title}</h2>
-                    <h3>{blog.node.frontmatter.date}</h3>
-                    <p>{blog.node.excerpt}</p>
-                  </div>
-                </li>
-              </Link>
-            )
-          })}
+        <div className={blogListStyles.majorList}>
+          <div>
+            {headline && <MajorArticleCard blog={headline} />}
+          </div>
+          {majorarticles.map(blog => (
+            <MajorArticleCard key={blog.node.id} blog={blog} secondary />
+          ))}
+        </div>
+        <div className={blogListStyles.minorList}>
+          {minorarticles.map(blog => (
+            <MinorArticleCard key={blog.node.id} blog={blog} />
+          ))}
+        </div>
       </div>
-    )
+    );
   }
-  return (
-    <section>
-      <ul >{renderBlogData()}</ul>
-    </section>
-  )
-}
 
+  return <ul className={blogListStyles.ul}>{renderBlogData()}</ul>;
+}

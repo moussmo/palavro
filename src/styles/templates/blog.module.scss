@@ -85,6 +85,8 @@
   .blog {
     display: flex;
     flex-direction: column;
+    background-color: #f5f5ef;
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
   }
   .blog__body {
     width: clamp(700px, 50%, 50%);
@@ -102,8 +104,8 @@
     }
   }
   .blog__hero {
-    min-height: 600px;
-    height: 75vh;
+    min-height: 550px;
+    height: 60vh;
     img {
       min-width: 100%;
     }
@@ -123,7 +125,7 @@
 
 @media (min-width: 1440px) {
   .blog__hero {
-    height: 70vh;
+    height: 20vh;
   }
   .blog__info {
     padding: 3rem 0;
