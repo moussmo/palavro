@@ -22,7 +22,7 @@ export default function MajorArticleCard({ blog, secondary }) {
               <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
                   <div className={getClass(MajorArticleCardStyles.articleMeta)}>
                     <div className={getClass(MajorArticleCardStyles.articleDate)}>{blog.node.frontmatter.date}</div>
-                    <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={getClass(MajorArticleCardStyles.articleCategory)}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link>
+                    {/* <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={getClass(MajorArticleCardStyles.articleCategory)}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link> */}
                   </div>
                   <div className={getClass(MajorArticleCardStyles.articleTitle)}>{blog.node.frontmatter.title}</div>
                   <div className={getClass(MajorArticleCardStyles.articleExcerpt)}>{blog.node.excerpt}</div>

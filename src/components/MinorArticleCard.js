@@ -20,7 +20,7 @@ export default function MinorArticleCard({ blog }) {
                 <div className={MinorArticleCardStyles.articleHeader}>
                   <div className={MinorArticleCardStyles.articleMeta}>
                     <div className={MinorArticleCardStyles.articleDate}>{blog.node.frontmatter.date}</div>
-                    <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={MinorArticleCardStyles.articleCategory}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link>
+                    {/* <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={MinorArticleCardStyles.articleCategory}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link> */}
                   </div>
                   <div className={MinorArticleCardStyles.articleTitle}>{blog.node.frontmatter.title}</div>
                 </div>
