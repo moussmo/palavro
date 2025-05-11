@@ -4,7 +4,7 @@ import {Link } from "gatsby"
 
 export default function NormalTitle(props) {
     const shrink = props.shrink
-    const title = shrink ? "PLVR" : "PALAVRO"
+    const title = "PALAVRO"
     return (
             <Link to="/" className={`${normalTitleStyles.normalTitle} ${shrink ? normalTitleStyles.shrink : ""}`}>
                 {title}
