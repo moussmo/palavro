@@ -11,9 +11,8 @@ export default function Info() {
     <Layout page="info" articleTitle="About me">
         <div className={infoStyles.responsiveContainerBlock}>
         <img className={infoStyles.profilePicture} src={aboutmeImage}/>
-          <p className={infoStyles.textBlk + ' ' + infoStyles.heading}>
-            About Me
-          </p>
+        <div className={infoStyles.aboutmeData}>
+          <p className={infoStyles.textBlk + ' ' + infoStyles.heading}> About Me </p>
           <p className={infoStyles.textBlk + ' ' + infoStyles.subHeading}>
           Hello, I’m Mohamed, an engineer navigating life with a deep love for the things that make it beautiful. PALAVRO is my little corner on the web where I share my musings on every thing that captivates me, whether it's history, science, movies, or anything really. Whatever you're here for, I hope you find something that resonates with you. Thanks for stopping by!
           </p>
@@ -24,13 +23,14 @@ export default function Info() {
             </a>
             <a className={infoStyles.socialIcona} href="https://www.linkedin.com/in/mo-mouss/" target="_blank">
               <img className={infoStyles.socialIcon}
-               src={linkedinLogoImage}/>
+                src={linkedinLogoImage}/>
             </a>
             <a className={infoStyles.socialIcona} href="mailto:mouss.mo.ke@gmail.com" target="_blank">
               <img className={infoStyles.socialIcon}
-               src={mailLogoImage}/>
+                src={mailLogoImage}/>
             </a>
           </div>
+        </div>
         </div>
     </Layout>
   )

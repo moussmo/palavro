@@ -1,8 +1,15 @@
   .profile-picture {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius:50%;
     border: solid 10px rgb(220, 176, 4);
+  }
+
+  .aboutme-data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width : 51%;
   }
   
   .text-blk {
@@ -10,16 +17,17 @@
   }
   
   .responsive-container-block {
-    height : calc(100vh - 370px);;
-    justify-content: center;
+    height : calc(100vh - 300px);;
+    width : 90%;
+    justify-content: space-evenly;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
   }
 
   .text-blk.heading {
     max-width: 800px;
-    font-size: 36px;
+    font-size: 30px;
     line-height: 45px;
     font-weight: 800;
     margin-bottom: 30px;

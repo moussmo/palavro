@@ -31,7 +31,8 @@ export default function Header(props) {
       {shrink && <div style={{height: "var(--header-height)" }}></div>}
       <div className={`${headerStyles.header} ${shrink ? headerStyles.shrink : ""}`}>
         <div className={headerStyles.cardsWrapper}>
-          <CardsHeader />
+          {/* <CardsHeader /> */}
+          Open-source thoughts from a human mind
         </div>
         <div className={headerStyles.titleHeader} style={{ "--animation-delay": `-${(startTime % 8000) / 1000}s` }}>
           <NormalTitle shrink={shrink} />
