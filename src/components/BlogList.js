@@ -13,7 +13,7 @@ export default function BlogList({ type }) {
     if (type !== undefined) {
       const timer = setTimeout(() => {
         setShowAnimation(true);
-      }, 100); // delay helps CSS transition work properly
+      }, 100);
       return () => clearTimeout(timer);
     }
   }, [type]);

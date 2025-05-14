@@ -1,119 +1,139 @@
-@media (min-width: 1340px) {
-  .article-card {
-    position: relative;
-    margin-bottom:0;
-    width: 100%;
-    height: 500px;
-    overflow: hidden;
-    font-family: 'Helvetica Neue', sans-serif;
-    color: white;
-    
-  }
-  
-  .secondary.article-card {
-    width : 100%;
-    height : 250px;
-  }
+.article-card {
+  position: relative;
+  margin-bottom:0;
+  width: 100%;
+  aspect-ratio: 3 / 1.25;
+  overflow: hidden;
+  font-family: 'Helvetica Neue', sans-serif;
+  color: white;
+}
 
-  .article-black-mask {
-    position: absolute;
-    z-index: 3;
-    height: 100%; 
-    width: 100%; 
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent 70%);
-  }
+.secondary.article-card {
+  width : 100%;
+  aspect-ratio: 3 / 2;
+}
 
-  .article-blur-mask {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 50%;
-    z-index: 2;
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
-    mask-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
-    -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
-  }
+.article-black-mask {
+  position: absolute;
+  z-index: 3;
+  height: 100%; 
+  width: 100%; 
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent 70%);
+}
 
-  .article-overlay {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding-left : 30px;
-    padding-right : 30px;
-    padding-bottom:25px;
-    z-index: 3;
-    display: flex;
-    flex-direction: column;
-    gap: 0px;
-  }
+.article-blur-mask {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50%;
+  z-index: 2;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  mask-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+}
 
-  .secondary.article-overlay{
-    padding-bottom:10;
-    padding-left : 20px;
-    padding-right : 20px;
-  }
+.article-overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding : 0 2.7% 2.7%;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+}
 
-  .article-hero {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transition: transform 0.5s ease;
-  }
-  
-  .article-card:hover .article-hero {
-    transform: scale(1.03); 
-  }
+.secondary.article-overlay{
+  padding : 0 4% 4%;
+}
 
-  .article-meta {
-    font-size: 0.9rem;
-    color: #aaa;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 15px;
+.article-hero {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
 
+.article-card:hover .article-hero {
+  transform: scale(1.03); 
+}
+
+.article-meta {
+  color: #aaa;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+
+}
+
+.article-category {
+  border-radius: 25px;
+  background-color: rgb(230, 230, 230);
+  padding: 8px;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #000000;
+}
+
+.article-date {
+  font-size: 1.4rem;
+  color : rgb(216, 215, 215);
+  font-weight : bold;
+}
+
+.secondary .article-date{
+  font-size: 1.2rem;
+}
+
+.article-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0.7% 0px;
+  line-height: 1.3;
+}
+
+.secondary.article-title {
+  font-size: 1.5rem;
+}
+
+.article-excerpt {
+  font-size: 1.2rem;
+  color: #ddd;
+  width : 100%;
+}
+
+.secondary.article-excerpt {
+  opacity: 0;
+  max-height: 0;
+  padding-bottom: 0;
+}
+
+@media (max-width : 1340px){
+  .article-card{
+    aspect-ratio: 3 / 1.4;
   }
-  
-  .article-category {
-    border-radius: 25px;
-    background-color: rgb(230, 230, 230);
-    padding: 8px;
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    font-weight: bold;
-    color: #000000;
-  }
-  
   .article-date {
-    font-size: 17px;
-    color : rgb(216, 215, 215);
-    font-weight : bold;
+    font-size: clamp(1rem, 1.8vw, 1.4rem);
   }
-  
+
+  .secondary .article-date{
+    font-size: clamp(0.9rem, 1.5vw, 1.2rem);
+  }
+
   .article-title {
-    font-size: 2.5rem;
-    font-weight: bold;
-    margin: 8px 0px;
-    line-height: 1.3;
+    font-size: clamp(1.5rem, 2.5vw, 2.5rem);
   }
 
   .secondary.article-title {
-    font-size: 1.3rem;
-    margin-bottom : 5px;
+    font-size: clamp(1rem, 1.5vw, 1.5rem);
   }
   
   .article-excerpt {
-    font-size: 1.2rem;
-    padding-bottom: 20px;
-    color: #ddd;
-    width :100%;
-  }
-  .secondary.article-excerpt {
-    opacity: 0;
-    max-height: 0;
-    padding-bottom: 0;
+    font-size: clamp(0.8rem, 1.3vw,1.2rem);
   }
 }
