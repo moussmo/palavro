@@ -7,7 +7,7 @@ export default function MinorArticleCard({ blog }) {
   const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
   return (
         <div className={MinorArticleCardStyles.articleCard} key={blog.node.frontmatter.slug}>
-            <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
+            <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id} className={MinorArticleCardStyles.heroLink}>
               <GatsbyImage
                   className={MinorArticleCardStyles.articleHero}
                   image={image}
