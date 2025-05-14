@@ -2,8 +2,8 @@
     background: linear-gradient(90deg, #e8efe4, #ebe9e4);
     border-top : solid black 2px;
     color: #0c0c0c;
-    padding: 2rem 1rem;
-    margin-top: 4rem;
+    padding: 1rem 1rem;
+    margin-top: 2rem;
     font-size: 0.9rem;
     width : 100%;
   }
@@ -33,4 +33,11 @@
         color: #c0a960;
         }
     }
+}
+
+@media (max-width : 1000px){
+    .brand{
+        font-size : 1rem;
+    }
+    
 }
