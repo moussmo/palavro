@@ -105,6 +105,11 @@
   font-size: 1.2rem;
   color: #ddd;
   width : 100%;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3; 
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .secondary.article-excerpt {
@@ -136,5 +141,23 @@
   
   .article-excerpt {
     font-size: clamp(0.8rem, 1.3vw,1.2rem);
+  }
+}
+
+@media(max-width : 600px){
+  .article-card{
+    height : 250px;
+  }
+  .secondary{
+    height : 115px;
+  }
+
+  .secondary .article-title {
+    margin : 0;
+    font-size: clamp(0.8rem, 2vw, 1rem);
+  }
+
+  .secondary .article-date{
+    font-size: 1.2rem;
   }
 }

@@ -52,6 +52,26 @@
       }
   }
 
-  @media (max-width: 800px){
-    
+  @media (max-width: 900px){
+    .shrink {
+      font-size : 2rem;
+    }
+  }
+
+  @media (max-width : 600px){
+    .normal-title{
+      font-size : 4rem;
+    }
+  }
+
+  @media (max-width : 400px){
+    .normal-title{
+      font-size : 3rem;
+    }
+  }
+
+  @media (max-width : 270px){
+    .normal-title{
+      font-size : 2rem;
+    }
   }

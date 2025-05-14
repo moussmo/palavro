@@ -1,13 +1,16 @@
-import React, { useEffect, useState } from "react"
-import { Link } from "gatsby"
-import useBlogData from "../static_queries/useBlogData"
-import * as blogListStyles from "../styles/components/bloglist.module.scss"
-import MajorArticleCard from "./MajorArticleCard"
-import MinorArticleCard from "./MinorArticleCard"
+import React, { useEffect, useState } from "react";
+import { Link } from "gatsby";
+import useBlogData from "../static_queries/useBlogData";
+import * as blogListStyles from "../styles/components/bloglist.module.scss";
+import MajorArticleCard from "./MajorArticleCard";
+import MinorArticleCard from "./MinorArticleCard";
 
 export default function BlogList({ type }) {
   const blogData = useBlogData();
   const [showAnimation, setShowAnimation] = useState(false);
+  const [windowWidth, setWindowWidth] = useState(
+    typeof window !== "undefined" ? window.innerWidth : 1200
+  );
 
   useEffect(() => {
     if (type !== undefined) {
@@ -17,6 +20,12 @@ export default function BlogList({ type }) {
       return () => clearTimeout(timer);
     }
   }, [type]);
+
+  useEffect(() => {
+    const handleResize = () => setWindowWidth(window.innerWidth);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
 
   function renderBlogData() {
     const filteredData = blogData
@@ -29,6 +38,7 @@ export default function BlogList({ type }) {
         return true;
       });
 
+    // TYPE-SPECIFIC RENDER
     if (type !== undefined) {
       return (
         <div className={blogListStyles.list}>
@@ -36,9 +46,7 @@ export default function BlogList({ type }) {
             {filteredData.map((blog, index) => (
               <div
                 key={blog.node.id}
-                className={`${blogListStyles.articleBox} ${
-                  showAnimation ? blogListStyles.visible : ""
-                }`}
+                className={`${blogListStyles.articleBox} ${showAnimation ? blogListStyles.visible : ""}`}
                 style={{ transitionDelay: `${index * 100}ms` }}
               >
                 <MinorArticleCard blog={blog} />
@@ -49,9 +57,12 @@ export default function BlogList({ type }) {
       );
     }
 
+    // RESPONSIVE LOGIC
     const headline = filteredData[0];
-    const majorarticles = filteredData.slice(1, 4);
-    const minorarticles = filteredData.slice(4);
+    const majorarticles = windowWidth > 600 ? filteredData.slice(1, 4) : [];
+    const minorarticles = windowWidth > 600
+      ? filteredData.slice(4)
+      : filteredData.slice(1);
 
     return (
       <div className={blogListStyles.list}>
