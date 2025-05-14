@@ -1,11 +1,3 @@
-.background {
-  display : flex;
-  justify-content: center;   
-  width: 100vw;          
-  background: linear-gradient(90deg, #e6f3e3, #ede5e4);
-  min-height: 100vh;
-}
-
 @keyframes rainbow {
   0% {
     background-position: 0% 50%;
@@ -20,73 +12,36 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
 
+.background {
+  display : flex;
+  justify-content: center;   
+  width: 100vw;          
+  background: linear-gradient(90deg, #e6f3e3, #ede5e4);
+  min-height: 100vh;
+}
 
-@media (min-width: 1340px) {
+.layout {
+  display : flex;
+  flex-direction: column;
+  width : 1200px;
+  align-items: center;
+}
 
-  .delimiter{
-    margin-top: 10px;
-    margin-bottom : 10px;
-    border : 1px solid black;
-    width : 25%;
+.content {
+  margin-top : 5%;
+  width : 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
-  }
-  .layout {
-    display : flex;
-    flex-direction: column;
-    width : 1200px;
-    align-items: center;
-  }
-
-  .title-with-lines {
-    margin-top : 40px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    gap: 20px; 
+@media (max-width : 1340px){
+  .layout{
     width : 70%;
   }
-  
-  // .title-with-lines::before,
-  .title-with-lines::after {
-    content: "";
-    flex: 1;
-    height: 5px; 
-    background-color: #333; 
-    opacity: 1; 
-  }
-  
-  .title-text {
-    font-size: 50px;
-    font-weight: 500;
-    // letter-spacing: 6px;
-    color: #000000;
-    // text-transform: uppercase;
-    font-family: 'Helvetica';
-    font-style: italic;
-    font-weight: bold;
-  }
+}
 
-  .content-title {
-    // margin-top : 40px;
-    font-size : 30px;
-    font-weight: bold;
-  }
+@media (max-width: 800px){
+  
 
-  .content {
-    width : 1198px;
-    // box-shadow: 0 0 0 0.2px black; /* Mimics a 0.5px border */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    // margin-bottom : 150px;
-  }
-  
-  .link-no-fade {
-    opacity: 1;
-    transition: none;
-  }
-  
-  .link-no-fade:hover {
-    opacity: 1;
-  }
 }
