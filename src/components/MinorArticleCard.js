@@ -5,6 +5,14 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 export default function MinorArticleCard({ blog }) {
   const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
+
+  function formatDate(dateString) {
+    const date = new Date(dateString)
+    const year = date.getFullYear()
+    const month = date.toLocaleString("en-US", { month: "long" }) // change "en-US" to "fr-FR" if needed
+    return `${month} ${year}`
+  }
+  
   return (
         <div className={MinorArticleCardStyles.articleCard} key={blog.node.frontmatter.slug}>
             <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id} className={MinorArticleCardStyles.heroLink}>
@@ -19,7 +27,7 @@ export default function MinorArticleCard({ blog }) {
               <div className={MinorArticleCardStyles.articleData}>
                 <div className={MinorArticleCardStyles.articleHeader}>
                   <div className={MinorArticleCardStyles.articleMeta}>
-                    <div className={MinorArticleCardStyles.articleDate}>{blog.node.frontmatter.date}</div>
+                    <div className={MinorArticleCardStyles.articleDate}>{formatDate(blog.node.frontmatter.date)}</div>
                     {/* <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={MinorArticleCardStyles.articleCategory}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link> */}
                   </div>
                   <div className={MinorArticleCardStyles.articleTitle}>{blog.node.frontmatter.title}</div>
