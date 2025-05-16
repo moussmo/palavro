@@ -7,7 +7,14 @@ export default function MajorArticleCard({ blog, secondary }) {
   const image = getImage(blog.node.frontmatter.hero_image.childImageSharp.gatsbyImageData)
   const getClass = (baseClass) => 
     `${baseClass} ${secondary ? MajorArticleCardStyles.secondary : ""}`.trim()
-
+  
+  function formatDate(dateString) {
+    const date = new Date(dateString)
+    const year = date.getFullYear()
+    const month = date.toLocaleString("en-US", { month: "long" }) // change "en-US" to "fr-FR" if needed
+    return `${month} ${year}`
+  }
+  
   return (
         <li className={getClass(MajorArticleCardStyles.articleCard)} key={blog.node.frontmatter.slug}>
             <Link to={`/blog/${blog.node.frontmatter.slug}`} key={blog.node.id}>
@@ -21,7 +28,7 @@ export default function MajorArticleCard({ blog, secondary }) {
               <div className={getClass(MajorArticleCardStyles.articleBlurMask)} />
               <div className={getClass(MajorArticleCardStyles.articleOverlay)}>
                   <div className={getClass(MajorArticleCardStyles.articleMeta)}>
-                    <div className={getClass(MajorArticleCardStyles.articleDate)}>{blog.node.frontmatter.date}</div>
+                    <div className={getClass(MajorArticleCardStyles.articleDate)}>{formatDate(blog.node.frontmatter.date)}</div>
                     {/* <Link to={`/${blog.node.fileAbsolutePath.split("/").reverse()[1]}`} className={getClass(MajorArticleCardStyles.articleCategory)}>{blog.node.fileAbsolutePath.split("/").reverse()[1]}</Link> */}
                   </div>
                   <div className={getClass(MajorArticleCardStyles.articleTitle)}>{blog.node.frontmatter.title}</div>

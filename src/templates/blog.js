@@ -25,6 +25,21 @@ export default function Blog(props) {
     }
   }
 
+  function formatDate(dateString) {
+    // Remove ordinal suffixes (st, nd, rd, th) from day numbers
+    const cleaned = dateString.replace(/(\d{1,2})(st|nd|rd|th)/i, "$1")
+
+    // Parse the cleaned string
+    const date = new Date(cleaned)
+
+    // Check for validity
+    if (isNaN(date)) return "Invalid Date"
+
+    const month = date.toLocaleString("en-US", { month: "long" })
+    const year = date.getFullYear()
+    return `${month} ${year}`
+  }
+
   return (
     <Layout page={articleType} articleTitle={articleTitle}>
       <article className={blogTemplateStyles.blog}>
@@ -33,7 +48,7 @@ export default function Blog(props) {
         </figure>
         <div className={blogTemplateStyles.blog__info}>
           <h1>{data.frontmatter.title}</h1>
-          <h3>{data.frontmatter.date}</h3>
+          <h3>{formatDate(data.frontmatter.date)}</h3>
         </div>
         <div
           className={blogTemplateStyles.blog__body}
